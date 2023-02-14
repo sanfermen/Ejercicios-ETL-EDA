@@ -1,0 +1,1670 @@
+,year,type,country,activity,age,species,month,fatal,gender
+0,2018,Boating,usa,Paddling,57,White shark,Jun,N,F
+1,2018,Unprovoked,brazil,Swimming,18,Tiger shark,Jun,Y,M
+2,2018,Unprovoked,usa,Walking,15,"Bull shark, 6'",May,N,M
+3,2018,Provoked,australia,Feeding sharks,32,Grey reef shark,May,N,M
+4,2018,Invalid,england,Fishing,21,Invalid incident,May,N,M
+5,2018,Unprovoked,costa rica,Scuba diving,30,Tiger shark,Apr,N,M
+6,2018,Unprovoked,australia,Surfing,60,3 m shark,Apr,N,M
+7,2018,Unprovoked,maldives,Fishing,32,Tiger shark,Apr,N,M
+8,2018,Unprovoked,south africa,Paddle-skiing,33,"White shark, 2.5 m",Apr,N,M
+9,2018,Unprovoked,south africa,Surfing,19,White shark,Apr,N,M
+10,2018,Unprovoked,usa,Stand-Up Paddleboarding,25,"Tiger shark, 12'",Mar,N,M
+11,2018,Unprovoked,australia,Wading,10,Wobbegong shark,Mar,N,M
+12,2018,Unprovoked,australia,Swimming,69,3.5 m shark,Mar,N,M
+13,2018,Unprovoked,australia,Surfing,18,1.8 m shark,Mar,N,M
+14,2018,Unprovoked,australia,Swimming,55,"Juvenile white shark,  2.7 to 3.2 m",Feb,N,F
+15,2018,Unprovoked,australia,Walking,35,"Bull shark, 2 m",Feb,N,M
+16,2018,Unprovoked,brazil,Surfing,20,small shark,Jan,N,M
+17,2017,Unprovoked,usa,Surfing,54,Tiger shark,Dec,N,F
+18,2017,Unprovoked,usa,Spearfishing,25,"White shark, 4.6 m",Nov,N,M
+19,2017,Unprovoked,australia,Surfing,25,2 m shark,Nov,N,M
+20,2017,Unprovoked,cuba,Night bathing,22,Tiger shark,Nov,Y,M
+21,2017,Unprovoked,australia,Surfing,31,"Wobbegong shark, 1 m",Oct,N,M
+22,2017,Unprovoked,australia,Kayaking / Fishing,15,"White shark, 4.5 m",Oct,N,F
+23,2017,Unprovoked,usa,Surfing,54,"Tiger shark, 8 to 10 feet",Oct,N,M
+24,2017,Unprovoked,usa,Snorkeling,40,8' shark,Oct,N,F
+25,2017,Invalid,usa,Surfing,33,Questionable,Sep,,M
+26,2017,Unprovoked,usa,Surfing,18,5' to 6' shark,Sep,N,M
+27,2017,Unprovoked,australia,Surfing,35,"White shark, 3 to 3.5m ",Sep,N,M
+28,2017,Unprovoked,australia,Surfing,37,"White shark, 3 m",Aug,N,M
+29,2017,Invalid,spain,Swimming,11,Shark involvement questionable,Aug,,F
+30,2017,Unprovoked,usa,SUP,69,"White shark, 5' to 7'",Aug,N,M
+31,2017,Unprovoked,usa,Swimming,13,Possibly a juvenile blacktip shark,Aug,N,M
+32,2017,Provoked,usa,Fishing,34,4' shark,Aug,N,M
+33,2017,Invalid,usa,Swimming,10,A small shark,Jul,,M
+34,2017,Boating,usa,Kayaking,40,"White shark, 11' to 13'",Jul,N,M
+35,2017,Unprovoked,usa,SUP,50,"White shark, 8' to 10'",Jul,N,M
+36,2017,Unprovoked,usa,Swimming,46,"Bull shark, 4' to 5'",Jul,N,M
+37,2017,Unprovoked,south africa,Surfing,13,"White shark, 2.5 m",Jul,N,F
+38,2017,Unprovoked,australia,Body boarding,48,"White shark, 4 m",Jun,N,M
+39,2017,Unprovoked,bahamas,Snorkeling,32,Tiger shark,Jun,N,F
+40,2017,Invalid,usa,Surfing,18,Shark involvement highly doubtful,May,,F
+41,2017,Unprovoked,australia,Surfing,17,White shark,Apr,Y,F
+42,2017,Unprovoked,usa,Surfing,28,"Tiger shark, 12'",Apr,N,M
+43,2017,Unprovoked,usa,Swimming,17,"Bull shark, 5' to 7'",Apr,N,F
+44,2017,Unprovoked,australia,Scuba Diving,55,"Bull shark, 4 m",Jan,N,M
+45,2017,Unprovoked,indonesia,Surfing,48,"Bull shark, 1 m",Jan,N,M
+46,2017,Invalid,australia,Wading,20,Shark involvement not confirmed,Jan,,M
+47,2016,Unprovoked,south africa,Surf skiing ,55,"White shark, 4 m",Dec,N,M
+48,2016,Invalid,usa,Surfing,19,Shark involvement not confirmed,Dec,,M
+49,2016,Provoked,australia,Surf fishing,20,"Wobbegong shark, 2m",Dec,N,M
+50,2016,Unprovoked,australia,Surfing,65,White shark,Dec,N,M
+51,2016,Provoked,australia,Fishing,73,"Broadnose sevengill shark, 1.5 m",Nov,N,M
+52,2016,Unprovoked,usa,Floating,58,Tiger shark,Nov,N,F
+53,2016,Unprovoked,usa,Surfing,36, 6' to 8' shark,Oct,N,M
+54,2016,Unprovoked,australia,Surfing,17,"White shark, 3.5 m",Sep,N,M
+55,2016,Unprovoked,usa,Wading,60s,3' to 4' shark,Sep,N,M
+56,2016,Unprovoked,usa,Swimming,51,"Tiger shark, 10'",Sep,N,F
+57,2016,Unprovoked,usa,Surfing,25,"Bull shark, 6'",Aug,N,M
+58,2016,Unprovoked,usa,SUP Foil boarding,21,"Tiger shark, 10' ",Aug,N,M
+59,2016,Unprovoked,spain,Swimming,40,Blue shark,Jul,N,M
+60,2016,Provoked,australia,Fishing,31,"reef shark, 1m",Jul,N,M
+61,2016,Unprovoked,usa,Kite surfing,61,"White shark, 10' to 12'",Jul,N,M
+62,2016,Provoked,usa,Fishing,59,dogfish shark,Jul,N,M
+63,2016,Provoked,australia,Fishing,34,Tawny nurse shark,Jul,N,M
+64,2016,Unprovoked,usa,Floating,42,3' to 5' shark,Jun,N,M
+65,2016,Unprovoked,usa,Floating in tube,6,3' to 4' shark,Jun,N,F
+66,2016,Unprovoked,usa,Standing,19,3' shark,Jun,N,M
+67,2016,Invalid,usa,Surfing,27,Said to involve an 8' shark but more likely damage caused by debris,Jun,,M
+68,2016,Unprovoked,australia,Diving,60,3+ m shark,Jun,Y,F
+69,2016,Unprovoked,egypt,Swimming,23,Mako shark,Jun,N,M
+70,2016,Unprovoked,australia,Surfing,29,White shark,May,Y,M
+71,2016,Unprovoked,usa,Swimming,13,5' shark,May,N,M
+72,2016,Unprovoked,usa,Swimming,22,"Bull shark, 4' to 5'",May,N,F
+73,2016,Unprovoked,usa,Swimming,48,"Blacktip shark, 4'",May,N,M
+74,2016,Provoked,usa,Teasing a shark,23,"Nurse shark, 2'",May,N,F
+75,2016,Provoked,new zealand,Fishing,39,"Mako shark, 1.5 m [5'] ",May,N,M
+76,2016,Unprovoked,indonesia,Surfing,24,"Bull shark, 6'",Apr,N,M
+77,2016,Unprovoked,australia,Swimming,12,Wobbegong shark,Apr,N,M
+78,2016,Provoked,french polynesia,Spearfishing,22,"Grey reef shark, 2 m",Apr,,M
+79,2016,Provoked,french polynesia,Spearfishing,26,"Grey reef shark, 2 m",Apr,N,M
+80,2016,Unprovoked,new caledonia,Walking,69,"Tiger shark, 2.5 m",Apr,Y,F
+81,2016,Unprovoked,usa,Paddle boarding,48,"Tiger shark, 14'",Jan,N,M
+82,2016,Unprovoked,australia,Wading,11,Blacktip shark,Jan,N,M
+83,2016,Unprovoked,australia,Spearfishing,31,3 m shark,Jan,N,M
+84,2015,Unprovoked,usa,Paddle boarding,71,9' shark,Dec,N,M
+85,2015,Unprovoked,australia,Surfing,43,"Bronze whaler shark, 6'",Dec,N,M
+86,2015,Unprovoked,ecuador,Snorkeling,55,Galapagos shark,Nov,N,M
+87,2015,Unprovoked,australia,Surfing,20,"Bull shark, 2.8 to 3.1 m",Nov,N,M
+88,2015,Invalid,usa,Surfing,9,Shark involvement not confirmed,Nov,,F
+89,2015,Unprovoked,usa,Wading,28,3' to 5' shark,Nov,N,F
+90,2015,Unprovoked,south africa,Surfing,42,"White shark, 3 to 3.5m ",Oct,N,M
+91,2015,Unprovoked,usa,Surfing,21,5' shark,Oct,N,M
+92,2015,Unprovoked,usa,Surfing,21,"Spinner shark, 5'",Oct,N,M
+93,2015,Invalid,usa,Surfing,32,No shark involvement,Oct,,M
+94,2015,Unprovoked,usa,Swimming,44,"Tiger shark, 7'",Oct,N,M
+95,2015,Unprovoked,usa,Surfing,25,"Tiger shark, 13' ",Oct,N,M
+96,2015,Unprovoked,usa,Wading,13,4' to 5' shark,Oct,N,M
+97,2015,Unprovoked,usa,Surfing,14,"Blacktip shark, 4' to 5'",Oct,N,M
+98,2015,Unprovoked,usa,Surfing,22,"Blacktip shark, 5' to 6'",Sep,N,M
+99,2015,Unprovoked,usa,Surfing,14,juvenile shark,Sep,N,M
+100,2015,Unprovoked,usa,Spearfishing,27,"Tiger shark, 13'",Sep,N,M
+101,2015,Unprovoked,usa,Wading,12,4' shark,Sep,N,M
+102,2015,Unprovoked,australia,Surfing,42,6' shark,Sep,N,M
+103,2015,Unprovoked,usa,Stand-Up Paddleboarding,50,"White shark, 11' to 12'",Sep,N,F
+104,2015,Provoked,usa,Kayak Fishing,29,Hammerhead shark.,Sep,N,M
+105,2015,Unprovoked,australia,Surf-skiing,62,"White shark, 2.5 m",Sep,N,M
+106,2015,Unprovoked,thailand,Wading,37,small shark,Sep,N,F
+107,2015,Unprovoked,usa,Surfing,54,"White shark, 11' to 12'",Aug,N,F
+108,2015,Unprovoked,usa,Surfing,21,"White shark, 10' to 12' ",Aug,N,M
+109,2015,Unprovoked,usa,Surfing,15,4' shark,Aug,N,M
+110,2015,Unprovoked,usa,Walking,10,3' shark,Aug,N,F
+111,2015,Boating,usa,Kayak Fishing,22,"White shark, 13'",Aug,N,M
+112,2015,Invalid,spain,Swimming,10,Shark involvement not confirmed,Aug,,M
+113,2015,Provoked,usa,Spearfishing,57,Hammerhead shark. 6' to 7',Aug,N,M
+114,2015,Unprovoked,australia,Surfing,52,White shark,Jul,N,M
+115,2015,Unprovoked,usa,Surfing,25,"Blacktip or spinner shark, 4'",Jul,N,M
+116,2015,Invalid,usa,Floating,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",Jul,,F
+117,2015,Unprovoked,australia,Scallop diving on hookah,46,"White shark, 3.9 to 4.2 m",Jul,Y,M
+118,2015,Unprovoked,usa,Surfing,38,"White shark, 7'",Jul,N,M
+120,2015,Unprovoked,australia,Body boarding ,32,White shark,Jul,N,M
+121,2015,Unprovoked,usa,Swimming,68,6' to 7' shark,Jul,N,M
+122,2015,Unprovoked,usa,Playing in the water,12,4' to 5' shark,Jun,N,M
+123,2015,Unprovoked,usa,Swimming,18,Bull shark,Jun,N,M
+124,2015,Unprovoked,south africa,Body Boarding,19,White shark,Jun,N,M
+125,2015,Unprovoked,south africa,Surfing,23,"White shark, 2m to 3 m",Jun,N,M
+126,2015,Unprovoked,usa,Standing,43,4' shark,Jun,N,M
+127,2015,Unprovoked,usa,Swimming,6,Sandtiger shark,Jun,N,M
+128,2015,Invalid,australia,Surfing,37,White shark,Jun,N,F
+129,2015,Unprovoked,usa,Wading,16,Bull shark,Jun,N,M
+130,2015,Unprovoked,usa,Wading,12,Bull shark,Jun,N,F
+131,2015,Unprovoked,usa,Boogie boarding,13,4' shark,Jun,N,F
+132,2015,Unprovoked,usa,Playing,11,"Bull shark, 5'",Jun,N,M
+133,2015,Unprovoked,reunion,Surfing,47,"Bull shark, 2.5 m",Jun,N,M
+134,2015,Unprovoked,french polynesia,Spearfishing,19,1m to 1.2 m shark,May,N,M
+135,2015,Unprovoked,usa,Surfing,18,5' shark,,N,M
+136,2015,Unprovoked,south africa,Diving,29,"White shark, 3.5 m",May,N,M
+137,2015,Unprovoked,usa,Wading,63,3- to 4-foot shark,Apr,N,M
+138,2015,Unprovoked,australia,Surfing,26,"White shark, 6 m",Apr,N,M
+139,2015,Unprovoked,australia,Surf skiing ,71,"White shark, 3 m",Jun,N,M
+140,2015,Unprovoked,reunion,Surfing,13,Bull shark,Apr,Y,M
+141,2015,Unprovoked,usa,Spearfishing,70,Bull shark,Apr,N,M
+142,2015,Invalid,brazil,Surfing,23,No shark involvement,Mar,,M
+143,2015,Unprovoked,usa,Standing / Snorkeling,58,"Tiger shark, 8 to 12 feet",Mar,N,M
+144,2015,Unprovoked,french polynesia,Hand feeding sharks,9,Blacktip shark,Mar,N,M
+145,2015,Unprovoked,reunion,Swimming,22,"Tiger shark, 3.5 m",Feb,Y,F
+146,2015,Unprovoked,australia,Surfing,41,3.5 to 4 m shark,Feb,Y,M
+147,2015,Unprovoked,australia,Surfing,35,2 m to  3 m shark,Feb,N,M
+148,2015,Boating,australia,Rowing,57,"Bull shark, 1.3 m",Jan,N,M
+149,2015,Provoked,usa,Shark fishing,20,4' shark,Jan,N,M
+150,2015,Unprovoked,bahamas,Snorkeling,34,White shark or oceanic whitetip shark,Jan,N,F
+151,2015,Unprovoked,south africa,Surfing,15,"Raggedtooth shark, 1.3 m",Jan,N,M
+152,2014,Unprovoked,australia,Spearfishing,17,"White shark, 4 to 5 m",Dec,Y,M
+153,2014,Unprovoked,usa,Surfing,50,"White shark, 8' to 10'",Dec,N,M
+154,2014,Provoked,australia,Fishing,40s,1.5 m shark,Dec,N,M
+155,2014,Unprovoked,australia,Spearfishing,17,Tiger shark,Dec,Y,M
+156,2014,Unprovoked,usa,Surfing,44,2' shark,Nov,N,M
+157,2014,Unprovoked,usa,Snorkeling,53,1.5 m shark,Nov,N,M
+158,2014,Unprovoked,usa,Surfing,34,"Tiger shark, 12'",Oct,N,F
+159,2014,Unprovoked,australia,Surfing,13,1 m shark,Oct,N,F
+160,2014,Unprovoked,usa,Surfing,29,Blacktip shark,Oct,N,M
+161,2014,Unprovoked,usa,Surfing,15,Blacktip shark,Oct,N,M
+162,2014,Unprovoked,usa,Surfing,28,8' to 10' shark,Oct,N,M
+163,2014,Unprovoked,australia,Surfing,23,"2 white shark: 13' & 9""8""",Oct,N,M
+164,2014,Unprovoked,australia,Swimming,50,7' shark,Sep,Y,M
+165,2014,Unprovoked,usa,Fishing ,43,Bull shark,Sep,N,M
+166,2014,Boating,usa,Kayaking ,20s,"White shark, 12' to 14'",Sep,N,F
+167,2014,Provoked,usa,Fishing,52,3' to 4' shark,Sep,N,M
+168,2014,Unprovoked,usa,Body surfing,13,Spinner shark,Aug,N,F
+169,2014,Unprovoked,usa,Swimming,7," Bull shark, 5'",Aug,N,M
+170,2014,Unprovoked,usa,Boogie boarding,10,4' tp 5' shark,Aug,N,M
+171,2014,Unprovoked,south africa,Surfing,20,White shark,Aug,N,M
+172,2014,Unprovoked,usa,Swimming,61,6' to 8' shark,Jul,N,M
+173,2014,Unprovoked,usa,Swimming,39,4' shark,Jul,N,M
+174,2014,Invalid,bahamas,Shark diving,63,Shark involvement not confirmed,Jul,,M
+175,2014,Unprovoked,usa,Body surfing,19,4' to 5' shark,Jul,N,M
+176,2014,Unprovoked,usa,Standing,16," Sandbar shark, 3' to 4'",Jun,N,M
+177,2014,Unprovoked,australia,Body boarding,39,"Bronze whaler shark, 1.5m",Jun,N,M
+178,2014,Unprovoked,usa,Swimming,22,Bull shark,Jun,N,F
+179,2014,Unprovoked,australia,Surfing,35," white shark, 15' ",May,N,M
+180,2014,Unprovoked,usa,Swimming,40,4' to 5' shark,May,N,F
+181,2014,Unprovoked,usa,Surfing,23,3' shark,May,N,M
+182,2014,Unprovoked,australia,Swimming,63,3 m to 4 m white shark,Apr,Y,F
+183,2014,Invalid,australia,Diving for lobsters,38,Shark involvement prior to death not confirmed,Mar,,M
+184,2014,Unprovoked,south africa,Swimming,66,2 m shark,Mar,Y,M
+185,2014,Unprovoked,french polynesia,Kitesurfing,21,Blacktip reef shark ,Feb,N,M
+186,2014,Unprovoked,new zealand,Surfing,28,7-gill shark?,Feb,N,M
+187,2013,Unprovoked,new caledonia,Snorkeling,37,Reported to involve a bull shark,Dec,N,M
+188,2013,Unprovoked,south africa,Surfing,19,"White shark, 3m ",Dec,N,M
+189,2013,Unprovoked,usa,Boogie boarding,29,"Tiger shark, 10' to 12'",Dec,N,M
+190,2013,Unprovoked,usa,Surfing,30,4' to 6' shark,Dec,N,M
+191,2013,Unprovoked,australia,Surfing,26," Wobbegong shark, 1.6 to 1.8m ",Dec,N,M
+192,2013,Unprovoked,australia,Body boarding,19,"Tiger shark, 3m ",Nov,Y,M
+193,2013,Unprovoked,australia,Surfing,35,Thought to involve a white shark,Nov,Y,M
+194,2013,Unprovoked,usa,Surfing,25,"White shark, 10 '",Nov,N,M
+195,2013,Unprovoked,usa,Kiteboarding,46,Tiger shark,Oct,N,M
+196,2013,Unprovoked,australia,Snorkeling,60,"Blacktip reef shark, 1m",Oct,N,F
+197,2013,Unprovoked,reunion,Body boarding,24,Thought to involve a bull shark,Oct,N,M
+198,2013,Unprovoked,australia,Surfing,41,Wobbegong shark,Oct,N,M
+199,2013,Unprovoked,usa,Diving ,45,"Whitetip reef shark, 4' to 6'",Oct,N,M
+200,2013,Unprovoked,usa,Surfing,25,Tiger shark,Oct,N,M
+201,2013,Unprovoked,usa,Wading,6,Nurse shark?,Oct,N,M
+202,2013,Unprovoked,south africa,Swimming / snorkeling,74,White shark,Oct,Y,M
+203,2013,Unprovoked,australia,Diving for Abalone,55,White shark,Oct,N,M
+204,2013,Unprovoked,usa,Surfing,45,"White shark, 8' to 10'",Oct,N,M
+205,2013,Unprovoked,usa,Swimming,21,Bull shark,Sep,N,M
+206,2013,Unprovoked,usa,Surfing,13,3' shark,Sep,N,F
+207,2013,Provoked,usa,Surfing,43,3' shark,Sep,N,M
+208,2013,Unprovoked,usa,Standing,25,3' shark,Sep,N,M
+209,2013,Unprovoked,usa,Casting a net,9,4' shark,Sep,N,M
+210,2013,Unprovoked,usa,Snorkeling,20,Tiger shark?,Aug,Y,F
+211,2013,Unprovoked,usa,Surfing,10,"Bull shark, 8'",Aug,N,M
+212,2013,Unprovoked,usa,Fishing,17,"Bull shark, 6' to 8'",Aug,N,M
+213,2013,Unprovoked,bahamas,Spearfishing,40,6' shark,Jul,N,M
+214,2013,Unprovoked,usa,Surfing,18,"Tiger shark, 8' to 10' ",Jul,N,M
+215,2013,Unprovoked,bahamas,Cleaning fish,64,Nurse shark,Jul,N,M
+216,2013,Unprovoked,usa,Swimming,14,4' to 5' shark,Jun,N,M
+217,2013,Unprovoked,usa,Swimming,28,"Tiger shark, 14'",Jun,N,M
+218,2013,Unprovoked,usa,Boogie Boarding,10,4' to 5' shark,Jun,N,F
+219,2013,Unprovoked,ecuador,Surfing,29,Galapagos shark,May,N,M
+220,2013,Unprovoked,reunion,Body boarding,36,Bull shark,May,Y,M
+221,2013,Unprovoked,usa,Surfing,16,a small shark,May,N,M
+222,2013,Unprovoked,mexico,Swimming,34,Tiger shark,Apr,N,F
+223,2013,Unprovoked,australia,Fishing,51,"Grey nurse shark, 3m",Apr,N,M
+224,2013,Unprovoked,usa,Playing in the surf,9,3' shark,Apr,N,M
+225,2013,Unprovoked,usa,Surfing,21,Bull shark,Apr,N,M
+226,2013,Unprovoked,french polynesia,Kite boarding,53,Possibly a blacktip reef shark,Apr,N,M
+227,2013,Unprovoked,usa,Surfing,58,4' shark,Apr,N,M
+228,2013,Provoked,south africa,Fishing - 'tag & release',30,"Raggedtooth shark, 1.5 m",Mar,N,M
+229,2013,Unprovoked,jamaica,Spearfishing,68,"Tiger shark, 4.8 m",Mar,Y,M
+230,2013,Unprovoked,australia,Spearfishing,28,"Bronze whaler shark, 2.5m",Mar,N,M
+231,2013,Unprovoked,new zealand,Swimming,46,"White shark, 4m",Feb,Y,M
+232,2013,Unprovoked,usa,Surfing,16,"Blacktip shark, 4' to 5'",Feb,N,M
+233,2013,Unprovoked,french polynesia,Scuba diving,48,Lemon shark,Feb,N,M
+234,2013,Unprovoked,usa,Surfing,43,"Tiger shark, 15'",Jan,N,M
+235,2012,Unprovoked,australia,Surfing,23,2.5 m shark,Dec,N,M
+236,2012,Unprovoked,australia,Paddle boarding,29,"Bull shark, 2m ",Dec,N,M
+237,2012,Unprovoked,australia,Surfing,32,"Tiger shark, 6'",Dec,N,M
+238,2012,Unprovoked,usa,Surfing,60,10' shark,Dec,N,M
+239,2012,Unprovoked,australia,Spearfishing,31,Sandtiger shark,Dec,N,M
+240,2012,Unprovoked,usa,Snorkeling,61,"Tiger shark, 10'",Nov,N,M
+241,2012,Unprovoked,mexico,Swimming,32,2.5 m shark,Nov,Y,M
+242,2012,Unprovoked,usa,Surfing,14,2' to 3' shark,Nov,N,M
+243,2012,Unprovoked,usa,Diving,30,"Tiger shark, 15'",Nov,N,M
+244,2012,Unprovoked,usa,Surfing,43,"Tiger shark, 8'",Nov,N,M
+245,2012,Unprovoked,usa,Surfing,25,White shark,Oct,N,M
+246,2012,Unprovoked,usa,Swimming,51,"Tiger shark, 10' to 12' ",Oct,N,F
+247,2012,Unprovoked,usa,Surfing,39,"White shark, 15' to 16' ",Oct,Y,M
+248,2012,Unprovoked,usa,Paddle boarding,55,6' to 8' shark,Oct,N,M
+249,2012,Unprovoked,australia,Bodyboarding,11,2m shark,Oct,N,M
+250,2012,Unprovoked,usa,Surfing,21,5' shark,Sep,N,M
+251,2012,Unprovoked,usa,Surfing,22,4' shark,Sep,N,M
+252,2012,Unprovoked,usa,Boogie boarding,8,3.5' to 4' shark,Sep,N,F
+253,2012,Unprovoked,usa,Swimming or boogie boarding,56,3.5' to 4' shark,Sep,N,F
+254,2012,Unprovoked,usa,Free diving ,56,"Lemon shark, 4' to 5' ",Aug,N,M
+255,2012,Unprovoked,australia,Surfing,48,White shark or bronze whaler,Jul,N,M
+256,2012,Unprovoked,usa,Body surfing,50,Thought to involve a white shark,Jul,N,M
+257,2012,Unprovoked,australia,Surfing,24,"White shark, 5m",Jul,Y,M
+258,2012,Boating,usa,Kayaking,52,14' to 18'shark,Jul,N,M
+259,2012,Unprovoked,south africa,Surfing,29,15' shark,Jul,N,M
+260,2012,Unprovoked,usa,Swimming,6,possibly a bull shark,Jun,N,M
+261,2012,Unprovoked,usa,Sitting in the water,16,a small reef shark,Jun,N,F
+262,2012,Unprovoked,australia,Surf skiing ,62,3 m shark,Jun,N,M
+263,2012,Provoked,usa,Fishing,23,Nurse shark,Jun,N,M
+264,2012,Unprovoked,usa,Swimming,18,small blacktip shark?,Jun,N,F
+265,2012,Unprovoked,usa,Swimming,16,Blacktip shark ,Jun,N,M
+266,2012,Unprovoked,australia,Surfing,42,1.5 m shark,Jun,N,M
+267,2012,Provoked,italy,Attempting to rescue an injured & beached shark,57,"Blue shark, 2.5m",Jun,,M
+268,2012,Unprovoked,australia,Surf skiing ,30,"White shark, 2 m",Jun,N,M
+269,2012,Unprovoked,usa,Wading,33,"18"" to 24"" shark",May,N,F
+270,2012,Unprovoked,mexico,Free diving / spearfishing,46,"Bull shark, 3m",May,N,M
+271,2012,Unprovoked,usa,Surfing,22,4' to 5' shark,May,N,M
+272,2012,Boating,usa,Kayaking / Fishing,30,White shark,May,N,M
+273,2012,Unprovoked,usa,Paddle boarding,15,White shark,May,N,F
+274,2012,Unprovoked,usa,Surfing,28,5' shark,Apr,N,M
+275,2012,Unprovoked,south africa,Body boarding,20,"White shark, 4 m to 5m ",Apr,Y,M
+276,2012,Unprovoked,usa,Surfing,28,"Tiger shark, 10'  ",Apr,N,M
+277,2012,Unprovoked,australia,Scuba diving,33,"White shark, 4m ",Mar,Y,M
+278,2012,Unprovoked,australia,Surfing,20,Possibly a bull shark,Mar,N,M
+279,2012,Unprovoked,usa,Surfing,61,Possibly a 5' to 6' bull shark,Mar,N,M
+280,2012,Unprovoked,usa,Surfing,15,4' to 5' shark,Mar,N,F
+281,2012,Unprovoked,usa,Surfing,17,4' to 5' shark,Mar,N,M
+282,2012,Provoked,australia,"Diving, feeding sharks",34,"Tawny nurse shark, 40cm",Mar,N,F
+283,2012,Unprovoked,usa,Kite Surfing,19,4' shark,Mar,N,M
+284,2012,Unprovoked,australia,Snorkeling,26,"Tiger shark, 3m",Jan,N,M
+285,2012,Unprovoked,australia,Surfing,44,"White shark, 2.7 m",Jan,N,M
+286,2012,Unprovoked,south africa,Swimming,25,Thought to involve a bull shark,Jan,Y,M
+287,2012,Unprovoked,australia,Surfing,28,2 m shark,Jan,N,M
+288,2012,Unprovoked,australia,Spearfishing,34,Allegedly a 4 m tiger shark,Jan,N,M
+289,2011,Unprovoked,australia,Surfing,51,"White shark, 2.5m",Dec,N,M
+290,2011,Unprovoked,australia,Swimming,10,Wobbegong shark?,Nov,N,M
+291,2011,Unprovoked,australia,Diving,32,"White shark, 10'",Oct,Y,M
+292,2011,Unprovoked,australia,Diving,50,"Port Jackson shark, 1m",Oct,N,M
+293,2011,Invalid,usa,Surfing,27,No shark involvement,Sep,,M
+294,2011,Unprovoked,south africa,Swimming,43,White shark,Sep,N,M
+295,2011,Unprovoked,usa,Spearfishing,21,"Bull shark, 6'",Sep,N,M
+296,2011,Unprovoked,usa,Surfing,25,4' to 6' shark,Sep,N,M
+297,2011,Unprovoked,papua new guinea,Kite Surfing,30,"Tiger shark, 2m",Sep,N,M
+298,2011,Unprovoked,australia,Body boarding,21,White shark,Sep,Y,M
+299,2011,Unprovoked,usa,Surfing,19,"6' shark, possibly a blactip or spinner shark",Sep,N,M
+300,2011,Unprovoked,usa,Surfing,19,6' shark,Aug,N,M
+301,2011,Invalid,australia,Swimming,48,Shark involvement prior to death not confirmed,Aug,,M
+302,2011,Unprovoked,south africa,Surfing,49,"White shark, >6'",Aug,Y,M
+303,2011,Unprovoked,usa,Wading,20s,Possibly a 5' to 6' sandtiger shark,Aug,N,F
+304,2011,Unprovoked,russia,Swimming,25,4 m shark,Aug,N,M
+305,2011,Unprovoked,french polynesia,Surfing,32,Grey reef shark ,Aug,N,M
+306,2011,Unprovoked,seychelles,Swimming or Snorkeling,30,"Bull shark, 6'",Aug,Y,M
+307,2011,Unprovoked,south africa,Surfing,29,"White shark, 3m to 4m",Jul,N,M
+308,2011,Unprovoked,south africa,Scuba diving,22,"Bull shark, 3m female",Jun,N,M
+309,2011,Unprovoked,usa,Playing in the surf,10,"Bull shark, 6'",Jun,N,F
+310,2011,Unprovoked,usa,Scuba diving,28,"Blacktip shark, 4'",Jun,N,M
+311,2011,Unprovoked,usa,Wading,19,3' to 4' shark,Jun,N,M
+312,2011,Unprovoked,south africa,Spearfishing,28,Zambesi shark,May,Y,M
+313,2011,Unprovoked,new caledonia,Kite Boarding,15," Tiger shark, 2.8m",May,Y,M
+314,2011,Unprovoked,australia,Washing sand off a speared fish,17,"reef shark, 1.5m",Apr,N,M
+315,2011,Unprovoked,usa,Surfing ,49,1' to 2' shark,Apr,N,M
+316,2011,Unprovoked,new zealand,Surfing,41,possibly a bronze whaler shark,Apr,N,M
+317,2011,Unprovoked,australia,Surfing,48,"Bull shark, 2.5m",Mar,N,M
+318,2011,Unprovoked,australia,Wakeboarding,24,3 m to 4 m shark,Mar,N,F
+319,2011,Provoked,australia,Fishing,36,"Bull shark, 2m",Feb,N,M
+320,2011,Unprovoked,new caledonia,Spearfishing,21,1.5 m shark,Feb,N,M
+321,2011,Unprovoked,australia,Diving for abalone,49,White shark x 2,Feb,Y,M
+322,2011,Unprovoked,mexico,Swimming,38,6' shark,Jan,N,F
+323,2011,Unprovoked,bahamas,Scuba diving,55,Caribbean reef shark,Jan,N,M
+324,2011,Invalid,australia,Swimming,7,Shark involvement not confirmed,Jan,,F
+325,2010,Unprovoked,usa,Body boarding,16,6' shark,Dec,N,M
+326,2010,Unprovoked,egypt,Snorkeling,70,"Oceanic whitetip shark, 2.5m ",Dec,Y,F
+327,2010,Unprovoked,egypt,Snorkeling,54,Mako shark ,Dec,N,M
+328,2010,Unprovoked,egypt,Snorkeling,46,Mako shark,Dec,N,M
+329,2010,Unprovoked,egypt,Snorkeling,70,"Oceanic whitetip shark, 2.5m, female",Nov,N,F
+330,2010,Unprovoked,egypt,Snorkeling,48,"Oceanic whitetip shark, 2.5m, female",Nov,N,F
+331,2010,Unprovoked,australia,Snorkeling,20,White shark,Oct,N,F
+332,2010,Unprovoked,usa,Scuba diving,30,"Porbeagle shark, 8' ",Oct,N,M
+333,2010,Unprovoked,usa,Body boarding,19,"White shark, 14' to 18' ",Oct,Y,M
+334,2010,Unprovoked,australia,Surfing,22,"Bull shark, 1.4m ",Oct,N,M
+335,2010,Unprovoked,usa,Surfing,29,White shark,Sep,N,M
+336,2010,Unprovoked,australia,Surfing,15,2m shark,Sep,N,M
+337,2010,Unprovoked,australia,Surfing,31,White shark,Aug,Y,M
+338,2010,Unprovoked,usa,Standing,37,3' to 4' shark,Aug,N,F
+339,2010,Unprovoked,usa,Swimming,10,Possibly a small blacktip shark,Jul,N,M
+340,2010,Unprovoked,usa,Swimming,13,"Sandtiger shark, 4' to 5'",Jul,N,F
+341,2010,Provoked,spain,Swimming,9,Angel shark,Jul,N,M
+342,2010,Provoked,usa,Fishing,20,"Blue shark, 7'",Jul,N,M
+343,2010,Unprovoked,usa,Surfing,19,4' shark,Jul,N,M
+344,2010,Unprovoked,usa,Stand-Up Paddleboarding,48,8' shark,Jul,N,M
+345,2010,Unprovoked,vietnam,Swimming,17,1 m shark,Jun,N,M
+346,2010,Unprovoked,usa,Boogie Boarding,18,4' shark,Jun,N,F
+347,2010,Provoked,usa,Fishing,49,"Lemon shark, 4'",May,N,M
+348,2010,Unprovoked,vietnam,Rescuing,58,20 to 30kg shark,May,N,F
+349,2010,Unprovoked,vietnam,Swimming,60,20 to 30kg shark,May,N,F
+350,2010,Unprovoked,usa,Wading,10,4' shark,May,N,F
+351,2010,Provoked,usa,Measuring sharks,29,"Lemon shark, 6'",Apr,N,M
+352,2010,Unprovoked,usa,Surfing,68,14' shark,Apr,N,M
+353,2010,Unprovoked,south africa,Surfing,35,2 m shark,Apr,N,M
+354,2010,Unprovoked,egypt,Swimming / treading water,24,"Oceanic whitetip shark, 6'",Apr,N,M
+355,2010,Unprovoked,reunion,Surfing,34,1.5 m shark,Mar,N,M
+356,2010,Unprovoked,australia,Snorkeling,60,2 m shark,Feb,N,F
+357,2010,Unprovoked,australia,Surfing,46,"Wobbegong shark, 1.6m",Feb,N,M
+358,2010,Unprovoked,australia,Body boarding,18,"White shark, 2.5m",Feb,N,M
+359,2010,Invalid,guam,Spearfishing (free diving),31,Invalid,Feb,,M
+360,2010,Provoked,new zealand,Boogie Boarding,14,1.5 m shark,Feb,N,F
+361,2010,Unprovoked,south africa,Standing,37,White shark,Jan,Y,M
+362,2009,Unprovoked,mozambique,Swimming,27,"Zambesi shark, 2m ",Dec,N,M
+363,2009,Unprovoked,australia,Spearfishing,18,"Bull shark, 3m",Dec,N,M
+364,2009,Provoked,usa,Diving,58,"Sandtiger shark, 8'",Dec,N,M
+365,2009,Invalid,usa,Surfing,49,Shark involvement not confirmed,Nov,,M
+366,2009,Unprovoked,usa,Wading,10,6' shark,Nov,N,M
+367,2009,Unprovoked,usa,Fishing,31,Thresher shark,Nov,N,M
+368,2009,Unprovoked,usa,Surfing,18,4' shark,Nov,N,M
+369,2009,Unprovoked,australia,Kayaking,25,2 m shark,Nov,N,M
+370,2009,Boating,australia,Kayaking,27,"White shark, 4m",Oct,N,M
+371,2009,Unprovoked,usa,Surfing,54,6' to 8' shark,Oct,N,M
+372,2009,Provoked,scotland,Diving,23,Angel shark,Oct,N,M
+373,2009,Provoked,united kingdom,Fishing,39,Spurdog,Oct,N,M
+374,2009,Invalid,usa,Swimming,60,Shark involvement prior to death not confirmed,Sep,Y,M
+375,2009,Unprovoked,south africa,Surfing,25,White shark,Aug,Y,M
+376,2009,Unprovoked,usa,Swimming,22,"White shark, 5' to 6' juvenile ",Aug,N,F
+377,2009,Unprovoked,usa,Wade Fishing,56,Bull shark?,Aug,N,M
+378,2009,Provoked,usa,Swimming,43,"Nurse shark, 6'",Jul,N,F
+379,2009,Unprovoked,australia,Surfing,52,"Thought to involve a Bronze whale shark, 2m",Jun,N,M
+380,2009,Invalid,usa,Crawling,14,"Shark involvement probable, but not confirmed",Jun,,M
+381,2009,Unprovoked,egypt,Snorkeling,50,"Oceanic whitetip shark, 2.5 to 3m",Jun,Y,F
+382,2009,Provoked,taiwan,Fishing,46,80 kg shark,May,N,M
+383,2009,Unprovoked,usa,Surfing,31,blacktip or spinner shark,May,N,M
+384,2009,Unprovoked,usa,Surfing,49,blacktip or spinner shark,May,N,M
+385,2009,Unprovoked,usa,Surfing,55,blacktip or spinner shark,May,N,M
+386,2009,Provoked,guam,Spearfishing,27,"Blacktip shark, 4'",May,N,M
+387,2009,Unprovoked,usa,Surfing,31,2' to 3' shark,Apr,N,M
+388,2009,Unprovoked,australia,Surf skiing ,40,2' to 3' shark,Apr,N,M
+389,2009,Invalid,south africa,Swimming,24,Shark involvement not confirmed,Apr,,M
+390,2009,Unprovoked,australia,Surfing,17,Bronze whaler shark?,Mar,N,M
+391,2009,Unprovoked,usa,Surfing,17,3' to 4' shark,Mar,N,F
+392,2009,Unprovoked,usa,Swimming,61,Thought to involve a cookie cutter shark,Mar,N,M
+393,2009,Provoked,south africa,Fishing,40,"Blue shark, 1m",Mar,N,M
+394,2009,Unprovoked,australia,Surfing,15,2.6 m shark,Mar,N,M
+395,2009,Unprovoked,australia,Surfing,33,"White shark, 2.5m ",Feb,N,M
+396,2009,Unprovoked,australia,"Diving, but on the surface when bitten by the shark",31,"Bull shark, 2.7 m ",Feb,N,M
+397,2009,Unprovoked,australia,Surfing,41,"White shark, 12' ",Feb,N,M
+398,2009,Unprovoked,cuba,Spearfishing,15,Bull shark,Jan,N,M
+399,2009,Unprovoked,south africa,Swimming,25,Tiger shark,Jan,Y,M
+400,2009,Unprovoked,australia,Snorkeling,24,"Dusky shark, 2m",Jan,N,M
+401,2009,Unprovoked,australia,Surfing,13,"White shark, 5m",Jan,N,F
+402,2009,Unprovoked,australia,Surfing,31,"White shark, 3.5m",Jan,N,M
+403,2009,Unprovoked,new zealand,Swimming,49,Broadnose sevengill shark,Jan,N,M
+404,2008,Boating,australia,Kayaking,29,"White shark, 4m to 5m ",Dec,N,M
+405,2008,Unprovoked,australia,Snorkeling,51,4 to 5m white shark,Dec,Y,M
+406,2008,Provoked,south africa,Fishing,15,"Raggedtooth shark, 2m",Dec,N,M
+407,2008,Provoked,australia,Scuba diving,34,"Grey nurse shark, 3m",Oct,N,M
+408,2008,Unprovoked,croatia,Spearfishing,43,5 m white shark,Oct,N,M
+409,2008,Unprovoked,usa,Surfing,40,+3' shark,Sep,N,M
+410,2008,Provoked,australia,Swimming,43,Bronze whaler shark,Sep,N,M
+411,2008,Unprovoked,usa,Surfing,40,Tiger shark,Sep,N,M
+412,2008,Unprovoked,australia,Surfing,51,3 m shark,Sep,N,M
+413,2008,Unprovoked,usa,Surfing,52,4' shark,Sep,N,M
+414,2008,Invalid,usa,Swimming,27,Shark involvement not confirmed,Aug,,M
+415,2008,Unprovoked,usa,Surfing,26,6' shark,Aug,N,M
+416,2008,Invalid,usa,Surfing,20,Shark involvement not confirmed,Aug,,F
+417,2008,Unprovoked,usa,Treading water,38,8' bull shark or Caribbean reef shark,Aug,N,F
+418,2008,Unprovoked,australia,Surfing,31,8' white shark or 7-gill shark,Jul,N,M
+419,2008,Unprovoked,usa,Wading,8,3' to 4' shark,Jul,N,F
+420,2008,Unprovoked,usa,Wading,16,4' shark,Jul,N,M
+421,2008,Invalid,usa,Wading,53,Shark involvement prior to death not confirmed,Jun,,M
+422,2008,Unprovoked,south africa,Surf skiing ,46,"White shark, 2m",Jun,N,M
+423,2008,Unprovoked,usa,Swimming,37,4.5 to 5' shark,Jun,N,M
+424,2008,Boating,usa,Kayaking,40,"White shark, 15'",Jun,N,F
+425,2008,Unprovoked,usa,Body surfing,15,5' shark,Jun,N,F
+426,2008,Unprovoked,brazil,Swimming,14,Bull shark,Jun,N,M
+427,2008,Unprovoked,mexico,Surfing,49,3 m shark,May,N,M
+428,2008,Unprovoked,australia,Swimming,37,"White shark, 4m",May,N,M
+429,2008,Unprovoked,new caledonia,Fishing,40,2 small bull sharks,May,N,M
+430,2008,Unprovoked,mexico,Surfing,24,Tiger shark,Apr,Y,M
+431,2008,Unprovoked,usa,Surfing,18,4' shark,Apr,N,M
+432,2008,Unprovoked,new caledonia,Swimming,32,"Bull shark, 1.8m",Apr,N,M
+433,2008,Unprovoked,usa,Swimming,66,"White shark, 12' to 15'",Apr,Y,M
+434,2008,Invalid,mexico,Swimming,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",Apr,,M
+435,2008,Invalid,australia,Surfing,19,Shark involvement not confirmed; thought to be a barracuda bite,Apr,,M
+436,2008,Unprovoked,usa,Surfing,30,1.5' to 2' shark,Apr,N,M
+437,2008,Unprovoked,australia,Body boarding,16,Bull shark,Apr,Y,M
+438,2008,Unprovoked,usa,Surfing,52,4' to 5' shark,Mar,N,M
+439,2008,Unprovoked,usa,Walking out of the water after surfing,13,2.5' shark,Mar,N,M
+440,2008,Unprovoked,usa,Jet skiing,8,Shark involvement not confirmed,Mar,N,M
+441,2008,Unprovoked,usa,Surfing,27,White shark,Mar,N,M
+442,2008,Unprovoked,bahamas,Diving,49,"A bull shark, according to some of the divers on the boat",Feb,Y,M
+443,2008,Provoked,australia,Accidentally stood on hooked shark's tail before attempting to gut it ,20,"Mako shark, 90kg",Jan,N,M
+444,2007,Unprovoked,australia,Surfing,31,2 m shark,Dec,N,M
+445,2007,Invalid,australia,Swimming,34,Not a shark attack; it was a hoax,Dec,,M
+446,2007,Unprovoked,usa,Surfing,52,Tiger shark,Dec,N,M
+447,2007,Unprovoked,south africa,Surfing,14,1.5 to 2 m shark,Nov,N,M
+448,2007,Unprovoked,usa,Surfing,21,4' to 5' shark,Nov,N,M
+449,2007,Unprovoked,usa,Surfing,42,5' shark,Nov,N,M
+450,2007,Unprovoked,south africa,Surfing,37,"White shark, 3m to 4m",Nov,N,M
+451,2007,Unprovoked,usa,Floating,32,Tiger shark,Oct,N,M
+452,2007,Unprovoked,australia,Surf-skiing,52,"White shark, 2.5m ",Oct,N,F
+453,2007,Unprovoked,australia,Spearfishing,31,Bronze whaler shark,Oct,N,M
+454,2007,Unprovoked,usa,Surfing,22,3' to 4' shark,Oct,N,M
+455,2007,Unprovoked,usa,Surfing,16,"Blacktip shark, 5'",Oct,N,M
+456,2007,Unprovoked,new caledonia,Swimming,23,Tiger shark,Sep,Y,F
+457,2007,Unprovoked,bahamas,Spearfishing,48,Caribbean reef shark,Sep,N,F
+458,2007,Unprovoked,egypt,Swimming,18 or 20,Oceanic whitetip sharks were in the vicinity,Sep,N,F
+459,2007,Unprovoked,usa,Surfing,23,3' shark,Sep,N,M
+460,2007,Unprovoked,usa,Surfing,Teen,9.5' shark?,Sep,N,F
+461,2007,Unprovoked,usa,Snorkeling,14,"Nurse shark, 2' to 3' ",Sep,N,M
+462,2007,Unprovoked,usa,Jumping,12,"18"" to 24"" shark",Sep,N,F
+463,2007,Unprovoked,usa,Swimming,58,Possibly a spinner shark,Sep,N,M
+464,2007,Unprovoked,usa,Body boarding,15,"Tiger shark, 10' to 12' ",Aug,N,M
+465,2007,Unprovoked,usa,Surfing,24,"White shark, 12'",Aug,N,M
+466,2007,Unprovoked,usa,Surfing,54,3' shark,Aug,N,M
+467,2007,Unprovoked,usa,Surfing,27,3' shark,Aug,N,M
+468,2007,Unprovoked,usa,Surfing,16,4' to 5' shark,Aug,N,M
+469,2007,Unprovoked,usa,Floating near boat & observing bioluminesce,20,Possibly a 6' bull shark,Aug,N,M
+470,2007,Unprovoked,usa,Swimming,15, ,Aug,N,F
+471,2007,Unprovoked,usa,Jumped into the water,19,Possibly a 10' bull shark,Aug,N,F
+472,2007,Unprovoked,usa,Snorkeling,36, ,Jul,N,M
+473,2007,Unprovoked,australia,Wading,15,"Bronze whaler shark, 1.5 m ",Jul,N,M
+474,2007,Unprovoked,usa,Swimming,14,2' to 3' shark,Jul,N,M
+475,2007,Invalid,usa,Swimming,43,Shark involvement not confirmed,Jul,,F
+476,2007,Unprovoked,usa,Wading,30,5' shark,Jul,N,F
+477,2007,Unprovoked,bahamas,Spearfishing,48,"Bull shark, 5' ",Jul,N,F
+478,2007,Unprovoked,usa,Surfing,20,4' shark,Jun,N,M
+479,2007,Invalid,usa,Surfing,9,Shark involvement not confirmed,Jun,,F
+480,2007,Provoked,usa,Reviving a sedated shark,40,A 10-year-old 94-pound pregnant blacktip reef shark,May,N,F
+481,2007,Provoked,england,Fishing,38,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length",May,N,M
+482,2007,Unprovoked,australia,Wading,38,2.5 m shark,May,N,F
+483,2007,Unprovoked,australia,Surfing,19,10' shark,May,N,M
+484,2007,Unprovoked,usa,Surfing,21,4' to 5' shark,May,N,F
+485,2007,Invalid,australia,Swimming,45,Shark involvement prior to death was not confirmed,May,,M
+486,2007,Unprovoked,usa,Snorkeling,63,"Tiger shark, 14' ",May,N,F
+487,2007,Unprovoked,usa,Swimming,68,6' to 8' shark,May,N,M
+488,2007,Unprovoked,australia,Swimming / jumping off a jetty,13,"""a small shark""",Apr,N,F
+489,2007,Unprovoked,usa,Body boarding,12,blacktip or spinner shark,Apr,N,M
+490,2007,Unprovoked,usa,Surfing,24,3' to 4' shark,Apr,N,M
+491,2007,Unprovoked,new caledonia,Surfing,26,Tiger shark,Apr,N,M
+492,2007,Unprovoked,usa,Surfing,27,3' shark,Mar,N,M
+493,2007,Unprovoked,usa,Surfing,11,4' to 5' shark,Mar,N,M
+494,2007,Unprovoked,australia,Surfing,42,1.5 m shark,Mar,N,F
+495,2007,Unprovoked,australia,Swimming,59,2 to 2.5 m shark,Mar,N,F
+496,2007,Unprovoked,new caledonia,Spearfishing (free diving),30,Tiger shark,Jan,N,M
+497,2007,Unprovoked,australia,Diving,41,"White shark, 3m",Jan,N,M
+498,2007,Unprovoked,south africa,Swimming / Body Surfing,24,Tiger shark,Jan,Y,M
+499,2007,Invalid,usa,Surfing,54,"24"" to 30"" shark",Jan,,M
+500,2007,Unprovoked,usa,Surfing,24,"6' to 8' shark, possibly a tiger shark",Jan,N,M
+501,2006,Unprovoked,australia,Surfing,25,2.5 to 3 m shark,Dec,N,M
+502,2006,Unprovoked,new zealand,Surfing,10,2 to 3 m shark,Dec,N,M
+503,2006,Unprovoked,usa,Surfing,43,"White shark, 12' to 15' ",Dec,N,M
+504,2006,Provoked,south africa,Fishing,25,"Raggedtooth shark, 150-kg",Dec,N,M
+505,2006,Unprovoked,australia,Body boarding,15,"White shark, 5m ",Dec,N,M
+506,2006,Unprovoked,usa,Swimming,29,2 m to 3 m shark,Nov,N,M
+507,2006,Unprovoked,usa,Surfing,22,"White shark, 16' ",Oct,N,M
+508,2006,Unprovoked,usa,Playing soccer in the water,18,3' to 3.5' shark,Oct,N,M
+509,2006,Unprovoked,usa,Swimming,55,Spinner shark,Sep,N,M
+510,2006,Invalid,australia,Diving,44,No shark involvement,Sep,,M
+511,2006,Unprovoked,usa,Standing,33,3' shark,Sep,N,M
+512,2006,Unprovoked,south africa,Lifesaving drill,24,White shark,Aug,N,M
+513,2006,Unprovoked,usa,Surfing,41,White shark?,Jul,N,M
+514,2006,Unprovoked,south africa,Surf-skiing,19,"White shark, 3m to 4m",Jul,N,M
+515,2006,Unprovoked,usa,Surfing,14, ,Jul,N,M
+516,2006,Unprovoked,usa,Standing,49,"Angel shark, 1.2m ",Jul,N,M
+517,2006,Unprovoked,usa,Body boarding,14,5' to 6' spinner or bull shark,Jul,N,F
+518,2006,Unprovoked,usa,Surfing,22,Possibly a 1' to 3' blacktip or spinner shark,Jun,N,F
+519,2006,Unprovoked,usa,Surfing,24,2' to 3' shark,Jun,N,M
+520,2006,Unprovoked,usa,Playing,7,3' to 4' shark,Jun,N,F
+521,2006,Unprovoked,australia,Surfing,40,14' white shark,Jun,N,M
+522,2006,Unprovoked,usa,Spearfishing,26,"Tiger shark, 8' to 12'",May,N,M
+523,2006,Provoked,usa,Spearfishing,15,"Grey reef shark, 5' to 8' ",May,N,M
+524,2006,Unprovoked,usa,Scuba diving,30s,"Tiger shark, 10' to 12'",May,N,F
+525,2006,Provoked,australia,Snorkeling,46,"Wobbegong shark, 2 m ",May,N,M
+526,2006,Provoked,usa,Fishing,35,"Bull shark, 4' to bull shark",Apr,N,M
+527,2006,Unprovoked,australia,Surfing,15,"Bronze whaler shark, a  juvenile ",Apr,N,M
+528,2006,Unprovoked,south africa,Body boarding,15,"Raggedtooth shark, 2.5 m to 3 m ",Apr,N,M
+529,2006,Unprovoked,brazil,Swimming,35,Tiger shark,Apr,N,M
+530,2006,Unprovoked,usa,Surfing,28,"Tiger shark, 10'  ",Mar,N,F
+531,2006,Unprovoked,fiji,Surfing,21,"Tiger shark, 5' ",Mar,N,M
+532,2006,Unprovoked,australia,Surfing,15,"Bronze whaler shark, 2 m",Mar,N,M
+533,2006,Unprovoked,usa,Standing,15,5' to 7' shark,Feb,N,F
+534,2006,Invalid,usa,Free diving,45,Invalid,Feb,,M
+535,2006,Unprovoked,south africa,Surfing,15,Raggedtooth shark,Feb,N,M
+536,2006,Unprovoked,tonga,Swimming,24,Tiger shark,Feb,Y,F
+537,2006,Boating,usa,Kayaking,57,12' to 18' shark,Feb,N,M
+538,2006,Unprovoked,australia,Scuba diving,52,3.5 m white shark,Jan,N,M
+539,2006,Unprovoked,australia,Swimming,21,Bull shark,Jan,Y,F
+540,2006,Unprovoked,usa,Surfing,21,4' shark,Jan,N,M
+541,2005,Unprovoked,usa,Surfing,30,White shark,Dec,N,M
+542,2005,Unprovoked,usa,Swimming,29,Tiger shark,Dec,N,M
+543,2005,Unprovoked,australia,Spearfishing,44,Whitetip reef shark,Dec,N,M
+544,2005,Unprovoked,usa,Surfing,23,4' shark,Nov,N,M
+545,2005,Unprovoked,australia,Surfing,18,1.8 m shark,Nov,N,M
+546,2005,Unprovoked,usa,Surfing,30s,4' shark,Nov,N,M
+547,2005,Provoked,south africa,Fishing for sharks,32,"Raggedtooth shark, 2.5m ",Nov,N,M
+548,2005,Unprovoked,usa,Surfing,18,6' shark,Nov,N,M
+549,2005,Unprovoked,usa,Surfing,26,12' to 14' white shark,Nov,N,M
+550,2005,Unprovoked,st. maartin,Standing,55,2' shark,Oct,N,M
+551,2005,Unprovoked,south africa,Standing / Surfing,20,3 m shark,Oct,N,M
+552,2005,Unprovoked,usa,Surfing,36,White shark,Oct,N,M
+553,2005,Unprovoked,usa,Surfing,20,18' white shark,Oct,N,F
+554,2005,Unprovoked,usa,Surfing,22,"Tiger shark, less than 10'",Oct,N,M
+555,2005,Unprovoked,grand cayman,Scuba diving,57,Caribbean reef sharks,Oct,N,F
+556,2005,Unprovoked,south africa,Surf-skiing,52,White shark,Oct,N,M
+557,2005,Unprovoked,australia,Surfing,26,14' to 16' white shark,Sep,N,M
+558,2005,Unprovoked,australia,Surfing,44,Bronze whaler shark,Sep,N,M
+559,2005,Unprovoked,usa,Body surfing,68,3' to 4' shark,Sep,N,F
+560,2005,Unprovoked,usa,Wading,18,Bull shark,Sep,N,F
+561,2005,Unprovoked,australia,Surfing,40,4 m [13'] white shark,Sep,N,M
+562,2005,Unprovoked,australia,Scuba diving,23,White shark,Aug,Y,M
+563,2005,Unprovoked,usa,Surfing,37,juvenile white shark,Aug,N,M
+564,2005,Invalid,usa,"Boogie boarding, kicked at object in the water",17,Shark involvement not confirmed,Aug,,M
+565,2005,Unprovoked,usa,Swimming,8,Possibly a sandbar shark or small blacktip shark,Aug,N,M
+566,2005,Unprovoked,usa,Surfing,16,1.8 m [6'] shark,Aug,N,M
+567,2005,Invalid,usa,Surfing,25,Shark involvement not confirmed,Jul,,M
+568,2005,Unprovoked,usa,Swimming,22,[4.5' to 5'] shark,Jul,N,M
+569,2005,Unprovoked,usa,Holding onto an inflatable boat,14,[4' to 5'],Jul,N,F
+570,2005,Unprovoked,usa,Fishing,16,Bull shark,Jun,N,M
+571,2005,Unprovoked,usa,Swimming with boogie board,14,1.8 m [6'] bull shark,Jun,Y,F
+572,2005,Unprovoked,vanuatu,Swimming,7,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha",Jun,Y,F
+573,2005,Invalid,usa,Swimming,49,Invalid,Jun,,M
+574,2005,Unprovoked,usa,Swimming,20,"Unknown, but it was reported that a shark tooth was recovered from the wound",Jun,N,M
+575,2005,Invalid,usa,Surfing,17,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident",Jun,,M
+576,2005,Unprovoked,south africa,Spearfishing (Free diving),22,White shark,Jun,Y,M
+577,2005,Unprovoked,usa,Swimming,33,"""small shark""",May,N,M
+578,2005,Unprovoked,south africa,Surfing,32,Raggedtooth shark,May,N,M
+579,2005,Unprovoked,usa,Surfing,47,"Tiger shark, 3 m [10']",May,N,M
+580,2005,Provoked,australia,Fishing,25,"Mako shark, 1.5 m [5'] ",Apr,N,M
+581,2005,Unprovoked,australia,Surfing,40,Bronze whaler shark,Apr,N,M
+582,2005,Unprovoked,south africa,Surfing,32,4 m [13'] shark,Mar,N,M
+583,2005,Unprovoked,australia,Snorkeling,26,6 m [20'] white shark,Mar,Y,M
+584,2005,Provoked,usa,Diving in aquarium display tank,45,"Sandtiger shark, 2.1 m [7'] ",Mar,N,M
+585,2005,Boating,new zealand,Fishing from a kayak,39,White shark,Jan,N,M
+586,2004,Unprovoked,australia,Scurfing (surfboard being  towed behind a boat),18,4.5 m & 5 m white shark ,Dec,Y,M
+587,2004,Unprovoked,australia,Spearfishing,38,Bull shark,Dec,Y,M
+588,2004,Unprovoked,south africa,Surfing,20,Raggedtooth shark,Nov,N,M
+589,2004,Unprovoked,south africa,Swimming,77,6 m [20'] white shark,Nov,Y,F
+590,2004,Unprovoked,usa,Surfing,38,5.5 m [18'] white shark,Nov,N,F
+591,2004,Unprovoked,cuba,Diving,40,2.5 m [8.25'] bull shark,Oct,N,M
+592,2004,Unprovoked,south africa,Chumming for white sharks,52,2 m [6.75'] white shark,Oct,N,M
+593,2004,Unprovoked,australia,Surfing,59,"Bronze whaler shark, 2.4 m [8'] ",Oct,N,M
+594,2004,Unprovoked,usa,Spearfishing,34,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] ",Oct,N,M
+595,2004,Unprovoked,south africa,Surfing,34,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']",Oct,N,M
+596,2004,Unprovoked,reunion,Body boarding,15,Thought to involve a 2.5 m bull or tiger shark,Oct,N,M
+597,2004,Unprovoked,usa,Surfing,26,White shark,Sep,N,M
+598,2004,Unprovoked,usa,Jumping,17,2.4 m [8'] shark,Sep,N,F
+599,2004,Unprovoked,brazil,Bathing,24,"Tiger shark, 1.5 m ",Aug,N,M
+600,2004,Unprovoked,usa,Diving,50,4.9 m to 5.5 m [16' to 18'] white shark,Aug,Y,M
+601,2004,Unprovoked,usa,Swimming,47,1.2 m [4'] shark,Aug,N,M
+602,2004,Unprovoked,usa,Swimming,13,1.8 m [6'] shark,Jul,N,F
+603,2004,Unprovoked,usa,Swimming,19,1.2 m to 1.5 m [4' to 5'] shark,Jul,N,F
+604,2004,Unprovoked,usa,Wading / fishing & carrying a bag of fish,11,Bull shark,Jul,N,M
+605,2004,Unprovoked,australia,Surfing,30,"2 sharks, 4.5 m & 3 m ",Jul,Y,M
+606,2004,Unprovoked,usa,Wading,7,4' to 5' shark,Jul,N,M
+607,2004,Unprovoked,usa,Surfing,45,"9'2"" white shark",Jun,N,M
+608,2004,Unprovoked,australia,Body boarding,17,"Bronze whaler shark, 2.5 m [8.25'] ",Jun,N,M
+609,2004,Unprovoked,usa,Swimming,8,1.2 m [4'] shark,Jun,N,M
+610,2004,Unprovoked,south africa,"Swimming, poaching perlemoen",21,White shark,Jun,Y,M
+611,2004,Unprovoked,usa,Wading,16,0.9 m to 1.5 m [3' to 5'] shark,May,N,M
+612,2004,Unprovoked,brazil,Swimming,17,Bull shark,May,N,M
+613,2004,Unprovoked,usa,Surfing,44,2.4 m to 3.7 m [8' to 12'] shark,May,N,M
+614,2004,Provoked,bahamas,Free diving & spearfishing,63,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)",May,N,M
+615,2004,Unprovoked,usa,Tandem surfing,28,"Mako shark, 1.8 m [6']",May,N,M
+616,2004,Unprovoked,usa,Surfing,57,Tiger shark,Apr,Y,M
+617,2004,Unprovoked,south africa,Surfing,16,5 m [16.5'] white shark,Apr,N,M
+618,2004,Unprovoked,usa,Surfing,20,1.2 m [4'] bull shark,Mar,N,M
+619,2004,Unprovoked,brazil,Body boarding,22,bull shark,Mar,N,M
+620,2004,Unprovoked,reunion,Surfing,20,2.5 m shark,Mar,N,M
+621,2004,Unprovoked,usa,Surfing,51,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Mar,N,M
+622,2004,Unprovoked,new zealand,Surfing,15,2 m [6.75'] sevengill  shark,Feb,N,M
+623,2004,Invalid,australia,Free diving & spearfishing,31,Shark involvement not confirmed,Feb,,M
+624,2004,Unprovoked,australia,Scuba diving,46,4 m to 5 m [13' to 16.5'] white shark,Jan,N,M
+625,2004,Unprovoked,venezuela,Spearfishing,40,"Bull shark, 132-kg [291-lb] ",Jan,N,M
+626,2003,Unprovoked,south africa,Spearfishing,21,"Tiger shark, 4 m [13']  ?",Nov,Y,M
+627,2003,Unprovoked,usa,Surfing,35,4' shark,Nov,N,F
+628,2003,Unprovoked,usa,Surfing,18,1.2 m to 1.5 m [4' to 5'] shark,Oct,N,M
+629,2003,Unprovoked,australia,Surfing,22,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark",Oct,N,M
+630,2003,Unprovoked,usa,Surfing,13,"Tiger shark, 14' ",Oct,N,F
+631,2003,Invalid,usa,Snorkeling,56,Shark involvement not confirmed,Oct,,M
+632,2003,Unprovoked,usa,Surfing,19,1.2 m [4'] shark,Oct,N,M
+633,2003,Unprovoked,usa,Wading near a fishing net,41,"1.2 m [4'] ""grey-colored shark""",Oct,N,F
+634,2003,Unprovoked,usa,Surfing,30,3' shark,Sep,N,M
+635,2003,Invalid,usa,Swimming,8 or 10,Shark involvement doubtful,Sep,,F
+636,2003,Unprovoked,usa,Body boarding,18,6' shark,Sep,N,M
+637,2003,Unprovoked,usa,"Standing, stepped on shark",15,7' shark,Sep,N,M
+638,2003,Unprovoked,south africa,Body boarding,19,White shark,Sep,Y,M
+639,2003,Unprovoked,usa,"Swimming, wearing black wetsuit & swim fins",50,4.5 m to 5.5 m [15' to 18'] white shark,Aug,Y,F
+640,2003,Invalid,usa,Swimming,31,Shark involvement not confirmed,Aug,,M
+641,2003,Unprovoked,south africa,Sitting on surfboard,16,3.5 m [11.5'] white shark,Aug,N,M
+642,2003,Unprovoked,bahamas,Spearfishing,58,Unidentified species,Jul,N,M
+643,2003,Provoked,usa,"Walking, carrying surfboard & stepped on shark",10,2' shark,Jul,N,M
+644,2003,Unprovoked,bahamas,Spearfishing,39,2.1 m  [7'] bull shark,Jul,N,M
+645,2003,Unprovoked,usa,Surfing,17,Unidentified species,Jun,N,M
+646,2003,Unprovoked,usa,Surfing,15,106 cm [3.5']  shark,Jun,N,M
+647,2003,Unprovoked,usa,Standing,12,small brown shark,Jun,N,F
+648,2003,Unprovoked,usa,Swimming with pod of dolphins,60,3.7 m to 4.3 m [12' to 14'] shark,Jun,N,M
+649,2003,Unprovoked,usa,Surfing ,33,"""sand shark""",Jun,N,M
+650,2003,Unprovoked,usa,Wading,22,3' to 5' shark,May,N,M
+651,2003,Unprovoked,usa,Swimming,20,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,May,N,M
+652,2003,Provoked,usa,Surfing,34,4' to 5' shark,May,N,M
+653,2003,Unprovoked,brazil,Surfing,17,Bull shark,Apr,N,M
+654,2003,Unprovoked,usa,Surfing,36,Unidentified species,Apr,N,M
+655,2003,Unprovoked,usa,Surfing,17,Unidentified species,Apr,N,M
+656,2003,Unprovoked,usa,Surfing,30,Unidentified species,Apr,N,M
+657,2003,Unprovoked,usa,Surfing,23,0.9 m to 1.2 m [3' to 4'] shark,Apr,N,M
+658,2003,Unprovoked,usa,Surfing,18,Unidentified species,Apr,N,M
+659,2003,Unprovoked,usa,Jumping,11,A small shark,Apr,N,M
+660,2003,Unprovoked,usa,Surfing,12,Unidentified species,Apr,N,M
+661,2003,Unprovoked,usa,Swimming (using a float),20,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",Apr,N,M
+662,2003,Unprovoked,venezuela,Surfing,28,"Mako shark, 3 m [10']",Apr,N,M
+663,2003,Unprovoked,usa,Surfing,50,4' to 5' shark,Apr,N,M
+664,2003,Unprovoked,new zealand,Scuba diving,44,2.5 m [8.25'] white shark,Feb,N,M
+665,2003,Unprovoked,australia,Wading,37,"""a small shark""",Feb,N,M
+666,2003,Unprovoked,usa,Swimming,54,Species unidentified,Feb,N,M
+667,2003,Unprovoked,australia,Swimming,24,Thought to involve a 2 m [6.75'] grey nurse shark,Feb,N,M
+668,2003,Unprovoked,australia,Swimming,84,Thought to involve a >2 m [6.75'] bull shark,Feb,Y,M
+669,2003,Invalid,south africa,Unknown,14,Shark involvement prior to death was not confirmed,Jan,,M
+670,2002,Unprovoked,south africa,Snorkeling,25,"White shark, 4 m white shark",Dec,N,M
+671,2002,Unprovoked,australia,Swimming,23,Bull shark,Dec,Y,M
+672,2002,Unprovoked,usa,Body boarding,48,3 m to 4.5 m [10' to 15'] white shark,Nov,N,M
+673,2002,Unprovoked,usa,Swimming,34,2.4 m to 3 m [8' to 10'] grey colored shark,Nov,N,F
+674,2002,Unprovoked,turks & caicos,Snorkeling,41,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark ,Nov,N,F
+675,2002,Unprovoked,usa,Surfing,21,6' shark,Nov,N,M
+676,2002,Unprovoked,usa,Boogie boarding,16,3' to 4' shark,Nov,N,M
+677,2002,Unprovoked,usa,Swimming,60,A small shark,Oct,N,F
+678,2002,Unprovoked,brazil,Swimming,36,Possibly a bull shark or tiger shark,Oct,Y,M
+679,2002,Unprovoked,usa,Surfing,14,Blacktip or spinner shark,Oct,N,M
+680,2002,Unprovoked,usa,Surfing,35,3.5' to 4.5' shark,Oct,N,M
+681,2002,Unprovoked,usa,Surfing,18,3.5' to 4' shark,Oct,N,M
+682,2002,Unprovoked,usa,Surfing,47,4' to 5' shark,Sep,N,M
+683,2002,Unprovoked,usa,Fishing from Surfboard,55,1.2 m [4'] blacktip shark,Sep,N,M
+684,2002,Provoked,usa,Fishing,  ,1.8 m [6'] blacktip shark,Sep,N,M
+685,2002,Provoked,tonga,Swimming, ,"Tiger shark, 1.5 m [5']k",Sep,N,M
+686,2002,Unprovoked,usa,Boogie boarding or Surfing,24,2.4 m [8'] shark,Sep,N,M
+687,2002,Unprovoked,usa,Surfing,35,3 m to 3.7 m [10' to 12'] shark,Sep,N,M
+688,2002,Unprovoked,brazil,Swimming,19,Bull or tiger shark,Sep,N,M
+689,2002,Unprovoked,south africa,Surf skiing,47,White shark,Sep,N,M
+690,2002,Unprovoked,usa,Boogie boarding,20,4' to 6' shark,Sep,N,M
+691,2002,Provoked,usa,"Wading, when he stepped on the shark",36,1' to 2' hammerhead or bonnethed shark,Sep,N,M
+692,2002,Unprovoked,usa,Surfing,16,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Aug,N,M
+693,2002,Unprovoked,usa,Surfing,27,0.9 m  to 1.2 m [3' to 4'] shark,Aug,N,M
+694,2002,Unprovoked,usa,Surfing,15,"Nurse shark, 1.5 m [5'] ",Aug,N,M
+695,2002,Unprovoked,usa,Standing,14,1.2 m to 1.5 m [4' to 5'] shark,Aug,N,M
+696,2002,Unprovoked,usa,Surfing,13,1.2 m [4'] blacktip or sandbar shark,Jul,N,M
+697,2002,Unprovoked,usa,Swimming,15,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",Jul,N,F
+698,2002,Provoked,usa,Shark Fishing,41,"Mako shark, 400-lb ",Jul,Y,M
+699,2002,Unprovoked,brazil,Surfing,22,Bull or tiger shark,Jul,N,M
+700,2002,Unprovoked,usa,Standing,9,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark",Jul,N,F
+701,2002,Unprovoked,usa,Surfing,28,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,Jun,N,M
+702,2002,Unprovoked,usa,Surfing,50,  ,Jun,N,M
+703,2002,Unprovoked,south africa,Snorkeling (filming the sardine run),50,1.5 to 2.5 m [5' to 8.25'] copper shark,Jun,N,M
+704,2002,Unprovoked,usa,Surfing,24,3.7 m to 4.3 m [12' to 14'] white shark,May,N,M
+705,2002,Unprovoked,usa,Floating on a raft,16,1 m  shark,May,N,M
+706,2002,Provoked,usa,"Fishing, removing the shark from his line",55,3' blacktip shark,May,N,M
+707,2002,Unprovoked,australia,Scallop diving (using surface-supplied air & a POD) ,23,"White shark, 6m [20']",Apr,Y,M
+708,2002,Unprovoked,usa,"Surfing, but standing in water alongside board",34,1.2 m [4'] shark,Apr,N,M
+709,2002,Unprovoked,bahamas,Standing,43,"Bull shark, 400-lb ",Apr,N,M
+710,2002,Unprovoked,usa,Wading,41,3'  shark,Apr,N,M
+711,2002,Unprovoked,usa,Swimming / Wading,29,0.9 m [3'] shark,Apr,N,M
+712,2002,Unprovoked,usa,Body-boarding,17,Tiger shark,Mar,N,M
+713,2002,Unprovoked,usa,Wading,11,  ,Mar,N,F
+714,2002,Unprovoked,usa,Swimming /  boogie boarding,20,4' shark,Mar,N,M
+715,2002,Unprovoked,usa,Snorkeling,39,"Nurse shark, 1m ",Mar,N,M
+716,2002,Unprovoked,usa,Surfing,31,"Spinner shark, 3' to 4' ",Mar,N,M
+717,2002,Unprovoked,australia,Surfing,30 or 36,"1.5 m [5'] ""whaler shark""",Feb,N,M
+718,2002,Boating,australia,Kayaking,35,C. leucas tooth fragment recovered from kayak,Feb,N,M
+719,2002,Unprovoked,australia,Surfing,20,"Tiger shark, 3 m [10']",Jan,N,M
+720,2002,Unprovoked,south africa,Fishing,16,Zambesi shark?,Jan,N,M
+721,2002,Unprovoked,south africa,Surf skiing,26,Unidentified,Jan,N,M
+722,2002,Unprovoked,usa,Snorkeling,35,"Tiger shark, 1.8 m [6'] ",Jan,N,M
+723,2001,Unprovoked,australia,Snorkeling,20,Bronze whaler shark?,Oct,N,F
+724,2001,Unprovoked,mexico,Body surfing,26,"Tiger shark, 1.8 m [6']",Sep,N,M
+725,2001,Provoked,usa,"Surfing, fell off surfboard & stepped on the shark.",21,4' shark,Sep,N,M
+726,2001,Invalid,usa,Wreck / Technical diving,42,Questionable incident - shark bite may have precipitated drowning,Sep,Y,M
+727,2001,Unprovoked,usa,Boogie boarding,6½,2' to 3.5' shark,Sep,N,M
+728,2001,Unprovoked,usa,Swimming ,28,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,Sep,Y,M
+729,2001,Unprovoked,usa,Swimming,23,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,Sep,N,F
+730,2001,Unprovoked,usa,Wading,20,1.5 m [5'] shark,Sep,N,M
+731,2001,Unprovoked,usa,Swimming ,10,bull shark,Sep,Y,M
+732,2001,Unprovoked,bahamas,Spearfishing,44,3 m [10'] bull shark,Aug,N,M
+733,2001,Unprovoked,usa,Surfing,17,a small shark,Aug,N,M
+734,2001,Unprovoked,usa,Surfing,20,Possibly  a blacktip or spinner shark,Aug,N,M
+735,2001,Unprovoked,usa,Surfing,19,"3' shark, possibly  a blacktip or spinner shark",Aug,N,M
+736,2001,Unprovoked,usa,Surfing,19,"Blacktip shark, 5' to 6' ",Aug,N,M
+737,2001,Unprovoked,bahamas,Spearfishing,43,1.9 m [6.5'] bull shark,Aug,N,M
+738,2001,Unprovoked,usa,Boogie boarding,18,0.9 m  [3'] shark,Jul,N,M
+739,2001,Unprovoked,usa,Swimming,8,"Bull shark, 2.3 m [7.5'] ",Jul,N,M
+740,2001,Provoked,usa,Spearfishing,52,"White shark, 2.4 m to 3 m [8' to 10'] ",Jun,N,M
+741,2001,Unprovoked,usa,Wading,29,2' shark,Jun,N,F
+742,2001,Unprovoked,usa,Surfing,45,1.2 m to 1.5 m [4' to 5'] shark,May,N,M
+743,2001,Unprovoked,usa,Surfing,12,Possibly a juvenile blacktip or spinner shark,Apr,N,M
+744,2001,Unprovoked,usa,Surfing,21,Possibly a juvenile blacktip or spinner shark,Apr,N,M
+745,2001,Unprovoked,usa,Body boarding,12,Possibly a juvenile blacktip or spinner shark,Apr,N,M
+746,2001,Unprovoked,usa,Surfing,22,Possibly a 1.5 m [5'] blacktip or spinner shark,Apr,N,M
+747,2001,Unprovoked,usa,Surfing,19,Possibly a juvenile blacktip or spinner shark,Apr,N,M
+748,2001,Unprovoked,south africa,Surfing,46,"White shark, 2.7 m [9'] ",Apr,N,M
+749,2001,Unprovoked,usa,Standing alongside surfboard,26,"""small shark""",Apr,N,M
+750,2001,Unprovoked,australia,Surfing,40,Bronze whaler shark,Apr,N,M
+751,2001,Unprovoked,australia,Surfing,40,"Bronze whaler shark, 2.5 m [8.25']  k",Feb,N,M
+752,2000,Unprovoked,fiji,Swimming back from anchored sailboat,47,6 m [20'] shark,Dec,Y,M
+753,2000,Unprovoked,australia,Spearfishing,38,"Bronze whaler shark, 2.5 m [8.25'] ",Dec,N,M
+754,2000,Unprovoked,usa,Swimming,73,1.2 m to 1.8 m [4' to 6'] shark,Nov,N,M
+755,2000,Unprovoked,australia,Swimming,52,"White shark, 4.9 m [16'] ",Nov,N,M
+756,2000,Unprovoked,australia,Swimming,49,"White shark, 5 m [16.5'] ",Nov,Y,M
+757,2000,Unprovoked,usa,Surfing,27,"White shark, 2.4 m to 3 m [8' to 10'] ",Nov,N,M
+758,2000,Unprovoked,usa,Swimming / snorkeling,56,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Oct,N,F
+759,2000,Unprovoked,usa,Surfing,17,2.1 to 2.4 m [7' to 8'] shark,Oct,N,M
+760,2000,Unprovoked,usa,Surfing,23,"Blacktip shark, 2' ",Oct,N,M
+761,2000,Unprovoked,australia,Surfing,17,White shark,Sep,Y,M
+762,2000,Unprovoked,australia,Surfing,25,"White shark, 4 m to 5 m [13' to 16.5'] ",Sep,Y,M
+763,2000,Unprovoked,okinawa,Surfing,31,"White shark, 2.5 m ",Sep,Y,M
+764,2000,Unprovoked,usa,Swimming / Body surfing,25,60 cm to 90 cm [2' to 3'] shark,Sep,N,M
+765,2000,Unprovoked,south africa,Free diving,48,"White shark, 3.5 m [11.5']  male ",Sep,N,M
+766,2000,Unprovoked,usa,Wading,40,1.5 m [5'] shark,Sep,N,M
+767,2000,Unprovoked,reunion,Surfing,27,"Tiger shark, 3 m [10'] ",Sep,N,M
+768,2000,Unprovoked,usa,Swimming,47,A 2' shark was seen in the area by witnesses,Aug,N,M
+769,2000,Unprovoked,usa,Jumped into the water,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",Aug,Y,M
+770,2000,Unprovoked,usa,"Windsurfing, but sitting on his board",53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",Aug,N,M
+771,2000,Unprovoked,usa,Surfing / Wading,27,juvenile shark,Aug,N,M
+772,2000,Unprovoked,usa,Standing,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",Aug,N,F
+773,2000,Unprovoked,usa,Playing,12,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?",Jul,N,F
+774,2000,Unprovoked,usa,"Spearfishing, holding mesh bag with speared fish",55,"Nurse shark, 1.2 m [4'] ",Jul,N,F
+775,2000,Unprovoked,usa,Wading,13,0.9 m [3'] shark,Jul,N,F
+776,2000,Unprovoked,usa,Standing,19,"0.9 m [3'] shark,  probably a blacktip or spinner shark",Jul,N,F
+777,2000,Unprovoked,usa,Surfing,17,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",Jun,N,M
+778,2000,Unprovoked,usa,Swimming,55,Bull shark?,Jun,N,M
+779,2000,Unprovoked,usa,Swimming ,44,Bull shark,Jun,N,M
+780,2000,Unprovoked,australia,Swimming,26,2.5 m shark,Mar,N,M
+781,2000,Unprovoked,usa,Boogie boarding,14,1.8 m [6'] shark,Mar,N,F
+782,2000,Unprovoked,usa,Surfing,37,1.2 m [4'] shark,Mar,N,M
+783,2000,Unprovoked,new caledonia,Spearfishing,35,Tiger shark?,Mar,Y,M
+784,2000,Unprovoked,usa,Spearfishing,39,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",Mar,N,M
+785,1999,Invalid,brazil,Spearfishing,39,Shark involvement not confirmed,Dec,N,M
+786,1999,Unprovoked,usa,Swimming,51,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Nov,N,F
+787,1999,Unprovoked,brazil,"Spearfishing, but swimming at surface",39,1.3 to 1.6 m shark,Nov,N,M
+788,1999,Unprovoked,usa,"Surfing, lying on surfboard",16,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Oct,N,M
+789,1999,Unprovoked,usa,Kayaking,37,White shark,Sep,N,M
+790,1999,Unprovoked,usa,Surfing,28,"""a small shark""",Aug,N,M
+791,1999,Unprovoked,marshall islands,Fishing,23,7' shark,Aug,N,M
+792,1999,Unprovoked,usa,Lying prone in 2' of water,10,1.8 m [6'] shark,Aug,N,M
+793,1999,Unprovoked,usa,Body surfing,62,4' to 5' shark,Aug,N,M
+794,1999,Unprovoked,bahamas,Spearfishing & holding catch,35,2.7 m [9']  bull shark or Caribbean reef shark,Aug,N,M
+795,1999,Unprovoked,south africa,Surfing,42,"White shark, 3 m to 5 m [10' to 16.5'] ",Jul,N,M
+796,1999,Unprovoked,usa,Swimming with dolphins,43,"Bull shark, 2.1 m [7']",Jul,N,M
+797,1999,Unprovoked,usa,Surfing,43,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Jul,N,M
+798,1999,Unprovoked,south africa,Boogie boarding,14,White shark,Jul,Y,M
+799,1999,Unprovoked,usa,Wading in school of baitfish,30,"Blacktip shark, 1.8 m [6'] ",Jul,N,F
+800,1999,Unprovoked,south africa,Surfing,29,"White shark, 4 m [13'] ",Jul,N,M
+801,1999,Unprovoked,usa,Surfing,21,3' to 4' shark,Jun,N,M
+802,1999,Unprovoked,usa,Splashing / wading,5,Blacktip or spinner shark,Jun,N,M
+803,1999,Unprovoked,australia,Windsurfing,22,Thought to involve a white shark,May,Y,M
+804,1999,Unprovoked,brazil,Surfing,21,"Tiger shark, 2.5 m [8.25']",May,N,M
+805,1999,Unprovoked,mauritius,Swimming,41,"Grey reef shark, 1.5 m ",Apr,N,F
+806,1999,Unprovoked,reunion,Swimming after being swept into sea by a large wave,52,3 bull sharks,Apr,Y,M
+807,1999,Unprovoked,usa,Swimming near pod of whales,29,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,Mar,N,F
+808,1999,Unprovoked,australia,Surfing,35,Bronze whaler or tiger shark,Feb,N,M
+809,1999,Unprovoked,usa,Surfing,25,Spinner shark,Feb,N,M
+810,1999,Unprovoked,south africa,Spearfishing,30,"White shark, 4.6 m [15'] ",,N,M
+811,1998,Unprovoked,south africa,Surfing,18,Possibly a white shark,Dec,N,M
+812,1998,Unprovoked,usa,Swimming,9,Tiger shark,Nov,Y,M
+813,1998,Unprovoked,usa,Surfing,14,1.2 m [4'] shark,Nov,N,M
+814,1998,Unprovoked,usa,Walking,13,"A ""small shark""",Nov,N,M
+815,1998,Unprovoked,brazil,Surfing,22,Though to involve a white shark,Nov,Y,M
+816,1998,Unprovoked,usa,Surfing,26,3' to 4' shark,Aug,N,M
+817,1998,Unprovoked,usa,Boogie boarding,16,"White shark, 5 m to 6 m [16.5' to 20'] ",Aug,N,M
+818,1998,Unprovoked,bahamas,Spearfishing,28,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",Aug,N,M
+819,1998,Unprovoked,south africa,Spearfishing,24,"White shark, 4.9 m [16']",Aug,N,M
+820,1998,Unprovoked,south africa,Surfing,16,5' to 6' shark,Jul,N,M
+821,1998,Unprovoked,australia,Free diving for abalone,26,Thought to involve a 5.5 m white shark named Kong,Jun,Y,M
+822,1998,Unprovoked,south africa,Body Boarding,20,White shark,Jun,Y,M
+823,1998,Unprovoked,south africa,Body boarding,15,3 m to 4 m [10' to 13'] white shark,May,N,M
+824,1998,Unprovoked,south africa,Body boarding,16,Unidentified,May,N,M
+825,1998,Unprovoked,usa,Surfing,40,"Lemon shark, 1.5 m [5'], identified  by the surfer",May,N,M
+826,1998,Unprovoked,usa,Swimming,14,"1.8 m [6'] shark, possibly a blacktip",May,N,F
+827,1998,Unprovoked,south africa,Body boarding,22,4 m [13'] white shark,May,N,M
+828,1998,Unprovoked,mozambique,Towing rubber dinghy,35,3 m [10'] shark,Apr,Y,F
+829,1998,Unprovoked,usa,Surfing (lying prone on his board),50,5 m [16.5'] white shark,Apr,N,M
+830,1998,Unprovoked,south africa,Snorkeling  hunting crayfish and abalone,33,3 m [10'] white shark,Mar,N,M
+831,1998,Unprovoked,usa,Swimming or paddle boarding,32,5' spinner shark,Mar,N,M
+832,1998,Invalid,australia,Spearfishing,31,Shark involvement not confirmed,Jan,,M
+833,1998,Unprovoked,mozambique,Surfing,23,Small dusky shark or blackfin shark,Jan,N,M
+834,1997,Unprovoked,south africa,Spearfishing,39,White shark,Dec,Y,M
+835,1997,Unprovoked,australia,Scuba diving (submerged riding a scooter),42,White shark,Nov,N,M
+836,1997,Unprovoked,usa,Body boarding or surfing,19,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",Oct,N,M
+837,1997,Unprovoked,usa,Surfing,23,Possibly a blacktip shark,Oct,N,M
+838,1997,Unprovoked,usa,Surfing,12,1.2 m to 1.5 m [4' to 5'] shark,Oct,N,M
+839,1997,Unprovoked,usa,Surfing (sitting on his board),29,5 m [16.5'] white shark,Aug,N,M
+840,1997,Unprovoked,usa,Body surfing,17,juvenile shark,Aug,N,M
+841,1997,Unprovoked,usa,Wading / Surfing,19,"""juvenile shark""",Aug,N,M
+842,1997,Unprovoked,south africa,Surfing,25,4.5 m white shark,Jul,Y,M
+843,1997,Unprovoked,usa,Standing,50,Blacktip shark,Jul,N,M
+844,1997,Unprovoked,fiji,Snorkeling,47,"Tiger shark, 2.7m  [9']",Jun,N,F
+845,1997,Unprovoked,usa,Surfing,18,Possibly a spinner shark,Jun,N,M
+846,1997,Unprovoked,usa,"Body surfing, stood up on sandbar",33,1.2 m [4'] shark (spinner shark?),Jun,N,M
+847,1997,Unprovoked,usa,Spearfishing,35,4' shark,May,N,M
+848,1997,Unprovoked,usa,Surfing,34,Possibly a sand shark,May,N,M
+849,1997,Unprovoked,usa,Surfing,12,Possibly a sand shark,May,N,M
+850,1997,Unprovoked,australia,Scuba diving, 30,"Tiger shark, 2m to 3m ",Feb,N,M
+851,1997,Unprovoked,australia,Snorkeling,27,1.8 m to 2.1 m [6' to 7'] shark,Jan,N,M
+852,1997,Unprovoked,australia,Windsurfing,41,"Tiger shark, 4.5 m [14'9""]",Jan,Y,M
+853,1996,Unprovoked,usa,Surfing,45,3 m to 5 m [10' to 16.5'] white shark,Nov,N,M
+854,1996,Unprovoked,usa,Surfing,22,5.5 m to 6 m [18' to 20'] white shark,Oct,N,M
+855,1996,Unprovoked,usa,Surfing,21,1.2 m [4'] shark,Oct,N,M
+856,1996,Unprovoked,usa,Surfing,31,5 m [16.5'] white shark,Oct,N,M
+857,1996,Unprovoked,new zealand,Diving for abalone,23,White shark,Sep,N,M
+858,1996,Unprovoked,usa,Surfing / Swimming,19,"""a young shark""",Sep,N,M
+859,1996,Invalid,usa,Boogie boarding,28,Shark involvement not confirmed,Sep,,F
+860,1996,Provoked,south africa,Spearfishing,29,White shark,Sep,N,M
+861,1996,Unprovoked,usa,Body Boarding,19,"Tiger shark, 2.4 m [8'] ",Aug,N,M
+862,1996,Unprovoked,usa,Free diving for abalone,36,6 m [20'] white shark,Aug,N,M
+863,1996,Unprovoked,usa,Wade fishing,21,1.8 m to 2.1 m [6' to 7'] hammerhead shark,Aug,N,M
+864,1996,Unprovoked,usa,Standing,63,5' to 6' shark,Jul,N,F
+865,1996,Unprovoked,south africa,Surfing,17,2.5 m [8.25'] white shark ,May,N,M
+866,1996,Unprovoked,usa,Surfing,22,1.2 m [4'] shark,May,N,M
+867,1996,Unprovoked,usa,Surfing,27,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,May,N,M
+868,1996,Unprovoked,australia,Swimming breast stoke,47,Tiger shark,Mar,N,F
+869,1996,Unprovoked,australia,Dived naked into the water on a bet,24,Bronze whaler shark,Feb,N,M
+870,1996,Unprovoked,australia,Swimming,7,"""reef shark""",Feb,N,M
+871,1996,Unprovoked,usa,Swimming with mask & snorkel,53,Possibly a tiger shark,Jan,N,M
+872,1996,Unprovoked,reunion,Surfing,25,"Tiger shark, 300-kg [662-lb] ",Jan,Y,M
+873,1995,Unprovoked,australia,Playing / standing,15,4 m shark,Oct,N,F
+874,1995,Unprovoked,usa,Surfing,39,1.2 m to 1.5 m [4' to 5']   shark,Oct,N,M
+875,1995,Unprovoked,usa,Surfing,14,1.5 to 1.8 m [5' to 6'] shark,Sep,N,M
+876,1995,Unprovoked,usa,Windsurfing,25,4 m [13'] white shark,Sep,N,M
+877,1995,Unprovoked,australia,Abalone diving using Hookah (near calving whales),29,White shark,Sep,Y,M
+878,1995,Unprovoked,usa,Abalone diving using Hookah (resting on the surface),32,3 m to 4 m [10' to 13'] white shark,Sep,N,M
+879,1995,Unprovoked,usa,Surfing,16,5' shark,Aug,N,M
+880,1995,Unprovoked,usa,Surfing,18,"""a small shark""",Aug,N,M
+881,1995,Unprovoked,usa,Swimming,16,1.2 m to 1.5 m [4' to 5'] shark,Aug,N,M
+882,1995,Unprovoked,usa,Swimming ,23,"""sand"" shark",Aug,N,M
+883,1995,Unprovoked,usa,Surfing,19,"""small shark""",Aug,N,M
+884,1995,Unprovoked,tonga,Fishing,18,"""small shark""",Aug,N,M
+885,1995,Unprovoked,usa,Wading,20,1.8 m [6'] shark,Aug,N,M
+886,1995,Unprovoked,usa,Body boarding,12,1.2 m to 1.5 m [4' to 5'] shark,Aug,N,M
+887,1995,Unprovoked,usa,Scuba diving (ascending using scooter),31,6 m [20'] white shark,Jun,N,M
+888,1995,Unprovoked,usa,Swimming,45,1.8 m [6'] shark,Jun,N,M
+889,1995,Unprovoked,usa,Swimming,10,6' shark,Jun,N,F
+890,1995,Unprovoked,usa,Swimming,38,"Tiger shark, 3.7 m [12'] ",Jun,N,M
+891,1995,Unprovoked,hong kong,Swimming,29,1.8 m to 2.1 m [6' to 7'] shark,Jun,Y,M
+892,1995,Unprovoked,japan,Scuba diving for bivalves,47,6 m [20'] white shark,Apr,Y,M
+893,1995,Unprovoked,australia,Surfing,35,"Bronze whaler shark, 2 m ",Mar,N,M
+894,1995,Unprovoked,south africa,Swimming,22,Raggedtooth shark,Feb,N,M
+895,1995,Unprovoked,south africa,Swimming,14,"Tiger shark, 1.8 m [6'] ",Jan,Y,M
+896,1994,Unprovoked,south africa,Body boarding,26,5.5 m [18'] white shark,Dec,N,M
+897,1994,Unprovoked,usa,Commercial diver (submerged or treading water),42,5 m to 5.5 m [16.5' to 18'] white shark,Dec,Y,M
+898,1994,Unprovoked,usa,"Surfing, paddling seawards",34,2.7 m [9'] shark,Nov,N,F
+899,1994,Provoked,usa,Wading,9,Thought to involve a small sand shark,Oct,N,F
+900,1994,Unprovoked,usa,Surfing,43,5 m [16.5'] white shark,Sep,N,M
+901,1994,Unprovoked,usa,Jumped off rocks into white water,12,Small shark,Sep,N,F
+902,1994,Unprovoked,reunion,Windsurfing,24,3 to 3.5 m [10' to 11.5'] bull shark,Jul,Y,M
+903,1994,Unprovoked,south africa,Surfing,22,4 m [13'] white shark,Jul,Y,M
+904,1994,Unprovoked,south africa,Surfing,31,4 m [13'] white shark,Jul,N,M
+905,1994,Unprovoked,usa,Surfing,15,"""small shark""",Jul,N,M
+906,1994,Unprovoked,bahamas,Spearfishing,30,1.8 m [6'] shark,Jun,N,M
+907,1994,Unprovoked,usa,Surfing, 28,1.2 m [4'] spinner shark,May,N,M
+908,1994,Unprovoked,usa,Surfing,22,>1.8 m [6'] shark,May,N,M
+909,1994,Unprovoked,usa,Surfing,23,1.2 m [4'] shark,Feb,N,M
+910,1994,Unprovoked,south africa,Surfing,15,3 m [10'] white shark,Feb,N,M
+911,1994,Unprovoked,south africa,Swimming ,33,"1.3 m [4'3""] shark",Jan,N,M
+912,1993,Unprovoked,australia,Hookah diving,27,Tiger shark caught 6 days later with divers remains in its gut,Nov,Y,M
+913,1993,Unprovoked,usa,Surfing,26,4 m to 5 m [13' to 16.5'] white shark,Oct,N,M
+914,1993,Unprovoked,usa,Swimming,26,3 m [10'] bull shark,Oct,N,F
+915,1993,Boating,usa,Kayaking,34,>6 m [20'] white shark,Oct,N,F
+916,1993,Unprovoked,south africa,Spearfishing,36,3 m [10'] white shark,Sep,N,M
+917,1993,Unprovoked,spain,Swimming,69,1.2 m [4'] shark,Sep,N,M
+918,1993,Unprovoked,bahamas,Spearfishing,51,1.8 m [6'] blacktip shark or Caribbean reef shark,Aug,N,M
+919,1993,Unprovoked,usa,Riding floatation device,19,Bull shark,Aug,N,F
+920,1993,Unprovoked,usa,Free diving for abalone (ascending),39,5.5 m to 6 m [18' to 20']  white shark,Aug,N,M
+921,1993,Unprovoked,south africa,Surfing,28,4 m [13'] white shark,Jul,N,M
+922,1993,Unprovoked,usa,Playing,12,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",Jul,N,F
+923,1993,Unprovoked,usa,Paddling on surfboard or body board,22,Thought to involve a tiger shark,Jun,N,M
+924,1993,Unprovoked,australia,Scuba diving,31,Remains recovered from 5.5 m [18'] white shark,Jun,Y,M
+925,1993,Unprovoked,australia,Scuba diving at seal colony,34,5 m [16.5'] white shark,Jun,Y,F
+926,1993,Unprovoked,usa,Swimming,60's,6' shark,Jun,N,F
+927,1993,Unprovoked,usa,Paddling on surfboard,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",Mar,N,M
+928,1993,Unprovoked,usa,Free diving & spearfishing (ascending),55,White shark,Mar,N,M
+929,1993,Provoked,australia,Fishing,69,"Bronze whaler shark, 1.5 m ",,N,M
+930,1993,Unprovoked,australia,Spearfishing,21,1.5 m shark,Jan,N,M
+931,1993,Unprovoked,usa,Surfing,29,6 m [20'] white shark,Jan,N,M
+932,1992,Unprovoked,usa,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",10,"Tiger shark, 2.4 m [8']",Dec,N,M
+933,1992,Unprovoked,usa,Lying on surfboard,30,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",Dec,N,M
+934,1992,Unprovoked,usa,Spearfishing / free diving,31,"Mako shark, 1.8 m [6']  ",Nov,N,M
+935,1992,Unprovoked,usa,Surfing,19,6' to 7' blacktip shark,Nov,N,M
+936,1992,Boating,usa,Kayaking,46,5 m to 6 m white shark,Nov,N,M
+937,1992,Unprovoked,usa,Scuba diving (submerged),40,Unidentified shark,Nov,N,M
+938,1992,Unprovoked,usa,Body boarding,18,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",Nov,Y,M
+939,1992,Unprovoked,usa,Hookah diving for sea urchins,40,2.5 m [8.25'] white shark,Oct,N,M
+940,1992,Unprovoked,usa,Surfing,28,"Tiger shark, 4.3 m [14'] ",Oct,N,M
+941,1992,Unprovoked,australia,Surfing,28,4.2 m white shark,Oct,Y,M
+942,1992,Unprovoked,usa,Surfing,20,4 m to 5 m [13' to 16.5']  white shark ,Sep,N,M
+943,1992,Unprovoked,australia,Surfing,17,4 m white shark,Aug,N,M
+944,1992,Unprovoked,usa,Surfing,22,5.5 m to 6 m [18' to 20'] white shark,Aug,N,M
+945,1992,Unprovoked,usa,Standing,42,"""a small shark""",Jul,N,F
+946,1992,Unprovoked,reunion,Surfing,16,Bull shark or lemon shark,Jun,Y,M
+947,1992,Unprovoked,south africa,Surfing,35,>2 m shark,Apr,N,M
+948,1992,Unprovoked,usa,"Surfing, paddling seawards",36,Tiger shark,Mar,N,F
+949,1992,Unprovoked,japan,Hookah diving for pen shells ,41,"5 m [16.5'] white shark, identification by K. Nakaya",Mar,Y,M
+950,1992,Unprovoked,usa,Surfing (sitting on his board),21,Said to involve a 6 m to 7 m [20' to 23'] white shark,Mar,N,M
+951,1992,Invalid,australia,Surfing,19,Questionable incident,Feb,,M
+952,1992,Unprovoked,australia,Boogie boarding,19,"Bronze whaler shark, 2.3 m [7.5'] ",Jan,N,M
+953,1992,Unprovoked,south africa,Swimming ,19,"Zambesi shark, 1.7 m [5.5'] ",Jan,N,M
+954,1992,Unprovoked,south africa,Spearfishing,36,Possibly a 1.5 m [5'] blacktip shark,Jan,N,M
+955,1991,Unprovoked,usa,Hookah diving for sea urchins,25,6 m [20'] white shark,Dec,N,M
+956,1991,Unprovoked,usa,Snorkeling,41,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",Nov,Y,F
+957,1991,Unprovoked,usa,Surfing,21,1.8 m [6'] shark,Oct,N,M
+958,1991,Unprovoked,usa,Surfing,32,5 m to 6 m [16.5' to 20'] white shark,Oct,N,M
+959,1991,Unprovoked,australia,Scuba diving,19,4 m [13'] white shark,Sep,Y,M
+960,1991,Provoked,australia,Finning the shark that bit him,36,"3 m [10'], 270- kg [595-lb] shark",Aug,N,M
+961,1991,Unprovoked,usa,Swimming,23,sand shark,Aug,N,M
+962,1991,Unprovoked,usa,Wading,10,3' shark,Aug,N,F
+963,1991,Boating,italy,Canoeing,40,4 m [13'] white shark,Jul,N,F
+964,1991,Unprovoked,reunion,Surfing,30,"Tiger shark, 3 to 4 m [10' to 13'] ",Jul,N,M
+965,1991,Unprovoked,usa,Surfing,32,5 m [16.5'] white shark,Jul,N,M
+966,1991,Unprovoked,usa,Swimming behind sailboat,31,2.7 m [9'] bull or lemon shark,Jun,N,M
+967,1991,Unprovoked,hong kong,Swimming ,65,"Tiger shark, >3 m [10']",Jun,Y,F
+968,1991,Unprovoked,usa,Sitting on surfboard,23,2.4 m [8'] shark,May,N,M
+969,1991,Unprovoked,usa,"Surfing, collided with shark",22,1.2 m to 1.5 m [4' to 5'] shark,Apr,N,M
+970,1991,Unprovoked,usa,Surfing,38,5.5 m [18'] white shark,Feb,N,M
+971,1991,Unprovoked,south africa,Spearfishing,20,5.5 m [18'] white shark,Feb,N,M
+972,1990,Unprovoked,usa,Surfing,24,5' shark,Nov,N,M
+973,1990,Unprovoked,usa,Surfing,50,1.8 m [6'] shark ,Oct,N,M
+974,1990,Unprovoked,usa,Surfing,25,4' spinner shark,Oct,N,M
+975,1990,Unprovoked,usa,Surfing,43,"Tiger shark, 3.7 m [12'] ",Oct,N,M
+976,1990,Unprovoked,usa,Surfing,19,1.8 m to 2.4 m [6' to 8'] shark,Oct,N,M
+977,1990,Unprovoked,south africa,Spearfishing,26,5 m  [16.5'] white shark,Sep,N,M
+978,1990,Unprovoked,usa,"Free diving / spearfishing, from paddleboard & floating on the surface",49,White shark,Sep,N,M
+979,1990,Boating,usa,Kayaking,44,2.5 m to 3 m [8.25' to 10']  white shark,Sep,N,M
+980,1990,Unprovoked,usa,Surfing,22,5 m to 6 m [16.5' to 20'] white shark,Aug,N,M
+981,1990,Unprovoked,south africa,Scuba diving (but on surface),21,"4.5 m [14'9""] white shark",Jun,Y,F
+982,1990,Unprovoked,south africa,Resting on surfboard,22,"5.5 m [18'] white shark, identified by witnesses & tooth marks",May,N,M
+983,1990,Unprovoked,south africa,Lying on surfboard & paddling,23,"2.3 m [7.5'] white shark, identified by M. Smale",Apr,N,M
+984,1990,Unprovoked,australia,Surfing,31,"Tiger shark, 3 m ",Apr,N,M
+985,1989,Unprovoked,south africa,Free diving & spearfishing,29,White shark,Nov,Y,M
+986,1989,Unprovoked,australia,Surfing,17,2.7 m [9'] white shark,Oct,N,M
+987,1989,Unprovoked,usa,Surfing,12,4' shark,Oct,N,M
+988,1989,Invalid,usa,Diving,49,Shark involvement suspected but not confirmed,Oct,,M
+989,1989,Unprovoked,south africa,Free diving,29,"White shark, identified by tooth pattern",Sep,N,M
+990,1989,Provoked,usa,"Fishing, stepped on hooked shark's head",51,150-lb shark,Sep,N,M
+991,1989,Unprovoked,usa,Hookah diving for abalone (descending),38,4 m to 5 m [13' to 16.5']  white shark,Sep,N,M
+992,1989,Provoked,australia,Feeding fish,30,Grey nurse shark,Aug,N,M
+993,1989,Unprovoked,south africa,Surfing,21,>3.4 m [11'] white shark,Aug,N,M
+994,1989,Unprovoked,australia,Surfing,17,"Bronze whaler shark, 3 m [10'] ",Aug,N,M
+995,1989,Unprovoked,south africa,Surfing,34,2.5 m [8.25'] white shark,Jul,N,M
+996,1989,Unprovoked,south africa,Surfing,16,3 m [10'] white shark,Jun,N,M
+997,1989,Unprovoked,south africa,Free diving,28,2.5 m [8.25'] white shark,Jun,N,M
+998,1989,Unprovoked,australia,Surfing,27,2 m [6.75'] white shark,Mar,Y,M
+999,1989,Unprovoked,italy,"Scuba diving, but swimming on surface",47,6 m [20'] white shark,Feb,Y,M
+1000,1989,Invalid,usa,Kayaking,24,Invalid,Jan,,M
+1001,1989,Unprovoked,usa,Kayaking,24,5 m [16.5'] white shark,Jan,Y,F
+1002,1989,Unprovoked,australia,Surfing with dolphins,17,"Tiger shark, 4 m [13'] ",Jan,N,M
+1003,1988,Unprovoked,usa,Surfing (sitting on his board),21,5.5 m to 6 m [18' to 20']  white shark,Oct,N,M
+1004,1988,Unprovoked,usa,Surfing,30,1.2 m to 1.5 m [4' to 5'] shark,Oct,N,M
+1005,1988,Unprovoked,usa,Surfing,23,1.2 m to 1.5 m [4' to 5'] shark,Oct,N,M
+1006,1988,Unprovoked,usa,Surfing,21,5' shark,Sep,N,M
+1007,1988,Unprovoked,usa,Snorkeling,38,3 m [10'] bull shark,Sep,Y,M
+1008,1988,Unprovoked,usa,Surfing,27,2.4 m to 3 m [8' to 10'] white shark,Aug,N,M
+1009,1988,Unprovoked,south africa,Spearfishing,36,White shark,Jun,N,M
+1010,1988,Unprovoked,usa,Sittting in water with his child,37,Sand shark?,Jun,N,M
+1011,1988,Unprovoked,usa,Surfing,25,1.8 m to 2.4 m [6' to 8'] shark,Jun,N,M
+1012,1988,Unprovoked,south africa,Surfing,17,1.5 m to 2 m [5' to 6.75'] shark,Mar,N,M
+1013,1988,Unprovoked,south africa,Surfing,20,"1 m ""grey-colored"" shark",Feb,N,M
+1014,1988,Unprovoked,south africa,Lying atop surfboard,15,Zambezi shark (tooth fragments recovered),Feb,N,F
+1015,1988,Invalid,south africa,Surfing,22,Shark involvement not confirmed,Jan,,M
+1016,1988,Provoked,south africa,Attempting to lasso shark's tail,33,1.5 m copper shark,Jan,N,M
+1017,1987,Unprovoked,usa,Surfing,16,1.8 m [6'] blacktip shark,Dec,N,M
+1018,1987,Unprovoked,usa,Surfing,20,2 m [6.75'] shark,Oct,N,M
+1019,1987,Invalid,south africa,Boogie boarding,14,Questionable incident,Oct,,M
+1020,1987,Unprovoked,south africa,Spearfishing,21,White shark,Oct,N,M
+1021,1987,Unprovoked,south africa,Surfing,24,3.5 m [11.5']  white shark,Sep,N,M
+1022,1987,Unprovoked,usa,Wading,12,1.2 m to 1.5 m [4' to 5'] shark,Aug,N,M
+1023,1987,Unprovoked,usa,Surfing (sitting on his board),40,5.7 m white shark,Aug,N,M
+1024,1987,Unprovoked,usa,Surfing,27,3' to 4' shark,Jul,N,M
+1025,1987,Unprovoked,usa,Body surfing,32,4' shark,Jul,N,F
+1026,1987,Unprovoked,usa,Wading,16,4' shark,Jul,N,F
+1027,1987,Unprovoked,vanuatu,Swimming,8,4.3 m shark,Apr,Y,M
+1028,1987,Unprovoked,south africa,Spearfishing,30,>2.5 m [8.25'] white shark,Jan,N,M
+1029,1986,Unprovoked,south africa,Body boarding,21,3 m [10'] white shark,Dec,Y,M
+1030,1986,Unprovoked,usa,Surfing,40,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,Dec,N,M
+1031,1986,Unprovoked,usa,Free diving  & spearfishing (submerged),27,5 m to 6 m [16.5' to 20'] white shark,Dec,N,M
+1032,1986,Unprovoked,usa,Swimming,6,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",Oct,N,F
+1033,1986,Unprovoked,south africa,Racing ski,32,1.6 m shark,Oct,N,M
+1034,1986,Invalid,south africa,Spearfishing,35,Invalid,Aug,,M
+1035,1986,Unprovoked,south africa,Spearfishing,26,1.2 m [4'] dusky shark,Jul,N,M
+1036,1986,Unprovoked,south africa,Treading water,26,>1 m shark,Mar,N,M
+1037,1986,Unprovoked,south africa,Surfing,21,>2.4 m [8'] white shark,Feb,N,M
+1038,1986,Unprovoked,south africa,Swimming,46,Raggedtooth shark,Feb,N,M
+1039,1986,Unprovoked,south africa,Spearfishing,29,"Raggedtooth shark, 2 m [6.75'] ",Feb,N,M
+1040,1986,Unprovoked,australia,Surfing,29,"Bronze whaler shark, 3.5 m ",Feb,N,M
+1041,1986,Unprovoked,usa,Surfing,22,Blacktip shark,Jan,N,M
+1042,1986,Unprovoked,usa,Surfing,16,1.5 m [5'] shark,,N,M
+1043,1985,Unprovoked,south africa,Body boarding,22,2.5 m [8.25'] white shark,Oct,N,M
+1044,1985,Unprovoked,usa,Hookah diving for abalone,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,Oct,N,M
+1045,1985,Invalid,usa,Swimming,17,Invalid,Sep,,M
+1046,1985,Invalid,usa,Wading,11,Shark involvement not confirmed,Aug,,M
+1047,1985,Invalid,usa,Scuba diving,67,Shark involvement prior to death not confirmed,Aug,,M
+1048,1985,Unprovoked,usa,Wading,13,Possibly a small hammerhead shark,Jul,N,F
+1049,1985,Unprovoked,italy,Snorkeling,13,"3 m to 3.6 m  [10' to 11'9""] white shark",Jul,N,M
+1050,1985,Unprovoked,australia,Free diving for scallops,33,6 m [20'] white shark,Mar,Y,F
+1051,1985,Unprovoked,usa,Scuba Diving for lobster (at surface),29,6 m [20'] white shark,Feb,N,M
+1052,1985,Unprovoked,south africa,Swimming,15,Raggedtooth shark,Jan,N,M
+1053,1985,Unprovoked,south africa,Surfing,18,"3.5 m white shark, tooth fragments recovered",Jan,N,M
+1054,1985,Unprovoked,south africa,Spearfishing,34,3.5 m [11.5'] white shark,Jan,N,M
+1055,1985,Provoked,south africa,Spearfishing,20,1.5 m [5'] dusky shark,Jan,N,M
+1056,1984,Unprovoked,australia,Sailing on catamaran & fell into the water,16,"Tiger shark, 4 m ",Nov,Y,M
+1057,1984,Invalid,usa,Swimming,22,Shark involvement prior to death was not confirmed,Oct,,M
+1058,1984,Unprovoked,usa,Surfing or body surfing,23,1.5 m [5'] shark,Oct,N,F
+1059,1984,Invalid,usa,Wading,77,Shark involvement not confirmed; officials considered barracua,Oct,,F
+1060,1984,Unprovoked,usa,Surfing,15,1.2 m [4'] blacktip shark,Oct,N,M
+1061,1984,Unprovoked,usa,Surfing (sitting on his board),25,3 m to 5 m [10' to 16.5'] white shark,Sep,N,M
+1062,1984,Unprovoked,usa,Surfing,16,Hammerhead shark?+O2356,Sep,N,M
+1063,1984,Unprovoked,usa,Skindiving,28,4.5 m to 5 m white shark,Sep,Y,M
+1064,1984,Unprovoked,usa,Swimming,18,1.2 m [4'] shark,Jul,N,F
+1065,1984,Invalid,south africa,Spearfishing,21,Shark involvement prior to death was not confirmed,Jul,,M
+1066,1984,Unprovoked,south africa,Surfing,27,2.4 m [8'] white shark,Jun,N,M
+1067,1984,Unprovoked,usa,Towing her sister on plastic ski board,13,1.2 m to 1.5 m [4' to 5'] hammerhead shark,Jun,N,F
+1068,1984,Provoked,south africa,Scuba diving,33, 1.5 m [5'] dusky shark,Feb,N,M
+1069,1984,Unprovoked,south africa,Swimming,14,"Raggedtooth shark, 1 m ",Jan,N,M
+1070,1983,Unprovoked,south africa,Swimming,47,"Raggedtooth shark, >1 m ",Dec,N,M
+1071,1983,Unprovoked,south africa,Spearfishing,29,5 m [16.5'] white shark,Aug,N,M
+1072,1983,Unprovoked,usa,Swimming,14,Sand shark,Aug,N,F
+1073,1983,Unprovoked,usa,Diving,22,6' to 8' bull shark,Aug,N,F
+1074,1983,Sea Disaster,australia,Swimming from the New Venture ,21,"Tiger shark, 5 m [16.5']",Jul,Y,F
+1075,1983,Sea Disaster,australia,Swimming from the New Venture ,24,"Tiger shark, 5 m [16.5']",Jul,Y,M
+1076,1983,Sea Disaster,australia,14 m prawn trawler New Venture capsized  & sank in heavy seas Three people in the water,28,"Tiger shark, 5 m [16.5']",Jul,N,M
+1077,1983,Unprovoked,usa,Windsurfing,39,3.5' hammerhead shark,Jul,N,F
+1078,1983,Unprovoked,usa,Water-skiing,21,6' shark,May,N,M
+1079,1983,Unprovoked,south africa,Fishing,27,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)",Apr,N,M
+1080,1983,Unprovoked,south africa,Spearfishing,17,1.8 m [6'] Zambezi shark,Mar,N,M
+1081,1983,Unprovoked,south africa,Paddleskiing,16,3 m [10'] shark,Feb,N,M
+1082,1983,Unprovoked,south africa,Spearfishing,32,White shark,Jan,N,M
+1083,1982,Unprovoked,usa,Windsurfing,26,1.5 m [5'] shark,Oct,N,M
+1084,1982,Unprovoked,south africa,Surfing,16,"Believed to involve a 2.8 m [9'3""] white shark",Sep,N,M
+1085,1982,Unprovoked,usa,Surfing,20,1.5 m [5'] shark,Sep,N,M
+1086,1982,Unprovoked,usa,Diving,36,White shark,Sep,N,M
+1087,1982,Unprovoked,usa,Free diving for abalone from Zodiac (submerged),28,5 m to 6 m [16.5' to 20'] white shark,Sep,N,M
+1088,1982,Invalid,usa,Surfing,17,Questionable incident; reported as shark attack but thought to involve a pinniped instead ,Aug,,M
+1089,1982,Invalid,south africa,Boogie boarding,20,Invalid,Jul,,M
+1090,1982,Unprovoked,south africa,Paddleskiing,38,"2.4 m [8'] white shark, species identity confirmed by tooth fragment",Jul,N,M
+1091,1982,Unprovoked,usa,Paddle Boarding,26,4.5 m to 5.5 m [14.7' to 18'] white shark,Jul,N,M
+1092,1982,Unprovoked,usa,Swimming,17,0.9 m to 1.2 m [3' to 4'] shark,Jul,N,M
+1093,1982,Unprovoked,south africa,Surfing,27,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard",Jun,Y,M
+1094,1982,Unprovoked,usa,Swimming,20,5' shark,Jun,N,M
+1095,1982,Unprovoked,south africa,Swimming,20,Raggedtooth shark,Jan,N,M
+1096,1981,Unprovoked,usa,Surfing,24,7 m [23'] white shark,Dec,Y,M
+1097,1981,Unprovoked,usa,Swimming,19,1.8 m to 2.4 m [6' to 8'] shark,Oct,N,M
+1098,1981,Unprovoked,usa,Swimming,26,Said to involve a tiger shark or a hammerhead shark,Sep,Y,M
+1099,1981,Unprovoked,bahamas,Snorkeling on surface,53,Mako shark (tooth fragments recovered),Aug,N,M
+1100,1981,Unprovoked,south africa,Surfing,32,Possibly a  1.8 m [6'] Zambezi shark,Jul,N,M
+1101,1981,Unprovoked,south korea,Shell diving,27,6 m  white shark,May,Y,F
+1102,1981,Unprovoked,south africa,Surfing,27,Raggedtooth shark,May,N,M
+1103,1981,Unprovoked,south africa,Surfing,19,"Raggedtooth shark, 2.5 m [8.25'] ",May,N,M
+1104,1981,Unprovoked,south africa,Surfing,24,"Tiger shark, 2.1 m [7']",May,N,M
+1105,1981,Unprovoked,usa,Standing / Wading,19,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",Mar,N,M
+1106,1981,Unprovoked,usa,Surfing,24,C. maculpinnis or C. limbatus,Mar,N,M
+1107,1981,Unprovoked,south africa,Swimming,30,Juvenile dusky or blacktip shark,Feb,N,M
+1108,1981,Unprovoked,usa,Surfing,15,1.8 m to 2.4 m [6' to 8'] hammerhead shark,Feb,N,M
+1109,1981,Unprovoked,australia,Surf-skiing,27,"Tiger shark, 2.5 m ",,N,M
+1110,1980,Unprovoked,south africa,Paddleskiing,25,3.5 m [11.5'] shark,,N,M
+1111,1980,Unprovoked,reunion,Spearfishing,22,1.8 m [6'] white shark,Nov,N,M
+1112,1980,Unprovoked,usa,Surfing,29,4 m to 5 m [13' to 16.5'] white shark,Oct,N,M
+1113,1980,Unprovoked,usa,Surfing,19,4 m to 5 m [13' to 16.5'] white shark,Oct,N,M
+1114,1980,Unprovoked,usa,Standing,22,4' to 8' shark,Jul,N,F
+1115,1980,Unprovoked,south africa,Surfing,22,1.8 m [6'] shark,May,N,M
+1116,1980,Unprovoked,mexico,Body surfing,13,Tiger shark,Apr,N,F
+1117,1980,Unprovoked,south africa,Body boarding,24,"2.8 m [9'3""] white shark",Jan,N,M
+1118,1980,Provoked,south africa,Spearfishing,29,"2 m [6'9""] Zambesi shark",Jan,N,M
+1119,1980,Unprovoked,south africa,Swimming,25,"Raggedtooth shark, 2 m [6'9""] ",Jan,N,M
+1120,1980,Invalid,south africa,Spearfishing,20,Invalid,,,M
+1121,1979,Unprovoked,usa,Surfing,20,"White shark, 4 m [13'] ",Nov,N,M
+1122,1979,Provoked,south africa,Spearfishing,25,"White shark, 2.5 m [8.25']  ",,N,M
+1123,1979,Unprovoked,usa,Surfing,27,Blacktip or spinner shark,Mar,N,M
+1124,1979,Unprovoked,south africa,"Surfing, collided with shark",19,1.5 m to 2 m [5' to 6.75'] shark,Feb,N,M
+1125,1978,Unprovoked,south africa,Spearfishing,23,"White shark, 2.3 m [7.5'], tooth fragment recovered",Dec,Y,M
+1126,1978,Unprovoked,south africa,Spearfishing,27,"White shark, 3.7 m [12'] ",Sep,N,M
+1127,1978,Unprovoked,south africa,Surfing,17,Thought to involve a blacktip shark,Jan,N,M
+1128,1977,Unprovoked,south africa,Surfing,18,"Tiger shark, 3 m [10']",Dec,N,M
+1129,1977,Unprovoked,south africa,Spearfishing,25,"White shark, 5 m [16.5'] ",Oct,N,M
+1130,1977,Unprovoked,australia,Surfing,17,White shark,Aug,N,M
+1131,1977,Unprovoked,usa,Free diving for abalone (surfacing),20,"White shark, 5.5 m to 6 m [18' to 20']  ",Aug,N,M
+1132,1977,Provoked,usa,Spearfishing / Scuba diving,27,"Bull shark, 8",Jun,N,M
+1133,1976,Unprovoked,usa,Hookah diving for abalone (submerged),29,"White shark, 5.5 m [18'] ",Dec,N,M
+1134,1976,Unprovoked,south africa,"Thrashing the water / imitating the shark victim from ""Jaws""",19,"White shark, 3 m [10'] k",Nov,N,M
+1135,1976,Unprovoked,usa,Surfing,19,2.1 m [7'] lemon shark or bull shark,Nov,N,M
+1136,1976,Unprovoked,usa,Surfing,25,"White shark, 3 m to 4 m [10' to 13'] ",Oct,N,M
+1137,1976,Unprovoked,south africa,Surfing,20,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment",Oct,N,M
+1138,1976,Unprovoked,usa,Surfing,15,"Tiger shark, 6' ",Sep,N,M
+1139,1976,Unprovoked,usa,Surfing,19,"White shark, 4.5 m ",Aug,N,M
+1140,1976,Unprovoked,usa,Skindiving,17,12' to 14' shark,Jun,N,M
+1141,1975,Unprovoked,usa,Scuba diving & spearfishing,27,White shark,Dec,N,M
+1142,1975,Unprovoked,south africa,Standing,33,Juvenile dusky shark,Nov,N,M
+1143,1975,Unprovoked,south africa,Surfing,19,"White shark, 2.4 m [8']",Aug,N,M
+1144,1975,Unprovoked,usa,Floating on a small orange raft ,20,1.5 m [5'] shark,Aug,N,M
+1145,1975,Unprovoked,usa,Free diving for abalone,44,White shark,Aug,N,M
+1146,1975,Unprovoked,australia,Scuba diving for abalone,37,White shark,Jul,Y,M
+1147,1975,Unprovoked,usa,Scuba diving for abalone (at surface),23,"White shark, 5.8 m [19'] ",Jul,N,M
+1148,1975,Unprovoked,usa,Hookah diving for abalone,34,"White shark, 5m to 6m",Jul,N,M
+1149,1975,Unprovoked,usa,Swimming,14,1.2 m [4'] shark,Jul,N,F
+1150,1975,Unprovoked,usa,Swimming ,18,4' shark,Jun,N,M
+1151,1975,Unprovoked,south africa,Surfing,16,1.5 m [5'] shark,Feb,N,M
+1152,1975,Unprovoked,australia,Swimming underwater from crayfish cage to a fishing bait,12,"White shark, 3 m [10'] ",Feb,Y,M
+1153,1974,Unprovoked,usa,Surfing,17,"White shark, 5.5 m to 6 m [18' to 20'] ",Sep,N,M
+1154,1974,Unprovoked,usa,Hookah diving for abalone,29,"White shark, 4 m to 5 m ",Sep,N,M
+1155,1974,Unprovoked,israel,Swimming,20,"Shortfin mako shark, 2.3 m [7.5'] ",Sep,N,F
+1156,1974,Unprovoked,usa,Scuba diving (but on surface),41,"White shark, 5 m to 6 m [16.5 to 20'] ",Sep,N,M
+1157,1974,Unprovoked,usa,Scuba diving (but on surface),48,"White shark, 5 m to 6 m [16.5 to 20'] ",Sep,N,M
+1158,1974,Unprovoked,usa,Surfing,24,"White shark, 4.5 m ",Sep,N,M
+1159,1974,Unprovoked,usa,Free diving (but on surface),45,"White shark, 5 m [16.5']",May,N,M
+1160,1974,Unprovoked,south africa,Spearfishing,22,"Raggedtooth shark, 1.5 m [5'] ",Apr,N,M
+1161,1974,Unprovoked,south africa,Surfing,17,Juvenile dusky shark,Apr,N,M
+1162,1974,Unprovoked,south africa,Surfing,21,1.8 m [6'] shark,Mar,N,M
+1163,1974,Unprovoked,south africa,Swimming,33,2 m to 2.5 m [6.75'  to 8.25'] shark,Jan,N,M
+1164,1973,Unprovoked,bahamas,"Free diving, Spearfishing",11,7' to 8' bull shark,Sep,N,M
+1165,1973,Unprovoked,mexico,"Free diving, Spearfishing",37,White shark,Sep,Y,M
+1166,1973,Unprovoked,south africa,Spearfishing,26,"2 m shark, possibly a dusky or blacktip shark",Mar,N,M
+1167,1972,Unprovoked,mozambique,Swimming,25,2 m to 3 m shark,Dec,N,M
+1168,1972,Unprovoked,usa,Surfing,22,4.5' shark,Jun,N,M
+1169,1972,Unprovoked,usa,Free diving for abalone,32,"White shark, 4.4 m to 5 m [14.5' to 16.5'] ",May,N,M
+1170,1972,Unprovoked,australia,Surfing,18,7' shark,Feb,N,M
+1171,1972,Unprovoked,south africa,Sitting in shallows,30,Zambesi shark,Jan,N,F
+1172,1972,Unprovoked,mozambique,Standing,24,"White shark, 2.5 m [8.25'] ",Jan,N,M
+1173,1971,Unprovoked,south africa,Swimming,16,"White shark, 3 m [10']rk",Dec,N,F
+1174,1971,Unprovoked,usa,Surfing,18,5' to 6' shark,Oct,N,M
+1175,1971,Unprovoked,south africa,Swimming,25,1.5 m to 2 m shark,Oct,N,M
+1176,1971,Unprovoked,usa,Scuba diving,30,"White shark, 5 m to 6 m [16.5' to 20']  ",Oct,N,M
+1177,1971,Unprovoked,croatia,Swimming,34,White shark,Sep,Y,M
+1178,1971,Provoked,australia,Scuba diving & feeding fish,26,"Grey nurse shark, 11'",Aug,N,M
+1179,1971,Unprovoked,south africa,Surfing,21,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board ",Jun,N,M
+1180,1971,Unprovoked,south africa,Swimming,>50,White shark according to tooth pattern and witnesses,Apr,Y,M
+1181,1971,Unprovoked,new zealand,Surfing,16,"White shark, 4.6 m [15'] ",Mar,N,M
+1182,1970,Unprovoked,micronesia,Diving,43,1.8 to 2 m C. albimarginatus,Sep,N,M
+1183,1970,Provoked,south africa,Scuba Diving,25,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female ",Jun,N,M
+1184,1969,Unprovoked,usa,Free diving for abalone,53,"White shark, 4.3 m 4.9 m [14' to 16'] ",Sep,N,M
+1185,1969,Unprovoked,usa,Body surfing,13,4' shark,Aug,N,M
+1186,1969,Provoked,usa,Diving,23,Nurse shark,May,N,M
+1187,1969,Unprovoked,usa,Surfing,16,"White shark, identified by tooth fragments in surfboard",Mar,N,M
+1188,1969,Provoked,australia,Fishing,49,7-gill shark,Feb,N,M
+1189,1968,Provoked,australia,Feeding mullet to sharks,27,"Grey nurse shark, 10' ",Dec,N,M
+1190,1968,Unprovoked,new zealand,Surfing,17,White shark,Dec,N,M
+1191,1968,Unprovoked,new zealand,Spearfishing,24,"White shark, 4.3 m [14'], (tooth fragment recovered)",Sep,Y,M
+1192,1968,Unprovoked,columbia,Dynamite fishing,18,2 m shark,Aug,N,M
+1193,1968,Unprovoked,usa,Free diving,25,"White shark, 4 m [13'] ",Jul,N,M
+1194,1968,Unprovoked,usa,Spearfishing using Scuba,33,4m [13'] shark,Jul,N,M
+1195,1968,Invalid,usa,Wading,63,Shark involvement not confirmed,Apr,,M
+1196,1968,Unprovoked,south africa,Wading & pushing dinghy toward  the shallows,35,1.5 m to 1.8m [5' to 6'] shark,Mar,N,M
+1197,1968,Invalid,usa,Treading water,28,Invalid,Mar,,M
+1198,1968,Unprovoked,australia,Spearfishing,26,"Bronze whaler shark, 3 m [10'] ",Feb,N,M
+1199,1967,Unprovoked,south africa,Surfing,22,1.5 m to 1.8 m [5' to 6'] shark,Dec,N,M
+1200,1967,Unprovoked,usa,Standing on sandbar,19,small blacktip shark,Oct,N,M
+1201,1967,Provoked,usa,Pulling shark from the water,24,5' blue shark,Aug,N,M
+1202,1967,Unprovoked,australia,"Spearfishing, dived to pick up a float line",23,White shark,Aug,Y,M
+1203,1967,Invalid,australia,Anti-sabotage night dive exercise alongside destroyer (Scuba diving),? & 19,Shark involvement prior to death was not confirmed,Aug,,M
+1204,1967,Unprovoked,usa,Spearfishing,15,"Nurse shark, 106 cm, 28-lb, male ",Aug,N,M
+1205,1967,Unprovoked,bahamas,Photographing sharks underwater using Scuba,41,1.5 m to 1.8 m [5' to 6'] sandbar shark,Aug,N,M
+1206,1967,Provoked,usa,Spearfishing,26,"Nurse shark, 1 m ",Jun,N,M
+1207,1967,Unprovoked,south africa,Spearfishing,32,"White shark, 3 m [10'] ",Mar,N,M
+1208,1967,Provoked,australia,Spearfishing,36,Grey nurse shark,Mar,N,M
+1209,1967,Unprovoked,new zealand,Lifesaving drill,21,Thought to involve a white shark,Mar,Y,M
+1210,1966,Unprovoked,papua new guinea,Swimming,13,3.7 m [12'] shark,Oct,Y,F
+1211,1966,Unprovoked,papua new guinea,Bathing,8,3.7 m [12'] shark,Oct,Y,F
+1212,1966,Unprovoked,australia,"Free diving, carrying speargun",32,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun ",Sep,N,M
+1213,1966,Unprovoked,australia,Spearfishing,43,"Mako shark, 1.9 m [6.5'] ",Sep,N,M
+1214,1966,Unprovoked,new britain,Swimming,13,A pack of 6 sharks,Aug,Y,F
+1215,1966,Unprovoked,new britain,Diving into water,9,A pack of 6 sharks,Aug,Y,F
+1216,1966,Invalid,usa,Spearfishing on Scuba,26,Invalid,Aug,,M
+1217,1966,Unprovoked,usa,Wading,8,Spinner or blacktip sharks,Aug,N,M
+1218,1966,Provoked,usa,Killing a shark,34,4' shark,Jul,N,M
+1219,1966,Invalid,usa,Free diving,46,Invalid,Jul,,M
+1220,1966,Provoked,usa,Clamming,15,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",Jun,N,M
+1221,1966,Provoked,usa,Fishing,18,1.2 m [4'] hammerhead shark,Jun,N,M
+1222,1966,Unprovoked,usa,Swimming,18,a small shark,Jun,N,M
+1223,1966,Invalid,usa,Spearfishing / Scuba diving,24,Invalid,May,,M
+1224,1966,Unprovoked,australia,Treading water,13,"White shark, 2.5 m [8.25'], an immature female, previously injured",Feb,N,M
+1225,1966,Provoked,south africa,Helping men land a shark,33,Copper shark,Jan,N,M
+1226,1966,Unprovoked,usa,Free diving / spearfishing (resting on the surface),29,"White shark, 3 m [10'] ",Jan,N,M
+1227,1966,Unprovoked,south africa,Standing,16,1.5 m to 1.8 m [5' to 6'] Zambesi shark,Jan,N,M
+1228,1966,Unprovoked,south africa,Body surfing,15,"1.8 m to 2 m [6' to 6'9""] shark",Jan,N,M
+1229,1966,Unprovoked,usa,Swimming,35,Hammerhead shark,Jan,N,M
+1230,1966,Invalid,usa,Walking,15,Shark involvement not confirmed,,,F
+1231,1965,Unprovoked,australia,Surfing,24,"Grey nurse shark, 2.4 m [8'] ",Nov,N,M
+1232,1965,Invalid,usa,Surfing,19,Invalid,Apr,,M
+1233,1965,Unprovoked,usa,Spearfishing,28,"White shark, 10' to 12' ",Apr,N,M
+1234,1965,Unprovoked,palau,Walking on reef,8,"Tiger shark, tooth fragment recovered",Apr,N,M
+1235,1965,Unprovoked,usa,Paddling on surfboard,17,Blacktip or spinner shark,Apr,N,M
+1236,1965,Unprovoked,usa,Free diving,16,Mako shark,Mar,N,M
+1237,1965,Unprovoked,south africa,Treading water,25,"1.8 m [6'], 136-kg [300-lb] shark ",Feb,N,M
+1238,1965,Unprovoked,usa,Scuba diving,18,1.2 m [4'] shark,Feb,N,M
+1239,1965,Unprovoked,south africa,Paddling rescue ski,22,"White shark, 3.7 m [12'] ",Jan,N,M
+1240,1964,Unprovoked,south africa,Swimming,19,Raggedtooth shark ,Dec,N,M
+1241,1964,Unprovoked,papua new guinea,"Canoe swamped, swimming back to canoe",28,2.1 m [7'] shark,Dec,N,M
+1242,1964,Unprovoked,australia,Free diving with seals,25,"White shark, 2.4 m [8'] ",Nov,N,M
+1243,1964,Unprovoked,australia,"Surfing, but swimming to his board",19,"Grey nurse shark, 1.8 m [6']",Oct,N,M
+1244,1964,Unprovoked,taiwan,Swimming,20,1.8 m [6'] shark,Sep,N,M
+1245,1964,Unprovoked,mexico,Floating on his back in an inner tube,19,1.8 to 2.4 m [6' to 8'] shark,Aug,N,M
+1246,1964,Invalid,usa,Spearfishing / free diving,18,Invalid,Aug,,M
+1247,1964,Unprovoked,usa,Spearfishing using scuba,28,Hammerhead shark,Aug,N,M
+1248,1964,Invalid,usa,Attempting to swim across the Atlantic Ocean,29,Shark involvement prior to death was not confirmed,Jun,,F
+1249,1964,Invalid,south africa,Swimming,40,Shark involvement prior to death was not confirmed,Jun,,M
+1250,1964,Unprovoked,fiji,Spearfishing,35,Tiger shark,May,Y,M
+1251,1964,Unprovoked,usa,Skin diving ,38,1.7 m [5.5'] shark,Mar,N,M
+1252,1964,Unprovoked,new zealand,Spearfishing,26,"White shark, 3 m [10'] ",Feb,N,M
+1253,1964,Unprovoked,south africa,Body boarding,25,"White shark, 1.5 m [5'] k",Feb,N,M
+1254,1964,Unprovoked,new zealand,Swimming,19,"White shark, 3 m to 3.7 m [10' to 12'] ",Feb,Y,M
+1255,1964,Invalid,australia,Swimming,23,Shark involvement prior to death was not confirmed,Feb,,M
+1256,1964,Unprovoked,usa,Spearfishing / Scuba diving (at surface),21,White shark (tooth fragment recovered),Jan,N,M
+1257,1963,Unprovoked,south africa,Standing,20,"Zambesi shark, 1.8 m [6'] ",Dec,N,F
+1258,1963,Unprovoked,south africa,Swimming ,24,1.8 m [6']  shark,Dec,N,M
+1259,1963,Provoked,south africa,Helping friend land hooked shark,13,"Dusky shark, 1 m ",Dec,N,M
+1260,1963,Unprovoked,south africa,Splashing in surf,15,300- to 400-lb Zambesi shark,Dec,Y,M
+1261,1963,Unprovoked,australia,Spearfishing,23,White shark,Dec,N,M
+1262,1963,Unprovoked,new zealand,Treading water while alongside capsized yacht,20,Possibly a broadnose 7-gill shark,Nov,N,M
+1263,1963,Provoked,papua new guinea,Fishing / standing in waist deep water,18,Tiger shark,Nov,N,F
+1264,1963,Unprovoked,fiji,Fishing,21,>1.2 m [4'] tiger shark,Nov,N,F
+1265,1963,Unprovoked,palau,Fishing,35,Dooley believed his Injury was caused by stingray (Dasyatidae family),Nov,N,M
+1266,1963,Unprovoked,usa,"Surf fishing, wading ",28,500-lb shark,Oct,N,M
+1267,1963,Unprovoked,solomon islands,Spearing fish,30,5.5 m [18'] shark,Sep,Y,M
+1268,1963,Provoked,australia,Surfing,18,1.5 m [5'] shark,Sep,N,M
+1269,1963,Provoked,usa,"Spearfishing, pulled sharks tail",16,"Nurse shark, 1.2 m [4'] ",Sep,N,M
+1270,1963,Unprovoked,federated states of micronesia,Spearfishing,26,Tiger shark,Jul,N,M
+1271,1963,Unprovoked,greece,Swimming,42,"White shark, 3 m ",Jun,Y,F
+1272,1963,Provoked,papua new guinea,Fishing,30,1.8 m [6'] shark,Jun,N,M
+1273,1963,Unprovoked,usa,Swimming,25,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",Apr,Y,M
+1274,1963,Unprovoked,usa,Surfing ,15,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,Apr,N,M
+1275,1963,Unprovoked,australia,Spearfishing,18,"Bronze whaler shark, 3 m [10'] ",Feb,N,M
+1276,1963,Unprovoked,fiji,Spearfishing,28,"White shark, 2.1 m [7'] ",Feb,N,M
+1277,1963,Unprovoked,australia,Wading,32,"Tooth fragments of whaler shark were recovered, a bull shark, according to Edwards",Jan,Y,F
+1278,1963,Invalid,australia,Swimming,25,Shark involvement prior to death was not confirmed,Jan,,M
+1279,1963,Unprovoked,south africa,"Free diving, hunting crayfish",27,1 m shark,Jan,N,M
+1280,1963,Unprovoked,south africa,Spearfishing,24,"Zambesi shark, 2 m [6'9""] ",Jan,N,M
+1281,1962,Unprovoked,australia,Spearfishing,16,"White shark, 4.3 m [14'] (or bronze whaler)",Dec,Y,M
+1282,1962,Unprovoked,usa,Spearfishing / Scuba diving (at surface),24,"White shark, 4.3 m to 4.9m [14' to 16']",Nov,N,M
+1283,1962,Unprovoked,mexico,Wading,32,2.7 m [9'] shark,Oct,Y,M
+1284,1962,Unprovoked,british west indies,Spearfishing,24," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] ",Sep,N,M
+1285,1962,Unprovoked,italy,Spearfishing with Scuba gear,28,White shark,Sep,Y,M
+1286,1962,Provoked,papua new guinea,Fishing,49,"""A long thin brown-colored shark""",Aug,N,M
+1287,1962,Provoked,usa,Diving for abalone,39,"Horn shar,k Heterodontus francisci, 1.2 m [4'] ",Aug,N,M
+1288,1962,Unprovoked,usa,Surf fishing in waist-deep water,40,Unknown,Aug,Y,M
+1289,1962,Unprovoked,usa,Standing,24,1.8 m [6'] shark,Aug,N,M
+1290,1962,Provoked,usa,Fishing for albacore,19,Blue shark,Jul,N,M
+1291,1962,Unprovoked,usa,Rolled off raft,11,1.8 m [6'] shark,Jun,N,M
+1292,1962,Provoked,usa,"Scuba diving, attempting to catch a captive shark",55," Sevengill  shark, 1.2 m [4'] ",Jun,N,M
+1293,1962,Unprovoked,south africa,Wading,13,"Zambesi shark, 1.2 m [4'] ",Apr,N,M
+1294,1962,Unprovoked,papua new guinea,Swimming,10,Possibly a bronze whaler shark,Mar,Y,M
+1295,1962,Unprovoked,south africa,Treading water,13,"White shark, 3 m ",Feb,Y,M
+1296,1962,Unprovoked,australia,Swimming,35,60 cm  shark ,Feb,N,M
+1297,1962,Unprovoked,new zealand,Splashing ,18,1.5 m [5'] shark,Jan,N,M
+1298,1962,Invalid,south africa,"Fishing, slipped on rocks & fell into sea",40,Shark involvement prior to death was not confirmed,Jan,,M
+1299,1962,Unprovoked,usa,Spearfishing / Scuba diving (at surface),29,"White shark, 4 m [13'] ",Jan,N,M
+1300,1962,Unprovoked,australia,Surfing,19,"Bronze whaler shark, 2.1 m [7'] shark",Jan,N,M
+1301,1962,Unprovoked,papua new guinea,Spearfishing,24,White shark,Jan,N,M
+1302,1962,Unprovoked,new zealand,Surf fishing,54,"36""  shark",Jan,N,F
+1303,1962,Unprovoked,marshall islands,Fishing with hand net in 2' of water,57,1.8 m [6'] shark,Jan,N,M
+1304,1961,Unprovoked,australia,Standing,18,3 m [10'] shark,Dec,Y,F
+1305,1961,Unprovoked,australia,Standing,24,3 m [10'] shark,Dec,N,M
+1306,1961,Unprovoked,south africa,Treading water,18,Zambesi shark,Dec,N,M
+1307,1961,Provoked,australia,Spearfishing,23,"Grey nurse shark, 2.4 m [8'] ",Dec,N,M
+1308,1961,Unprovoked,australia,"Surfing, pushing board ashore",22,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut,Dec,Y,M
+1309,1961,Unprovoked,australia,Swimming with other crew near wharf,17,1.8 m [6'] shark,Dec,N,M
+1310,1961,Unprovoked,croatia,Swimming,19,White shark,Sep,Y,M
+1311,1961,Unprovoked,usa,Swimming,16,"White shark, 4 m [13'] ",Aug,N,M
+1312,1961,Unprovoked,usa,Wading,19,White shark,Aug,N,M
+1313,1961,Unprovoked,usa,"Net fishing, picking catch from the net",38,2.4 m [8'] shark,Aug,N,M
+1314,1961,Provoked,usa,Spearfishing,57,"43"" shark",Jul,N,M
+1315,1961,Unprovoked,italy,Spearfishing,21,"White shark, 4.5 m ",Jul,N,M
+1316,1961,Unprovoked,usa,Free diving for abalone,20,White shark,May,N,M
+1317,1961,Unprovoked,usa,Walking in chest-deep water,52,"Hammerhead shark, 500-llb ",May,N,M
+1318,1961,Invalid,usa,Splashing ,10,Shark involvement not confirmed,Apr,,M
+1319,1961,Unprovoked,mozambique,Swimming,37,Zambesi shark,Apr,N,M
+1320,1961,Unprovoked,australia,"Checking fish traps, fell into the water",40," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']",Apr,N,M
+1321,1961,Unprovoked,mozambique,"Swimming, using bundles of sticks as raft",38,Zambesi shark,Apr,Y,M
+1322,1961,Unprovoked,australia,Swimming,24,3 m [10'] shark,Mar,N,M
+1323,1961,Unprovoked,australia,Spearfishing,21,"White shark, 3.7 m [12'] ",Mar,N,M
+1324,1961,Unprovoked,north pacific ocean,Free diving,33,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart",Mar,N,M
+1325,1961,Unprovoked,south africa,"Spearfishing, shark grabbed his white t-shirt and towed him ",27,1.5 m [5'] shark,Feb,N,M
+1326,1961,Unprovoked,south africa,Swimming,14,"2.1 m [7'], 90-kg shark",Feb,Y,M
+1327,1961,Unprovoked,south africa,Swimming,15,White shark,Jan,N,M
+1328,1961,Provoked,australia,Collecting aquarium specimens,27,"Wobbegong shark, 1.5 m [5'] ",Jan,N,M
+1329,1961,Unprovoked,south africa,Standing,13,"White shark, based on bite pattern",Jan,N,M
+1330,1960,Unprovoked,south africa,Swimming,25,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",Dec,Y,M
+1331,1960,Unprovoked,australia,"Fishing, when line became snagged on rock & he dived into water to free it ",33,"Grey nurse shark, 1m ",Dec,,M
+1332,1960,Unprovoked,australia,Swimming,41,3' shark,Nov,,M
+1333,1960,Provoked,usa,Holding shark on leader & dangling it above the water,15,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer",Aug,N,M
+1334,1960,Provoked,usa,"Fishing, tossing netted shark onboard",41,"""sand shark""",Jul,N,M
+1335,1960,Unprovoked,usa,Scuba diving,39,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth",Jun,N,M
+1336,1960,Unprovoked,bermuda,Free diving but treading water at surface,25,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered",May,N,M
+1337,1960,Unprovoked,usa,Swimming ,16,"White shark, 4 m to 5 m [13' to 16.5'] ",May,N,F
+1338,1960,Unprovoked,south africa,Treading water,16,"White shark, 2.1 m [7']  based on tooth pattern",Apr,N,M
+1339,1960,Unprovoked,usa,Skindiving for abalone (but at surface),48,"White shark, 4.9 m [16'] ",Apr,N,M
+1340,1960,Invalid,bermuda,Floating on a raft,"21, 34,24 & 35",Questionable incident,Apr,,M
+1341,1960,Unprovoked,australia,Surfing,17,"White shark, 3.7 m [12'] ",Apr,N,M
+1342,1960,Unprovoked,usa,Treading water,42,"1.2 m [4'], possibly  larger shark",Mar,N,M
+1343,1960,Unprovoked,australia,"Wading, fishing for flounder",30 & 32,Two 2.1 m [7'] sharks,Feb,N,M
+1344,1960,Invalid,usa,Spearfishing,36,"According to Benjamin, the injury was inflicted by a barracuda, not a shark",Feb,,M
+1345,1960,Unprovoked,australia,Free diving,13,Bull shark,Jan,Y,M
+1346,1959,Unprovoked,australia,Body surfing,19,3.5 m [11.5'] shark,Nov,N,M
+1347,1959,Unprovoked,australia,Standing in chest-deep water,17,"""a small shark""",Nov,N,M
+1348,1959,Unprovoked,australia,Trailing the field in a surf race,19,3 m to 4.3 m [10' to 14'] shark,Nov,N,M
+1349,1959,Unprovoked,usa,Swimming at surface through school of feeding 2.5' to 5 sharks,21,"Blue shark, 1.5 m [5'] ",Nov,N,M
+1350,1959,Unprovoked,usa,Diving for abalone,30,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks",Oct,N,M
+1351,1959,Unprovoked,fiji,Spearfishing,36,"Tiger shark, 1.8 m [6']",Oct,N,M
+1352,1959,Sea Disaster,usa,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",30,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved",Sep,N,M
+1353,1959,Invalid,philippines,The 240-ton motor vessel Pilar II with 100 people on board capsized in high winds & rough seas,10,Shark involvement prior to death was not confirmed,Aug,,M
+1354,1959,Unprovoked,japan,Swimming,13 or 18,"Blue shark, 3 m [10']",Aug,Y,M
+1355,1959,Unprovoked,usa,Spearfishing (but on surface),25,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description",Jul,N,M
+1356,1959,Unprovoked,usa,Free diving for abalone,33,"Reported to involve a White shark, 6 m to 7m [20' to 23'] ",Jun,Y,M
+1357,1959,Unprovoked,usa,Treading water,18,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks",May,Y,M
+1358,1959,Unprovoked,usa,Spearfishing,19,"Tiger shark, 3.7 m [12']",May,N,M
+1359,1959,Unprovoked,south africa,Treading water,14,1.8 to 2.1 m [6' to 7'] shark,Feb,N,M
+1360,1959,Unprovoked,australia,Working prawn net,20,"Grey nurse shark, 1.8 m [6']",Jan,N,M
+1361,1959,Unprovoked,australia,In deep water about 100 yards from his ship,22,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,Jan,Y,M
+1362,1959,Unprovoked,australia,"Surfing, but treading water",17,1.8 m [6'] shark,Jan,N,M
+1363,1959,Unprovoked,south africa,Swimming,18,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness",Jan,N,M
+1364,1958,Unprovoked,usa,Surfing on air mattress,15,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",Dec,Y,M
+1365,1958,Unprovoked,american samoa,Cleaning hull of ship ,22,Tiger shark,Dec,Y,M
+1366,1958,Unprovoked,australia,Swimming,21,12' shark,Nov,Y,M
+1367,1958,Unprovoked,bahamas,Fishing,42,200-lb shark,Sep,N,M
+1368,1958,Unprovoked,usa,"Swimming, ducking for shells in water 0.9 m deep",12,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",Jul,N,M
+1369,1958,Unprovoked,usa,"Swimming, ducking for shells in water 0.9 m deep",8,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",Jul,N,M
+1370,1958,Sea Disaster,pacific ocean,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,31,Sharks averaged 1.8 m [6'] in length,Jul,N,M
+1371,1958,Provoked,usa,Free diving,20,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark",Jul,N,M
+1372,1958,Unprovoked,bahamas,"Spearfishing, had fish on his spear",36,"Tiger shark, <2 m TL",Jul,N,M
+1373,1958,Provoked,usa,Wading,59,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions",Jun,N,M
+1374,1958,Unprovoked,usa,Walking,17,Tiger shark?,Jun,N,M
+1375,1958,Unprovoked,taiwan,Diving,29,"Mako shark, 100-kg [221-lb] ",Apr,N,M
+1376,1958,Unprovoked,south africa,Paddling in knee-deep water,28,3 m [10'] shark,Apr,Y,F
+1377,1958,Unprovoked,south africa,Swimming with goggles,29,3 m [10'] shark,Apr,Y,M
+1378,1958,Unprovoked,australia,Body surfing,14,6' shark,Jan,N,M
+1379,1957,Unprovoked,south africa,Standing,14,1.8 m [6'] shark,Dec,N,F
+1380,1957,Unprovoked,south africa,Floating,23,>3 m [10'] shark,Dec,Y,M
+1381,1957,Unprovoked,usa,Swimming,57,White shark,Jul,Y,M
+1382,1957,Unprovoked,australia,Competing in spearfishing championship & towing dead fish,28,4.6 m [15'] shark,May,N,M
+1383,1957,Unprovoked,usa,Swimming,25,White shark,Apr,Y,M
+1384,1957,Provoked,usa,Standing,17,4 m [13'] shark,Apr,N,M
+1385,1957,Unprovoked,australia,Swimming between  anchored  pearling luggers,22,Shark seen feeding on turtle scraps thrown overboard prior to incident.,Apr,N,M
+1386,1956,Unprovoked,papua new guinea,Spearfishing,19,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut,Dec,Y,M
+1387,1956,Unprovoked,senegal,"Skindiving, fish at belt",19,Lemon shark,Oct,N,M
+1388,1956,Unprovoked,usa,Swimming near pier,10,"White shark, 2.7 m [9'] ",Aug,N,M
+1389,1956,Unprovoked,australia,"Swimming, attacked at  surf carnival",26,3.7 m [12'] shark & may have been another shark nearby,Mar,Y,M
+1390,1956,Unprovoked,australia,Diving into water,15,1.8 m [6'] shark,Feb,Y,M
+1391,1955,Unprovoked,papua new guinea,Swimming,8,Wobbegong shark,Nov,N,M
+1392,1955,Unprovoked,american samoa,Swimming,28,Blue shark,Aug,Y,M
+1393,1955,Unprovoked,usa,Spearfishing,19,"White shark, 5 m to 6 m [16.5' to 20] ",Feb,N,M
+1394,1955,Unprovoked,australia,Swimming,25,3.6 m  white shark  (or bronze whaler),Feb,Y,M
+1395,1955,Unprovoked,australia,Hunting lobsters in 2.4 m of water,13,"Bronze whaler shark,3.7 m [12'] ",Jan,Y,M
+1396,1954,Unprovoked,australia,Pearl diving from lugger Whyalla,30,2.4 m [8']  shark,Jun,N,M
+1397,1954,Unprovoked,argentina,Floating,18,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett,Jan,N,M
+1398,1954,Unprovoked,papua new guinea,Crouching in the water,26,14' shark,Jan,N,M
+1399,1953,Invalid,mexico,Free diving,19,Invalid,Aug,,M
+1400,1953,Unprovoked,usa,Spearfishing,15,3 m [10'] shark seen in vicinity,Jul,Y,M
+1401,1953,Unprovoked,australia,Spearfishing,25,Wobbegong shark,Feb,N,M
+1402,1952,Unprovoked,australia,"Fishing, setting nets",25,2.4 m [8'] shark,Dec,N,M
+1403,1952,Unprovoked,usa,Body surfing & treading water,17,"White shark,4.6 m [15'] ",Dec,Y,M
+1404,1951,Unprovoked,australia,Treading water,21,2.4 m [8']  shark,Dec,Y,M
+1405,1951,Unprovoked,south africa,Swimming,23,"White shark, 1.8 m [6'] ",Nov,N,M
+1406,1951,Unprovoked,south africa,Treading water,24,"White shark, 2.4 m [8'] ",Nov,N,M
+1407,1951,Provoked,australia,Fell off surf ski,23,"Wobbegong shark, 4'",Mar,N,M
+1408,1951,Unprovoked,south africa,Body surfing,31,136-kg [300-lb] shark,Feb,N,M
+1409,1950,Unprovoked,australia,Body surfing,21,"White shark, 3m, seen in area and hooked 3 days later",Nov,N,M
+1410,1950,Unprovoked,usa,Body surfing / treading water,31,White shark,Oct,N,M
+1411,1950,Unprovoked,australia,Fishing,25,4' shark,Oct,N,M
+1412,1950,Provoked,el salvador,Jerked overboard while pole fishing for tuna,27,"1,100-lb shark",Aug,N,M
+1413,1950,Unprovoked,south africa,Body surfing,14,"White shark, 3.7 m [12']  according to witnesses",Feb,Y,M
+1414,1950,Unprovoked,indonesia,Bending over,7 or 8,"Tiger shark, 3.7 m to 4.3 m  [12' to 14']",,Y,M
+1415,1949,Unprovoked,australia,Free diving or wading back to shore,36,6' shark,Nov,N,M
+1416,1949,Unprovoked,australia,Bathing in water 0.9 m deep,13,"3.3 m [10'9""] shark",Apr,Y,M
+1417,1949,Unprovoked,australia,Lifesaving exhibition,20,"White shark, 3.6 m [11'9""] ",Jan,Y,M
+1418,1949,Invalid,australia,Surfing,32,Invalid,Jan,,M
+1419,1948,Unprovoked,greece,Swimming,17,Said to be 6.4 m [21'] shark,Sep,Y,M
+1420,1948,Provoked,usa,Underwater photography,48,Nurse shark,,N,M
+1421,1947,Unprovoked,australia,Fishing,9,Grey nurse shark,Dec,N,M
+1422,1947,Unprovoked,usa,Swimming,20,Possibly C. leucas,Aug,Y,M
+1423,1947,Unprovoked,south africa,Treading water,21,"1.5 m, 45-kg shark",Apr,N,M
+1424,1947,Unprovoked,south africa,Treading water,22,"Blacktip shark, 2 m [6.75'] ",Mar,N,M
+1425,1947,Unprovoked,south africa,Treading water,18,>1.6 m shark,Jan,N,M
+1426,1946,Unprovoked,australia,Swimming after a tennis ball,30,4.3 m [14'] shark,Aug,Y,M
+1427,1946,Unprovoked,australia,Standing,18,"White shark, 4.2 m [13'9""] ",Feb,N,M
+1428,1946,Unprovoked,south africa,Jumping in swells,18,1.5 m [5'] shark,Jan,N,M
+1429,1945,Unprovoked,south africa,Walking,37,Thought to involve a Zambesi shark,Mar,N,M
+1430,1945,Unprovoked,iraq,Swimming,15,Bull shark,,N,M
+1431,1944,Unprovoked,south africa,Swimming,17,"White shark, according to witnesses",Jul,Y,M
+1432,1943,Unprovoked,panama,Dived overboard to check propeller of US Navy motor torpedo boat,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",Sep,Y,M
+1433,1943,Invalid,mexico,Swimming,68,Invalid,Jul,,M
+1434,1942,Unprovoked,australia,Dog paddling or standing,15,Bull shark,Dec,Y,F
+1435,1942,Unprovoked,south africa,Swimming ,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",Nov,Y,M
+1436,1942,Unprovoked,australia,Treading water,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Sep,N,M
+1437,1942,Unprovoked,australia,Swimming,28,"Bull shark, 4 m [13'] ",Jan,Y,F
+1438,1942,Unprovoked,bahamas,Swimming along side N.E.L. vessel Saluda,48,1.2 m to 1.5 m [4' to 5'] shark,,N,M
+1439,1941,Provoked,usa,Fishing from 32' boat,43,2.1 m [7'] shark,Jun,N,M
+1440,1941,Provoked,usa,Fishing,53,Mako shark (aka bonito shark) 1.2 m [4'] ,Mar,N,M
+1441,1940,Unprovoked,south africa,Treading water,25,"White shark, species identity confirmed by tooth pattern",Mar,Y,M
+1442,1940,Unprovoked,south africa,Swimming,17,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern",Feb,Y,M
+1443,1940,Unprovoked,australia,Swimming,13,3 m [10'] shark,Jan,Y,M
+1444,1940,Unprovoked,south africa,Swimming ,18,2.4 m [8'] shark,Jan,Y,M
+1445,1939,Unprovoked,australia,Swimming ,20,2.6 m [8.5'] shark landed 2 hours later,Dec,Y,M
+1446,1939,Provoked,bahamas,"Dress diving, filming shark & pulling it through the water for a motion picture scene",38,"Nurse shark, 2.1 m [7']",Jul,N,M
+1447,1938,Provoked,australia,Fishing,18,"Tiger shark, 6'",Oct,N,M
+1448,1938,Unprovoked,iraq,"Swimming, naked",9 or 10,Bull shark,May,N,M
+1449,1938,Invalid,australia,Diving off jetty,24,Questionable incident,Jan,,M
+1450,1937,Unprovoked,australia,Swimming ,25,Tiger shark,Oct,Y,M
+1451,1937,Unprovoked,australia,Swimming ,18,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains ",Oct,Y,M
+1452,1937,Unprovoked,australia,"Diving from the lugger San, operated by the Protector of the Aborigines",38,"Tiger shark, 9' to 10' ",Aug,N,M
+1453,1937,Unprovoked,australia,"Refused permission to cross on the ferry, he was swimming across the river",33,2 days later a 600-lb shark was caught 100 yards from the site,May,Y,M
+1454,1937,Unprovoked,australia,Swimming,32,White shark,Feb,Y,M
+1455,1936,Unprovoked,usa,Swimming crawl stroke,16,White shark (identified by Dr. Hugh Smith) ,Jul,Y,M
+1456,1936,Unprovoked,australia,Diving for trochus,16,"Tiger shark, 4.6 m [15'] ",Apr,N,M
+1457,1936,Unprovoked,australia,Swimming,14,White shark,Feb,Y,M
+1458,1936,Unprovoked,australia,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",13,White shark,Jan,Y,M
+1459,1935,Unprovoked,australia,"Fell overboard, hanging onto lifebuoy",38,3.7 m [12'] shark,Aug,Y,M
+1460,1935,Unprovoked,australia,Swimming,27,"White shark, 4 m [13'] ",Mar,Y,M
+1461,1935,Unprovoked,australia,Standing,22,"White shark, 3.5 m to 4 m [11.5' to 13'] ",Mar,Y,M
+1462,1934,Unprovoked,australia,Splashing,13,"Tiger shark, 1.5 m [5'] ",Dec,N,F
+1463,1934,Unprovoked,australia,Swimming in waist-deep water ,15,4.3 m [14'] shark seen in vicinity,Apr,Y,M
+1464,1934,Unprovoked,australia,Swimming in hip-deep water,17,4 m [13'] shark seen in vicinity,Mar,Y,M
+1465,1934,Unprovoked,australia,Swimming on sandbar adjacent to channel,22,4.3 m [14'] shark seen in area previous week,Jan,N,M
+1466,1932,Unprovoked,australia,Swimming,24,Thought to involve a mako or grey nurse shark,Oct,N,M
+1467,1932,Unprovoked,south africa,Collecting fish by lamplight in gully,23,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] ",,N,M
+1468,1931,Invalid,australia,Swimming ,39,Shark involvement prior to death unconfirmed,Feb,,M
+1469,1931,Unprovoked,australia,Swimming,18,1.5 m [5'] shark,Jan,N,M
+1470,1930,Unprovoked,australia,Diving off pier & treading water,18,White shark 4.9 m [16'] ,Feb,Y,M
+1471,1930,Unprovoked,south africa,Swimming,23,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern",Jan,N,M
+1472,1929,Provoked,australia,Standing in knee-deep water,19,"Grey nurse shark, 4' ",Apr,N,M
+1473,1929,Unprovoked,australia,Swimming,39,Galapagos shark,Feb,Y,M
+1474,1929,Unprovoked,australia,Body surfing,14,12' shark,Jan,Y,M
+1475,1928,Unprovoked,panama,Swimming,17,Morenos leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph,Nov,Y,M
+1476,1928,Unprovoked,australia,Bathing,15,4' shark,Apr,N,M
+1477,1928,Unprovoked,south africa,Body surfing,18,1.2 m [4'] shark,Jan,N,M
+1478,1927,Unprovoked,south africa,Swimming,17,"White shark, 4.4 m [14.5'] . ",Dec,Y,M
+1479,1927,Unprovoked,australia,Body surfing / treading water,17,Grey nurse shark?,Mar,N,M
+1480,1927,Unprovoked,australia,Swimming,15,3.7 m [12'] shark,Jan,Y,M
+1481,1926,Unprovoked,australia,Bathing,17,"Grey nurse shark, 4'",Oct,N,M
+1482,1926,Unprovoked,italy,Swimming,20,Said to involve 6 to 7 m [20' to 23'] white shark,Jul,Y,M
+1483,1926,Unprovoked,usa,Swimming with dog near canning factory,15,1.5 m [5'] white shark or sevengill shark,Jul,N,M
+1484,1925,Unprovoked,australia,Floating on his back,55,"Tiger shark, 4 m [13'] female",Nov,Y,M
+1485,1925,Unprovoked,australia,Bathing in waist-deep water,16,Said to be a small shark,Mar,N,M
+1486,1924,Unprovoked,australia,Had just dived into water & was swimming,16,3 m [10'] shark,Jan,Y,M
+1487,1922,Unprovoked,australia,Bathing in 3' to 4' of water,19,"2.7 m [9'] ""blue"" shark",Dec,Y,M
+1488,1922,Unprovoked,jamaica,Swimming,19,6' shark,,Y,M
+1489,1922,Unprovoked,south africa,Swimming,18,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark ",May,N,M
+1490,1922,Unprovoked,australia,Bathing in knee-deep water,21,"White shark, 2.4 m [8'] ",Mar,Y,M
+1491,1922,Unprovoked,australia,Swimming,18,White shark,Feb,Y,M
+1492,1919,Unprovoked,australia,Wading,13,12' shark,Jan,Y,M
+1493,1916,Unprovoked,usa,Swimming,24,Thought to involve a 2.6 m [8.5'] white shark,Jul,Y,M
+1494,1912,Unprovoked,australia,Swimming,21,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",Jan,Y,M
+1495,1906,Unprovoked,south africa,Washing horses,30,1.8 m to 2.7 m [6' to 9'] shark,Jan,Y,M
+1496,1905,Unprovoked,australia,Bathing,40,5' shark,Mar,N,M
+1497,1901,Unprovoked,south africa,Swimming,29,White shark,Jul,Y,M
+1498,1894,Unprovoked,australia,Bathing,19,10' to 12' shark,Nov,N,M
+1499,1892,Provoked,australia,Fishing,21,12' shark,Mar,N,M
+1500,1880,Unprovoked,australia,Swimming,12,Bull shark,Nov,Y,M
+1501,1868,Unprovoked,india,Standing,35,Identified as C. gangeticus by Dr. J. Fayrer,May,Y,M
+1502,1800,Unprovoked,seychelles,a corsair's boat was overturned,,,,Y,F
+1503,1797,Unprovoked,,Dropped overboard,,,May,Y,
+1504,1792,Provoked,england,Fishing,,,Sep,Y,M
+1505,1791,Unprovoked,australia,,,,,Y,F
+1506,1788,Boat,australia,Fishing,,,May,N,
+1507,1787,Unprovoked,,Swimming,,,Jul,Y,M
+1508,1786,Unprovoked,barbados,Washing himself,,,Aug,Y,M
+1509,1785,Unprovoked,england,,,Tiger shark?,Sep,Y,M
+1510,1784,Unprovoked,jamaica,Swimming,,,Dec,Y,M
+1511,1783,Sea Disaster,martinique,,,,Mar,Y,M
+1512,1780,Unprovoked,usa,Swimming,,,Aug,Y,M
+1513,1779,Unprovoked,usa,Surfing,young,,,Y,M
+1514,1776,Unprovoked,guinea,Murder,,,,Y,M
+1515,1776,Boat,greenland,,,White sharks,,Y,
+1516,1771,Unprovoked,usa,Fishing,,,Jul,Y,M
+1517,1767,Invalid,france,Bathing,,Description of shark does not ring true,,,M
+1518,1764,Unprovoked,spain,Swimming,,,,Y,M
+1519,1758,Unprovoked,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",,N,M
+1520,1753,Unprovoked,jamaica,Fell overboard,,,Oct,Y,M
+1521,1751,Unprovoked,usa,Swimming,,,Jul,Y,M
+1522,1749,Unprovoked,cuba,Swimming,14,,,N,M
+1523,1755,Unprovoked,sweden,,,,,,M
+1524,1748,Unprovoked,panama,Pearl diving,,,,Y,M
+1525,1742,Unprovoked,,Swimming,,,Dec,Y,M
+1526,1738,Unprovoked,italy,Swimming,,,Apr,Y,M
+1527,1733,Invalid,iceland,,,Shark involvement prior to death unconfirmed,,,
+1528,1723,Unprovoked,roatan,,,,,,M
+1529,1721,Unprovoked,italy,Swimming,,"White shark, 1600-lb female ",,Y,M
+1530,1703,Unprovoked,barbados,Swimming,19,,Mar,N,M
+1531,1700,Unprovoked,france,,,,,Y,M
+1532,1700,Unprovoked,france,Bathing,,White shark,,N,M
+1533,1700,Unprovoked,barbados,Bathing,,,,Y,M
+1534,1642,Invalid,guinea,Went overboard,,Questionable,,,M
+1535,1638,Unprovoked,,,,,,,M
+1536,1637,Unprovoked,india,Wading,,,,,
+1537,1617,Unprovoked,india,,,,,,
+1538,1642,Unprovoked,usa,Swimming ,,,,Y,M
+1539,1595,Unprovoked,india,Ship lay at anchor & man was working on its rudder,,,,,M
+1540,1580,Unprovoked,between portugal & india,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,,Jan,Y,M
+1541,1555,Unprovoked,,Swimming,,,,,M
+1542,1554,Unprovoked,france,,,Possibly white sharks,,,M
+1543,1543,Unprovoked,venezuela,Pearl diving,,,,Y,M
+1544,500,Unprovoked,mexico,,,,,N,M
+1545,77,Unprovoked,,Sponge diving,,,,Y,M
+1546,5,Unprovoked,australia,,,,,N,M
+1547,0,Unprovoked,,Ascending from a dive,,,,Y,M
+1548,0,Unprovoked,greece,Washing his pig in preparation for a religious ceremony,,,,Y,M
+1549,0,Sea Disaster,greece,Shipwrecked Persian Fleet,,,,Y,M
+1550,0,Sea Disaster,italy,Shipwreck,,,,Y,M
+1551,0,Unprovoked,canada,Fishing,,,,N,M
+1552,0,Unprovoked,kenya,Diving,,,,N,M
+1553,0,Unprovoked,kenya,Diving,,,,Y,M
+1554,0,Unprovoked,panama,Swimming/,20,,Oct,Y,M
+1555,0,Unprovoked,uruguay,Swimming,,,,N,
+1556,0,Unprovoked,uruguay,Swimming,,,,Y,M
+1557,0,Unprovoked,usa,Swimming,,,,N,M
+1558,0,Unprovoked,papua new guinea,Swimming to canoe,,,,Y,M
+1559,0,Unprovoked,australia,,15,,,N,F
+1560,0,Unprovoked,australia,Fell into the water,,,,Y,M
+1561,0,Unprovoked,usa,Diving,," Galapagos shark, 6'",,N,M
+1562,0,Unprovoked,bermuda,,,,,Y,M
+1563,0,Unprovoked,greece,Swimming,,,,Y,F
+1564,0,Unprovoked,usa,Fishing for basking sharks,,Basking shark,,Y,M
+1565,0,Provoked,india,,,,,N,M
+1566,0,Unprovoked,lebanon,Collecting fish ,,,,N,M
+1567,0,Unprovoked,spain,Skin diving,,,,N,
+1568,0,Unprovoked,sudan,Snorkeling,,,,N,F
+1569,0,Provoked,,,,,,N,M
+1570,0,Unprovoked,usa,Shark tagging,21,"Blacktip shark, 5'",,N,F
+1571,0,Unprovoked,usa,Surfing,,,,N,M
+1572,0,Unprovoked,djibouti,A dhow capsized,,,,Y,
+1573,0,Unprovoked,libya,Sponge diving,,,,Y,M
+1574,0,Unprovoked,australia,Net-fishing,,,,N,M
+1575,0,Unprovoked,new zealand,,,,Jun,Y,M
+1576,0,Unprovoked,,Netting shrimp,,,,N,F
+1577,0,Unprovoked,vietnam,Bathing,,,,N,M
+1578,0,Unprovoked,sri lanka,Fishing?,,,,N,M
+1579,0,Unprovoked,venezuela,Spearfishing ,,said to involve 2.5 m hammerhead sharks,,Y,M
+1580,0,Unprovoked,usa,Wade-fishing,,,,N,M
+1581,0,Unprovoked,greece,Free diving for sponges,,,,Y,M
+1582,0,Boat,mozambique,Fishing,,Whale shark,,N,
+1583,0,Unprovoked,south africa,Swimming,,,,Y,M
+1584,0,Unprovoked,australia,Helmet diving,,Tiger shark,,N,M
+1585,0,Unprovoked,bahrein,Pearl diving,,Tiger shark,,Y,M
+1586,0,Unprovoked,bahamas,Spearfishing ,,1.8 m [6'] shark,,N,M
+1587,0,Unprovoked,usa,Kitesurfing,,,,N,M
+1588,0,Unprovoked,reunion,yachtsman in a zodiac,,,,N,M
+1589,0,Unprovoked,solomon islands,Diving,,,Feb,N,M
+1590,0,Unprovoked,korea,Diving,,,May,Y,F
+1591,0,Unprovoked,french polynesia,Fishing,,,Mar,N,M
+1592,0,Unprovoked,sudan,Diving,,Silvertip shark,,N,M
+1593,0,Unprovoked,vanuatu,,,,Aug,Y,F
+1594,0,Provoked,vanuatu,Attempting to drive shark from area,,A large hammerhead shark,Aug,N,M
+1595,0,Unprovoked,iran,,,Bull shark,,N,M
+1596,0,Provoked,usa,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19,"Nurse shark, 2.1 m [7'] ",,N,M
+1597,0,Invalid,papua new guinea,Scuba diving,,Questionable,,Y,M
+1598,0,Unprovoked,red sea?,Free diving,,,,N,F
+1599,0,Unprovoked,south africa,Crossing river on a raft,,,Jan,Y,M
+1600,0,Unprovoked,usa,"Free diving, collecting sand dollars",,"Shovelnose guitarfish, adult male ",,N,M
+1601,0,Unprovoked,greece,Swimming,,,May,Y,F
+1602,0,Invalid,usa,Diving,,Invalid,,,M
+1603,0,Unprovoked,usa,Canoeing,,,,Y,M
+1604,0,Unprovoked,mediterranean sea,,,,,Y,M
+1605,0,Unprovoked,australia,Diving for trochus,,0.9 m [3'] shark,,N,M
+1606,0,Unprovoked,australia,Pearl diving,,,,N,M
+1607,0,Unprovoked,singapore,Swimming,,,,N,
+1608,0,Unprovoked,fiji,Spearfishing ,27,1.8 m [6'] shark,,N,M
+1609,0,Unprovoked,mozambique,Skindiving,36,"""A pack of sharks""",,N,M
+1610,0,Unprovoked,seychelles,Swimming from capsized pirogue,,Tiger shark,,Y,M
+1611,0,Unprovoked,iraq,Fishing from a small boat & put his hand in the water while holding a dead fish,25,,,N,M
+1612,0,Unprovoked,iraq,Swimming naked near a date palm where many dates fell into the water,6,Bull shark,,N,M
+1613,0,Unprovoked,iraq,Swimming in section of river used for washing clothes & cooking utensils,16,Bull shark,,N,M
+1614,0,Unprovoked,bahamas,,,"White shark, 7' to 8'",,N,M
+1615,0,Unprovoked,usa,,,"White shark, 1,900-lb ",Jun,N,F
+1616,0,Unprovoked,bermuda,Spearfishing ,,,Apr,N,M
+1617,0,Unprovoked,fiji,Swimming with fish attached to  belt,,,,N,F
+1618,0,Unprovoked,madagascar,Bathing,,,,Y,M
+1619,0,Unprovoked,usa,Standing,,,,N,M
+1620,0,Provoked,bahamas,Testing movie camera in full diving dress,,"Nurse shark, 2.1 m [7']",,N,M
+1621,0,Unprovoked,indonesia,Swimming near anchored ship,,,,Y,M
+1622,0,Unprovoked,india,,,,,Y,M
+1623,0,Unprovoked,nicaragua,Lashing logs together when he fell into the water,,"Bull shark caught, leg recovered & buried beside the man's body",,Y,M
+1624,0,Provoked,cuba,"Shark fishing, knocked overboard",50,,,Y,M
+1625,0,Unprovoked,marshall islands,Swimming,,,,N,M
+1626,0,Unprovoked,kiribati,Diving,,,,N,M
+1627,0,Unprovoked,north pacific ocean,"Fishing, wading with string of fish",,,Mar,N,M
+1628,0,Unprovoked,kiribati,,,,,Y,M
+1629,0,Sea Disaster,,A group of survivors on a raft for 17-days,,1.2 m [4'] shark,,Y,
+1630,0,Unprovoked,solomon islands,Floating on his back,,,,N,M
+1631,0,Unprovoked,australia,Free diving,,,,N,M
+1632,0,Unprovoked,iran,Fishing in ankle-deep water,,,,Y,M
+1633,0,Unprovoked,iran,,,,,Y,M
+1634,0,Unprovoked,iran,"Standing, washing rear wheels of his ambulance in ankle-deep water",,,,Y,M
+1635,0,Unprovoked,iraq,Swimming,13 or 14,Bull shark,,Y,M
+1636,0,Unprovoked,saudi arabia,Diving,,"""a black-tipped shark""",,Y,M
+1637,0,Unprovoked,saudi arabia,Diving,,6' shark,,N,M
+1638,0,Unprovoked,saudi arabia,Diving,,,,N,M
+1639,0,Sea Disaster,pacific ocean,,,,,Y,M
+1640,0,Provoked,burma,Carrying a supposedly dead shark by its mouth,,,,N,M
+1641,0,Sea Disaster,papua new guinea,Spent 8 days in dinghy,,,,N,M
+1642,0,Sea Disaster,papua new guinea,"Aircraft ditched in the sea, swimming ashore",,,,N,M
+1643,0,Unprovoked,burma,Bathing,,,,Y,M
+1644,0,Boat,italy,Wooden fishing boat,,White shark,,N,M
+1645,0,Unprovoked,greece,Sponge diving,,,,N,M
+1646,0,Unprovoked,belize,Standing,16,12' tiger shark,,Y,M
+1647,0,Unprovoked,australia,,,,,,M
+1648,0,Unprovoked,reunion,Swimming,,,,Y,
+1649,0,Unprovoked,south africa,Wading,,,,N,F
+1651,0,Unprovoked,south africa,Swimming in pool formed by construction of a wharf,,,,Y,M
+1652,0,Unprovoked,australia,,,,,Y,M
+1653,0,Unprovoked,usa,Fishing,,,,N,M
+1654,0,Unprovoked,vietnam,Swimming around anchored ship,,,,N,M
+1655,0,Unprovoked,south africa,Crew swimming alongside their anchored ship,,,,Y,M
+1656,0,Unprovoked,south africa,4 men were bathing,,,,Y,M
+1657,0,Unprovoked,fiji,Wreck of  large double sailing canoe,,,,Y,
+1658,0,Unprovoked,usa,Swimming,,,Jul,N,M
+1659,0,Unprovoked,south africa,Fishing,,,Jul,Y,M
+1660,0,Unprovoked,south africa,Wading,,,Jul,Y,M
+1661,0,Unprovoked,asia?,Swimming,,,,N,M
+1662,0,Unprovoked,usa,,,,,N,F
+1663,0,Unprovoked,australia,Fishing,,Blue pointer,,Y,M
+1665,0,Unprovoked,australia,Fishing,,Blue pointers,,Y,M
+1666,0,Unprovoked,australia,Swimming,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,,Y,M
+1667,0,Unprovoked,australia,Diving,,,,Y,M
+1668,0,Unprovoked,australia,Pearl diving,,,,Y,M
+1669,0,Unprovoked,usa,Swimming,,,,Y,M
+1670,0,Unprovoked,panama,,,,,Y,M
+1671,0,Unprovoked,ceylon (sri lanka),Swimming,15,,,Y,M

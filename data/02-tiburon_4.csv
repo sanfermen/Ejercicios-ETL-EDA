@@ -1,0 +1,1670 @@
+,year,type,country,activity,age,species,month,fatal,gender
+0,2018,Boating,usa,Paddling,57,White,Jun,N,F
+1,2018,Unprovoked,brazil,Swimming,18,Tiger,Jun,Y,M
+2,2018,Unprovoked,usa,Walking,15,Bull,May,N,M
+3,2018,Provoked,australia,Feeding sharks,32,Grey,May,N,M
+4,2018,Invalid,england,Fishing,21,Unspecified,May,N,M
+5,2018,Unprovoked,costa rica,Scuba diving,30,Tiger,Apr,N,M
+6,2018,Unprovoked,australia,Surfing,60,Unspecified,Apr,N,M
+7,2018,Unprovoked,maldives,Fishing,32,Tiger,Apr,N,M
+8,2018,Unprovoked,south africa,Paddle-skiing,33,White,Apr,N,M
+9,2018,Unprovoked,south africa,Surfing,19,White,Apr,N,M
+10,2018,Unprovoked,usa,Stand-Up Paddleboarding,25,Tiger,Mar,N,M
+11,2018,Unprovoked,australia,Wading,10,Unspecified,Mar,N,M
+12,2018,Unprovoked,australia,Swimming,69,Unspecified,Mar,N,M
+13,2018,Unprovoked,australia,Surfing,18,Unspecified,Mar,N,M
+14,2018,Unprovoked,australia,Swimming,55,White,Feb,N,F
+15,2018,Unprovoked,australia,Walking,35,Bull,Feb,N,M
+16,2018,Unprovoked,brazil,Surfing,20,Unspecified,Jan,N,M
+17,2017,Unprovoked,usa,Surfing,54,Tiger,Dec,N,F
+18,2017,Unprovoked,usa,Spearfishing,25,White,Nov,N,M
+19,2017,Unprovoked,australia,Surfing,25,Unspecified,Nov,N,M
+20,2017,Unprovoked,cuba,Night bathing,22,Tiger,Nov,Y,M
+21,2017,Unprovoked,australia,Surfing,31,Unspecified,Oct,N,M
+22,2017,Unprovoked,australia,Kayaking / Fishing,15,White,Oct,N,F
+23,2017,Unprovoked,usa,Surfing,54,Tiger,Oct,N,M
+24,2017,Unprovoked,usa,Snorkeling,40,Unspecified,Oct,N,F
+25,2017,Invalid,usa,Surfing,33,Unspecified,Sep,,M
+26,2017,Unprovoked,usa,Surfing,18,Unspecified,Sep,N,M
+27,2017,Unprovoked,australia,Surfing,35,White,Sep,N,M
+28,2017,Unprovoked,australia,Surfing,37,White,Aug,N,M
+29,2017,Invalid,spain,Swimming,11,Unspecified,Aug,,F
+30,2017,Unprovoked,usa,SUP,69,White,Aug,N,M
+31,2017,Unprovoked,usa,Swimming,13,Unspecified,Aug,N,M
+32,2017,Provoked,usa,Fishing,34,Unspecified,Aug,N,M
+33,2017,Invalid,usa,Swimming,10,Unspecified,Jul,,M
+34,2017,Boating,usa,Kayaking,40,White,Jul,N,M
+35,2017,Unprovoked,usa,SUP,50,White,Jul,N,M
+36,2017,Unprovoked,usa,Swimming,46,Bull,Jul,N,M
+37,2017,Unprovoked,south africa,Surfing,13,White,Jul,N,F
+38,2017,Unprovoked,australia,Body boarding,48,White,Jun,N,M
+39,2017,Unprovoked,bahamas,Snorkeling,32,Tiger,Jun,N,F
+40,2017,Invalid,usa,Surfing,18,Unspecified,May,,F
+41,2017,Unprovoked,australia,Surfing,17,White,Apr,Y,F
+42,2017,Unprovoked,usa,Surfing,28,Tiger,Apr,N,M
+43,2017,Unprovoked,usa,Swimming,17,Bull,Apr,N,F
+44,2017,Unprovoked,australia,Scuba Diving,55,Bull,Jan,N,M
+45,2017,Unprovoked,indonesia,Surfing,48,Bull,Jan,N,M
+46,2017,Invalid,australia,Wading,20,Unspecified,Jan,,M
+47,2016,Unprovoked,south africa,Surf skiing ,55,White,Dec,N,M
+48,2016,Invalid,usa,Surfing,19,Unspecified,Dec,,M
+49,2016,Provoked,australia,Surf fishing,20,Unspecified,Dec,N,M
+50,2016,Unprovoked,australia,Surfing,65,White,Dec,N,M
+51,2016,Provoked,australia,Fishing,73,Unspecified,Nov,N,M
+52,2016,Unprovoked,usa,Floating,58,Tiger,Nov,N,F
+53,2016,Unprovoked,usa,Surfing,36,Unspecified,Oct,N,M
+54,2016,Unprovoked,australia,Surfing,17,White,Sep,N,M
+55,2016,Unprovoked,usa,Wading,60,Unspecified,Sep,N,M
+56,2016,Unprovoked,usa,Swimming,51,Tiger,Sep,N,F
+57,2016,Unprovoked,usa,Surfing,25,Bull,Aug,N,M
+58,2016,Unprovoked,usa,SUP Foil boarding,21,Tiger,Aug,N,M
+59,2016,Unprovoked,spain,Swimming,40,Unspecified,Jul,N,M
+60,2016,Provoked,australia,Fishing,31,Unspecified,Jul,N,M
+61,2016,Unprovoked,usa,Kite surfing,61,White,Jul,N,M
+62,2016,Provoked,usa,Fishing,59,Unspecified,Jul,N,M
+63,2016,Provoked,australia,Fishing,34,Unspecified,Jul,N,M
+64,2016,Unprovoked,usa,Floating,42,Unspecified,Jun,N,M
+65,2016,Unprovoked,usa,Floating in tube,6,Unspecified,Jun,N,F
+66,2016,Unprovoked,usa,Standing,19,Unspecified,Jun,N,M
+67,2016,Invalid,usa,Surfing,27,Unspecified,Jun,,M
+68,2016,Unprovoked,australia,Diving,60,Unspecified,Jun,Y,F
+69,2016,Unprovoked,egypt,Swimming,23,Unspecified,Jun,N,M
+70,2016,Unprovoked,australia,Surfing,29,White,May,Y,M
+71,2016,Unprovoked,usa,Swimming,13,Unspecified,May,N,M
+72,2016,Unprovoked,usa,Swimming,22,Bull,May,N,F
+73,2016,Unprovoked,usa,Swimming,48,Unspecified,May,N,M
+74,2016,Provoked,usa,Teasing a shark,23,Unspecified,May,N,F
+75,2016,Provoked,new zealand,Fishing,39,Unspecified,May,N,M
+76,2016,Unprovoked,indonesia,Surfing,24,Bull,Apr,N,M
+77,2016,Unprovoked,australia,Swimming,12,Unspecified,Apr,N,M
+78,2016,Provoked,french polynesia,Spearfishing,22,Grey,Apr,,M
+79,2016,Provoked,french polynesia,Spearfishing,26,Grey,Apr,N,M
+80,2016,Unprovoked,new caledonia,Walking,69,Tiger,Apr,Y,F
+81,2016,Unprovoked,usa,Paddle boarding,48,Tiger,Jan,N,M
+82,2016,Unprovoked,australia,Wading,11,Unspecified,Jan,N,M
+83,2016,Unprovoked,australia,Spearfishing,31,Unspecified,Jan,N,M
+84,2015,Unprovoked,usa,Paddle boarding,71,Unspecified,Dec,N,M
+85,2015,Unprovoked,australia,Surfing,43,Unspecified,Dec,N,M
+86,2015,Unprovoked,ecuador,Snorkeling,55,Unspecified,Nov,N,M
+87,2015,Unprovoked,australia,Surfing,20,Bull,Nov,N,M
+88,2015,Invalid,usa,Surfing,9,Unspecified,Nov,,F
+89,2015,Unprovoked,usa,Wading,28,Unspecified,Nov,N,F
+90,2015,Unprovoked,south africa,Surfing,42,White,Oct,N,M
+91,2015,Unprovoked,usa,Surfing,21,Unspecified,Oct,N,M
+92,2015,Unprovoked,usa,Surfing,21,Unspecified,Oct,N,M
+93,2015,Invalid,usa,Surfing,32,Unspecified,Oct,,M
+94,2015,Unprovoked,usa,Swimming,44,Tiger,Oct,N,M
+95,2015,Unprovoked,usa,Surfing,25,Tiger,Oct,N,M
+96,2015,Unprovoked,usa,Wading,13,Unspecified,Oct,N,M
+97,2015,Unprovoked,usa,Surfing,14,Unspecified,Oct,N,M
+98,2015,Unprovoked,usa,Surfing,22,Unspecified,Sep,N,M
+99,2015,Unprovoked,usa,Surfing,14,Unspecified,Sep,N,M
+100,2015,Unprovoked,usa,Spearfishing,27,Tiger,Sep,N,M
+101,2015,Unprovoked,usa,Wading,12,Unspecified,Sep,N,M
+102,2015,Unprovoked,australia,Surfing,42,Unspecified,Sep,N,M
+103,2015,Unprovoked,usa,Stand-Up Paddleboarding,50,White,Sep,N,F
+104,2015,Provoked,usa,Kayak Fishing,29,Unspecified,Sep,N,M
+105,2015,Unprovoked,australia,Surf-skiing,62,White,Sep,N,M
+106,2015,Unprovoked,thailand,Wading,37,Unspecified,Sep,N,F
+107,2015,Unprovoked,usa,Surfing,54,White,Aug,N,F
+108,2015,Unprovoked,usa,Surfing,21,White,Aug,N,M
+109,2015,Unprovoked,usa,Surfing,15,Unspecified,Aug,N,M
+110,2015,Unprovoked,usa,Walking,10,Unspecified,Aug,N,F
+111,2015,Boating,usa,Kayak Fishing,22,White,Aug,N,M
+112,2015,Invalid,spain,Swimming,10,Unspecified,Aug,,M
+113,2015,Provoked,usa,Spearfishing,57,Unspecified,Aug,N,M
+114,2015,Unprovoked,australia,Surfing,52,White,Jul,N,M
+115,2015,Unprovoked,usa,Surfing,25,Unspecified,Jul,N,M
+116,2015,Invalid,usa,Floating,35,Unspecified,Jul,,F
+117,2015,Unprovoked,australia,Scallop diving on hookah,46,White,Jul,Y,M
+118,2015,Unprovoked,usa,Surfing,38,White,Jul,N,M
+120,2015,Unprovoked,australia,Body boarding ,32,White,Jul,N,M
+121,2015,Unprovoked,usa,Swimming,68,Unspecified,Jul,N,M
+122,2015,Unprovoked,usa,Playing in the water,12,Unspecified,Jun,N,M
+123,2015,Unprovoked,usa,Swimming,18,Bull,Jun,N,M
+124,2015,Unprovoked,south africa,Body Boarding,19,White,Jun,N,M
+125,2015,Unprovoked,south africa,Surfing,23,White,Jun,N,M
+126,2015,Unprovoked,usa,Standing,43,Unspecified,Jun,N,M
+127,2015,Unprovoked,usa,Swimming,6,Tiger,Jun,N,M
+128,2015,Invalid,australia,Surfing,37,White,Jun,N,F
+129,2015,Unprovoked,usa,Wading,16,Bull,Jun,N,M
+130,2015,Unprovoked,usa,Wading,12,Bull,Jun,N,F
+131,2015,Unprovoked,usa,Boogie boarding,13,Unspecified,Jun,N,F
+132,2015,Unprovoked,usa,Playing,11,Bull,Jun,N,M
+133,2015,Unprovoked,reunion,Surfing,47,Bull,Jun,N,M
+134,2015,Unprovoked,french polynesia,Spearfishing,19,Unspecified,May,N,M
+135,2015,Unprovoked,usa,Surfing,18,Unspecified,,N,M
+136,2015,Unprovoked,south africa,Diving,29,White,May,N,M
+137,2015,Unprovoked,usa,Wading,63,Unspecified,Apr,N,M
+138,2015,Unprovoked,australia,Surfing,26,White,Apr,N,M
+139,2015,Unprovoked,australia,Surf skiing ,71,White,Jun,N,M
+140,2015,Unprovoked,reunion,Surfing,13,Bull,Apr,Y,M
+141,2015,Unprovoked,usa,Spearfishing,70,Bull,Apr,N,M
+142,2015,Invalid,brazil,Surfing,23,Unspecified,Mar,,M
+143,2015,Unprovoked,usa,Standing / Snorkeling,58,Tiger,Mar,N,M
+144,2015,Unprovoked,french polynesia,Hand feeding sharks,9,Unspecified,Mar,N,M
+145,2015,Unprovoked,reunion,Swimming,22,Tiger,Feb,Y,F
+146,2015,Unprovoked,australia,Surfing,41,Unspecified,Feb,Y,M
+147,2015,Unprovoked,australia,Surfing,35,Unspecified,Feb,N,M
+148,2015,Boating,australia,Rowing,57,Bull,Jan,N,M
+149,2015,Provoked,usa,Shark fishing,20,Unspecified,Jan,N,M
+150,2015,Unprovoked,bahamas,Snorkeling,34,White,Jan,N,F
+151,2015,Unprovoked,south africa,Surfing,15,Unspecified,Jan,N,M
+152,2014,Unprovoked,australia,Spearfishing,17,White,Dec,Y,M
+153,2014,Unprovoked,usa,Surfing,50,White,Dec,N,M
+154,2014,Provoked,australia,Fishing,40,Unspecified,Dec,N,M
+155,2014,Unprovoked,australia,Spearfishing,17,Tiger,Dec,Y,M
+156,2014,Unprovoked,usa,Surfing,44,Unspecified,Nov,N,M
+157,2014,Unprovoked,usa,Snorkeling,53,Unspecified,Nov,N,M
+158,2014,Unprovoked,usa,Surfing,34,Tiger,Oct,N,F
+159,2014,Unprovoked,australia,Surfing,13,Unspecified,Oct,N,F
+160,2014,Unprovoked,usa,Surfing,29,Unspecified,Oct,N,M
+161,2014,Unprovoked,usa,Surfing,15,Unspecified,Oct,N,M
+162,2014,Unprovoked,usa,Surfing,28,Unspecified,Oct,N,M
+163,2014,Unprovoked,australia,Surfing,23,White,Oct,N,M
+164,2014,Unprovoked,australia,Swimming,50,Unspecified,Sep,Y,M
+165,2014,Unprovoked,usa,Fishing ,43,Bull,Sep,N,M
+166,2014,Boating,usa,Kayaking ,20,White,Sep,N,F
+167,2014,Provoked,usa,Fishing,52,Unspecified,Sep,N,M
+168,2014,Unprovoked,usa,Body surfing,13,Unspecified,Aug,N,F
+169,2014,Unprovoked,usa,Swimming,7,Bull,Aug,N,M
+170,2014,Unprovoked,usa,Boogie boarding,10,Unspecified,Aug,N,M
+171,2014,Unprovoked,south africa,Surfing,20,White,Aug,N,M
+172,2014,Unprovoked,usa,Swimming,61,Unspecified,Jul,N,M
+173,2014,Unprovoked,usa,Swimming,39,Unspecified,Jul,N,M
+174,2014,Invalid,bahamas,Shark diving,63,Unspecified,Jul,,M
+175,2014,Unprovoked,usa,Body surfing,19,Unspecified,Jul,N,M
+176,2014,Unprovoked,usa,Standing,16,Unspecified,Jun,N,M
+177,2014,Unprovoked,australia,Body boarding,39,Unspecified,Jun,N,M
+178,2014,Unprovoked,usa,Swimming,22,Bull,Jun,N,F
+179,2014,Unprovoked,australia,Surfing,35,White,May,N,M
+180,2014,Unprovoked,usa,Swimming,40,Unspecified,May,N,F
+181,2014,Unprovoked,usa,Surfing,23,Unspecified,May,N,M
+182,2014,Unprovoked,australia,Swimming,63,White,Apr,Y,F
+183,2014,Invalid,australia,Diving for lobsters,38,Unspecified,Mar,,M
+184,2014,Unprovoked,south africa,Swimming,66,Unspecified,Mar,Y,M
+185,2014,Unprovoked,french polynesia,Kitesurfing,21,Unspecified,Feb,N,M
+186,2014,Unprovoked,new zealand,Surfing,28,Unspecified,Feb,N,M
+187,2013,Unprovoked,new caledonia,Snorkeling,37,Bull,Dec,N,M
+188,2013,Unprovoked,south africa,Surfing,19,White,Dec,N,M
+189,2013,Unprovoked,usa,Boogie boarding,29,Tiger,Dec,N,M
+190,2013,Unprovoked,usa,Surfing,30,Unspecified,Dec,N,M
+191,2013,Unprovoked,australia,Surfing,26,Unspecified,Dec,N,M
+192,2013,Unprovoked,australia,Body boarding,19,Tiger,Nov,Y,M
+193,2013,Unprovoked,australia,Surfing,35,White,Nov,Y,M
+194,2013,Unprovoked,usa,Surfing,25,White,Nov,N,M
+195,2013,Unprovoked,usa,Kiteboarding,46,Tiger,Oct,N,M
+196,2013,Unprovoked,australia,Snorkeling,60,Unspecified,Oct,N,F
+197,2013,Unprovoked,reunion,Body boarding,24,Bull,Oct,N,M
+198,2013,Unprovoked,australia,Surfing,41,Unspecified,Oct,N,M
+199,2013,Unprovoked,usa,Diving ,45,White,Oct,N,M
+200,2013,Unprovoked,usa,Surfing,25,Tiger,Oct,N,M
+201,2013,Unprovoked,usa,Wading,6,Unspecified,Oct,N,M
+202,2013,Unprovoked,south africa,Swimming / snorkeling,74,White,Oct,Y,M
+203,2013,Unprovoked,australia,Diving for Abalone,55,White,Oct,N,M
+204,2013,Unprovoked,usa,Surfing,45,White,Oct,N,M
+205,2013,Unprovoked,usa,Swimming,21,Bull,Sep,N,M
+206,2013,Unprovoked,usa,Surfing,13,Unspecified,Sep,N,F
+207,2013,Provoked,usa,Surfing,43,Unspecified,Sep,N,M
+208,2013,Unprovoked,usa,Standing,25,Unspecified,Sep,N,M
+209,2013,Unprovoked,usa,Casting a net,9,Unspecified,Sep,N,M
+210,2013,Unprovoked,usa,Snorkeling,20,Tiger,Aug,Y,F
+211,2013,Unprovoked,usa,Surfing,10,Bull,Aug,N,M
+212,2013,Unprovoked,usa,Fishing,17,Bull,Aug,N,M
+213,2013,Unprovoked,bahamas,Spearfishing,40,Unspecified,Jul,N,M
+214,2013,Unprovoked,usa,Surfing,18,Tiger,Jul,N,M
+215,2013,Unprovoked,bahamas,Cleaning fish,64,Unspecified,Jul,N,M
+216,2013,Unprovoked,usa,Swimming,14,Unspecified,Jun,N,M
+217,2013,Unprovoked,usa,Swimming,28,Tiger,Jun,N,M
+218,2013,Unprovoked,usa,Boogie Boarding,10,Unspecified,Jun,N,F
+219,2013,Unprovoked,ecuador,Surfing,29,Unspecified,May,N,M
+220,2013,Unprovoked,reunion,Body boarding,36,Bull,May,Y,M
+221,2013,Unprovoked,usa,Surfing,16,Unspecified,May,N,M
+222,2013,Unprovoked,mexico,Swimming,34,Tiger,Apr,N,F
+223,2013,Unprovoked,australia,Fishing,51,Grey,Apr,N,M
+224,2013,Unprovoked,usa,Playing in the surf,9,Unspecified,Apr,N,M
+225,2013,Unprovoked,usa,Surfing,21,Bull,Apr,N,M
+226,2013,Unprovoked,french polynesia,Kite boarding,53,Unspecified,Apr,N,M
+227,2013,Unprovoked,usa,Surfing,58,Unspecified,Apr,N,M
+228,2013,Provoked,south africa,Fishing - 'tag & release',30,Unspecified,Mar,N,M
+229,2013,Unprovoked,jamaica,Spearfishing,68,Tiger,Mar,Y,M
+230,2013,Unprovoked,australia,Spearfishing,28,Unspecified,Mar,N,M
+231,2013,Unprovoked,new zealand,Swimming,46,White,Feb,Y,M
+232,2013,Unprovoked,usa,Surfing,16,Unspecified,Feb,N,M
+233,2013,Unprovoked,french polynesia,Scuba diving,48,Lemon,Feb,N,M
+234,2013,Unprovoked,usa,Surfing,43,Tiger,Jan,N,M
+235,2012,Unprovoked,australia,Surfing,23,Unspecified,Dec,N,M
+236,2012,Unprovoked,australia,Paddle boarding,29,Bull,Dec,N,M
+237,2012,Unprovoked,australia,Surfing,32,Tiger,Dec,N,M
+238,2012,Unprovoked,usa,Surfing,60,Unspecified,Dec,N,M
+239,2012,Unprovoked,australia,Spearfishing,31,Tiger,Dec,N,M
+240,2012,Unprovoked,usa,Snorkeling,61,Tiger,Nov,N,M
+241,2012,Unprovoked,mexico,Swimming,32,Unspecified,Nov,Y,M
+242,2012,Unprovoked,usa,Surfing,14,Unspecified,Nov,N,M
+243,2012,Unprovoked,usa,Diving,30,Tiger,Nov,N,M
+244,2012,Unprovoked,usa,Surfing,43,Tiger,Nov,N,M
+245,2012,Unprovoked,usa,Surfing,25,White,Oct,N,M
+246,2012,Unprovoked,usa,Swimming,51,Tiger,Oct,N,F
+247,2012,Unprovoked,usa,Surfing,39,White,Oct,Y,M
+248,2012,Unprovoked,usa,Paddle boarding,55,Unspecified,Oct,N,M
+249,2012,Unprovoked,australia,Bodyboarding,11,Unspecified,Oct,N,M
+250,2012,Unprovoked,usa,Surfing,21,Unspecified,Sep,N,M
+251,2012,Unprovoked,usa,Surfing,22,Unspecified,Sep,N,M
+252,2012,Unprovoked,usa,Boogie boarding,8,Unspecified,Sep,N,F
+253,2012,Unprovoked,usa,Swimming or boogie boarding,56,Unspecified,Sep,N,F
+254,2012,Unprovoked,usa,Free diving ,56,Lemon,Aug,N,M
+255,2012,Unprovoked,australia,Surfing,48,White,Jul,N,M
+256,2012,Unprovoked,usa,Body surfing,50,White,Jul,N,M
+257,2012,Unprovoked,australia,Surfing,24,White,Jul,Y,M
+258,2012,Boating,usa,Kayaking,52,Unspecified,Jul,N,M
+259,2012,Unprovoked,south africa,Surfing,29,Unspecified,Jul,N,M
+260,2012,Unprovoked,usa,Swimming,6,Bull,Jun,N,M
+261,2012,Unprovoked,usa,Sitting in the water,16,Unspecified,Jun,N,F
+262,2012,Unprovoked,australia,Surf skiing ,62,Unspecified,Jun,N,M
+263,2012,Provoked,usa,Fishing,23,Unspecified,Jun,N,M
+264,2012,Unprovoked,usa,Swimming,18,Unspecified,Jun,N,F
+265,2012,Unprovoked,usa,Swimming,16,Unspecified,Jun,N,M
+266,2012,Unprovoked,australia,Surfing,42,Unspecified,Jun,N,M
+267,2012,Provoked,italy,Attempting to rescue an injured & beached shark,57,Unspecified,Jun,,M
+268,2012,Unprovoked,australia,Surf skiing ,30,White,Jun,N,M
+269,2012,Unprovoked,usa,Wading,33,Unspecified,May,N,F
+270,2012,Unprovoked,mexico,Free diving / spearfishing,46,Bull,May,N,M
+271,2012,Unprovoked,usa,Surfing,22,Unspecified,May,N,M
+272,2012,Boating,usa,Kayaking / Fishing,30,White,May,N,M
+273,2012,Unprovoked,usa,Paddle boarding,15,White,May,N,F
+274,2012,Unprovoked,usa,Surfing,28,Unspecified,Apr,N,M
+275,2012,Unprovoked,south africa,Body boarding,20,White,Apr,Y,M
+276,2012,Unprovoked,usa,Surfing,28,Tiger,Apr,N,M
+277,2012,Unprovoked,australia,Scuba diving,33,White,Mar,Y,M
+278,2012,Unprovoked,australia,Surfing,20,Bull,Mar,N,M
+279,2012,Unprovoked,usa,Surfing,61,Bull,Mar,N,M
+280,2012,Unprovoked,usa,Surfing,15,Unspecified,Mar,N,F
+281,2012,Unprovoked,usa,Surfing,17,Unspecified,Mar,N,M
+282,2012,Provoked,australia,"Diving, feeding sharks",34,Unspecified,Mar,N,F
+283,2012,Unprovoked,usa,Kite Surfing,19,Unspecified,Mar,N,M
+284,2012,Unprovoked,australia,Snorkeling,26,Tiger,Jan,N,M
+285,2012,Unprovoked,australia,Surfing,44,White,Jan,N,M
+286,2012,Unprovoked,south africa,Swimming,25,Bull,Jan,Y,M
+287,2012,Unprovoked,australia,Surfing,28,Unspecified,Jan,N,M
+288,2012,Unprovoked,australia,Spearfishing,34,Tiger,Jan,N,M
+289,2011,Unprovoked,australia,Surfing,51,White,Dec,N,M
+290,2011,Unprovoked,australia,Swimming,10,Unspecified,Nov,N,M
+291,2011,Unprovoked,australia,Diving,32,White,Oct,Y,M
+292,2011,Unprovoked,australia,Diving,50,Unspecified,Oct,N,M
+293,2011,Invalid,usa,Surfing,27,Unspecified,Sep,,M
+294,2011,Unprovoked,south africa,Swimming,43,White,Sep,N,M
+295,2011,Unprovoked,usa,Spearfishing,21,Bull,Sep,N,M
+296,2011,Unprovoked,usa,Surfing,25,Unspecified,Sep,N,M
+297,2011,Unprovoked,papua new guinea,Kite Surfing,30,Tiger,Sep,N,M
+298,2011,Unprovoked,australia,Body boarding,21,White,Sep,Y,M
+299,2011,Unprovoked,usa,Surfing,19,Unspecified,Sep,N,M
+300,2011,Unprovoked,usa,Surfing,19,Unspecified,Aug,N,M
+301,2011,Invalid,australia,Swimming,48,Unspecified,Aug,,M
+302,2011,Unprovoked,south africa,Surfing,49,White,Aug,Y,M
+303,2011,Unprovoked,usa,Wading,20,Tiger,Aug,N,F
+304,2011,Unprovoked,russia,Swimming,25,Unspecified,Aug,N,M
+305,2011,Unprovoked,french polynesia,Surfing,32,Grey,Aug,N,M
+306,2011,Unprovoked,seychelles,Swimming or Snorkeling,30,Bull,Aug,Y,M
+307,2011,Unprovoked,south africa,Surfing,29,White,Jul,N,M
+308,2011,Unprovoked,south africa,Scuba diving,22,Bull,Jun,N,M
+309,2011,Unprovoked,usa,Playing in the surf,10,Bull,Jun,N,F
+310,2011,Unprovoked,usa,Scuba diving,28,Unspecified,Jun,N,M
+311,2011,Unprovoked,usa,Wading,19,Unspecified,Jun,N,M
+312,2011,Unprovoked,south africa,Spearfishing,28,Unspecified,May,Y,M
+313,2011,Unprovoked,new caledonia,Kite Boarding,15,Tiger,May,Y,M
+314,2011,Unprovoked,australia,Washing sand off a speared fish,17,Unspecified,Apr,N,M
+315,2011,Unprovoked,usa,Surfing ,49,Unspecified,Apr,N,M
+316,2011,Unprovoked,new zealand,Surfing,41,Unspecified,Apr,N,M
+317,2011,Unprovoked,australia,Surfing,48,Bull,Mar,N,M
+318,2011,Unprovoked,australia,Wakeboarding,24,Unspecified,Mar,N,F
+319,2011,Provoked,australia,Fishing,36,Bull,Feb,N,M
+320,2011,Unprovoked,new caledonia,Spearfishing,21,Unspecified,Feb,N,M
+321,2011,Unprovoked,australia,Diving for abalone,49,White,Feb,Y,M
+322,2011,Unprovoked,mexico,Swimming,38,Unspecified,Jan,N,F
+323,2011,Unprovoked,bahamas,Scuba diving,55,Unspecified,Jan,N,M
+324,2011,Invalid,australia,Swimming,7,Unspecified,Jan,,F
+325,2010,Unprovoked,usa,Body boarding,16,Unspecified,Dec,N,M
+326,2010,Unprovoked,egypt,Snorkeling,70,White,Dec,Y,F
+327,2010,Unprovoked,egypt,Snorkeling,54,Unspecified,Dec,N,M
+328,2010,Unprovoked,egypt,Snorkeling,46,Unspecified,Dec,N,M
+329,2010,Unprovoked,egypt,Snorkeling,70,White,Nov,N,F
+330,2010,Unprovoked,egypt,Snorkeling,48,White,Nov,N,F
+331,2010,Unprovoked,australia,Snorkeling,20,White,Oct,N,F
+332,2010,Unprovoked,usa,Scuba diving,30,Unspecified,Oct,N,M
+333,2010,Unprovoked,usa,Body boarding,19,White,Oct,Y,M
+334,2010,Unprovoked,australia,Surfing,22,Bull,Oct,N,M
+335,2010,Unprovoked,usa,Surfing,29,White,Sep,N,M
+336,2010,Unprovoked,australia,Surfing,15,Unspecified,Sep,N,M
+337,2010,Unprovoked,australia,Surfing,31,White,Aug,Y,M
+338,2010,Unprovoked,usa,Standing,37,Unspecified,Aug,N,F
+339,2010,Unprovoked,usa,Swimming,10,Unspecified,Jul,N,M
+340,2010,Unprovoked,usa,Swimming,13,Tiger,Jul,N,F
+341,2010,Provoked,spain,Swimming,9,Unspecified,Jul,N,M
+342,2010,Provoked,usa,Fishing,20,Unspecified,Jul,N,M
+343,2010,Unprovoked,usa,Surfing,19,Unspecified,Jul,N,M
+344,2010,Unprovoked,usa,Stand-Up Paddleboarding,48,Unspecified,Jul,N,M
+345,2010,Unprovoked,vietnam,Swimming,17,Unspecified,Jun,N,M
+346,2010,Unprovoked,usa,Boogie Boarding,18,Unspecified,Jun,N,F
+347,2010,Provoked,usa,Fishing,49,Lemon,May,N,M
+348,2010,Unprovoked,vietnam,Rescuing,58,Unspecified,May,N,F
+349,2010,Unprovoked,vietnam,Swimming,60,Unspecified,May,N,F
+350,2010,Unprovoked,usa,Wading,10,Unspecified,May,N,F
+351,2010,Provoked,usa,Measuring sharks,29,Lemon,Apr,N,M
+352,2010,Unprovoked,usa,Surfing,68,Unspecified,Apr,N,M
+353,2010,Unprovoked,south africa,Surfing,35,Unspecified,Apr,N,M
+354,2010,Unprovoked,egypt,Swimming / treading water,24,White,Apr,N,M
+355,2010,Unprovoked,reunion,Surfing,34,Unspecified,Mar,N,M
+356,2010,Unprovoked,australia,Snorkeling,60,Unspecified,Feb,N,F
+357,2010,Unprovoked,australia,Surfing,46,Unspecified,Feb,N,M
+358,2010,Unprovoked,australia,Body boarding,18,White,Feb,N,M
+359,2010,Invalid,guam,Spearfishing (free diving),31,Unspecified,Feb,,M
+360,2010,Provoked,new zealand,Boogie Boarding,14,Unspecified,Feb,N,F
+361,2010,Unprovoked,south africa,Standing,37,White,Jan,Y,M
+362,2009,Unprovoked,mozambique,Swimming,27,Unspecified,Dec,N,M
+363,2009,Unprovoked,australia,Spearfishing,18,Bull,Dec,N,M
+364,2009,Provoked,usa,Diving,58,Tiger,Dec,N,M
+365,2009,Invalid,usa,Surfing,49,Unspecified,Nov,,M
+366,2009,Unprovoked,usa,Wading,10,Unspecified,Nov,N,M
+367,2009,Unprovoked,usa,Fishing,31,Unspecified,Nov,N,M
+368,2009,Unprovoked,usa,Surfing,18,Unspecified,Nov,N,M
+369,2009,Unprovoked,australia,Kayaking,25,Unspecified,Nov,N,M
+370,2009,Boating,australia,Kayaking,27,White,Oct,N,M
+371,2009,Unprovoked,usa,Surfing,54,Unspecified,Oct,N,M
+372,2009,Provoked,scotland,Diving,23,Unspecified,Oct,N,M
+373,2009,Provoked,united kingdom,Fishing,39,Unspecified,Oct,N,M
+374,2009,Invalid,usa,Swimming,60,Unspecified,Sep,Y,M
+375,2009,Unprovoked,south africa,Surfing,25,White,Aug,Y,M
+376,2009,Unprovoked,usa,Swimming,22,White,Aug,N,F
+377,2009,Unprovoked,usa,Wade Fishing,56,Bull,Aug,N,M
+378,2009,Provoked,usa,Swimming,43,Unspecified,Jul,N,F
+379,2009,Unprovoked,australia,Surfing,52,Unspecified,Jun,N,M
+380,2009,Invalid,usa,Crawling,14,Unspecified,Jun,,M
+381,2009,Unprovoked,egypt,Snorkeling,50,White,Jun,Y,F
+382,2009,Provoked,taiwan,Fishing,46,Unspecified,May,N,M
+383,2009,Unprovoked,usa,Surfing,31,Unspecified,May,N,M
+384,2009,Unprovoked,usa,Surfing,49,Unspecified,May,N,M
+385,2009,Unprovoked,usa,Surfing,55,Unspecified,May,N,M
+386,2009,Provoked,guam,Spearfishing,27,Unspecified,May,N,M
+387,2009,Unprovoked,usa,Surfing,31,Unspecified,Apr,N,M
+388,2009,Unprovoked,australia,Surf skiing ,40,Unspecified,Apr,N,M
+389,2009,Invalid,south africa,Swimming,24,Unspecified,Apr,,M
+390,2009,Unprovoked,australia,Surfing,17,Unspecified,Mar,N,M
+391,2009,Unprovoked,usa,Surfing,17,Unspecified,Mar,N,F
+392,2009,Unprovoked,usa,Swimming,61,Unspecified,Mar,N,M
+393,2009,Provoked,south africa,Fishing,40,Unspecified,Mar,N,M
+394,2009,Unprovoked,australia,Surfing,15,Unspecified,Mar,N,M
+395,2009,Unprovoked,australia,Surfing,33,White,Feb,N,M
+396,2009,Unprovoked,australia,"Diving, but on the surface when bitten by the shark",31,Bull,Feb,N,M
+397,2009,Unprovoked,australia,Surfing,41,White,Feb,N,M
+398,2009,Unprovoked,cuba,Spearfishing,15,Bull,Jan,N,M
+399,2009,Unprovoked,south africa,Swimming,25,Tiger,Jan,Y,M
+400,2009,Unprovoked,australia,Snorkeling,24,Unspecified,Jan,N,M
+401,2009,Unprovoked,australia,Surfing,13,White,Jan,N,F
+402,2009,Unprovoked,australia,Surfing,31,White,Jan,N,M
+403,2009,Unprovoked,new zealand,Swimming,49,Unspecified,Jan,N,M
+404,2008,Boating,australia,Kayaking,29,White,Dec,N,M
+405,2008,Unprovoked,australia,Snorkeling,51,White,Dec,Y,M
+406,2008,Provoked,south africa,Fishing,15,Unspecified,Dec,N,M
+407,2008,Provoked,australia,Scuba diving,34,Grey,Oct,N,M
+408,2008,Unprovoked,croatia,Spearfishing,43,White,Oct,N,M
+409,2008,Unprovoked,usa,Surfing,40,Unspecified,Sep,N,M
+410,2008,Provoked,australia,Swimming,43,Unspecified,Sep,N,M
+411,2008,Unprovoked,usa,Surfing,40,Tiger,Sep,N,M
+412,2008,Unprovoked,australia,Surfing,51,Unspecified,Sep,N,M
+413,2008,Unprovoked,usa,Surfing,52,Unspecified,Sep,N,M
+414,2008,Invalid,usa,Swimming,27,Unspecified,Aug,,M
+415,2008,Unprovoked,usa,Surfing,26,Unspecified,Aug,N,M
+416,2008,Invalid,usa,Surfing,20,Unspecified,Aug,,F
+417,2008,Unprovoked,usa,Treading water,38,Bull,Aug,N,F
+418,2008,Unprovoked,australia,Surfing,31,White,Jul,N,M
+419,2008,Unprovoked,usa,Wading,8,Unspecified,Jul,N,F
+420,2008,Unprovoked,usa,Wading,16,Unspecified,Jul,N,M
+421,2008,Invalid,usa,Wading,53,Unspecified,Jun,,M
+422,2008,Unprovoked,south africa,Surf skiing ,46,White,Jun,N,M
+423,2008,Unprovoked,usa,Swimming,37,Unspecified,Jun,N,M
+424,2008,Boating,usa,Kayaking,40,White,Jun,N,F
+425,2008,Unprovoked,usa,Body surfing,15,Unspecified,Jun,N,F
+426,2008,Unprovoked,brazil,Swimming,14,Bull,Jun,N,M
+427,2008,Unprovoked,mexico,Surfing,49,Unspecified,May,N,M
+428,2008,Unprovoked,australia,Swimming,37,White,May,N,M
+429,2008,Unprovoked,new caledonia,Fishing,40,Bull,May,N,M
+430,2008,Unprovoked,mexico,Surfing,24,Tiger,Apr,Y,M
+431,2008,Unprovoked,usa,Surfing,18,Unspecified,Apr,N,M
+432,2008,Unprovoked,new caledonia,Swimming,32,Bull,Apr,N,M
+433,2008,Unprovoked,usa,Swimming,66,White,Apr,Y,M
+434,2008,Invalid,mexico,Swimming,32,Unspecified,Apr,,M
+435,2008,Invalid,australia,Surfing,19,Unspecified,Apr,,M
+436,2008,Unprovoked,usa,Surfing,30,Unspecified,Apr,N,M
+437,2008,Unprovoked,australia,Body boarding,16,Bull,Apr,Y,M
+438,2008,Unprovoked,usa,Surfing,52,Unspecified,Mar,N,M
+439,2008,Unprovoked,usa,Walking out of the water after surfing,13,Unspecified,Mar,N,M
+440,2008,Unprovoked,usa,Jet skiing,8,Unspecified,Mar,N,M
+441,2008,Unprovoked,usa,Surfing,27,White,Mar,N,M
+442,2008,Unprovoked,bahamas,Diving,49,Bull,Feb,Y,M
+443,2008,Provoked,australia,Accidentally stood on hooked shark's tail before attempting to gut it ,20,Unspecified,Jan,N,M
+444,2007,Unprovoked,australia,Surfing,31,Unspecified,Dec,N,M
+445,2007,Invalid,australia,Swimming,34,Unspecified,Dec,,M
+446,2007,Unprovoked,usa,Surfing,52,Tiger,Dec,N,M
+447,2007,Unprovoked,south africa,Surfing,14,Unspecified,Nov,N,M
+448,2007,Unprovoked,usa,Surfing,21,Unspecified,Nov,N,M
+449,2007,Unprovoked,usa,Surfing,42,Unspecified,Nov,N,M
+450,2007,Unprovoked,south africa,Surfing,37,White,Nov,N,M
+451,2007,Unprovoked,usa,Floating,32,Tiger,Oct,N,M
+452,2007,Unprovoked,australia,Surf-skiing,52,White,Oct,N,F
+453,2007,Unprovoked,australia,Spearfishing,31,Unspecified,Oct,N,M
+454,2007,Unprovoked,usa,Surfing,22,Unspecified,Oct,N,M
+455,2007,Unprovoked,usa,Surfing,16,Unspecified,Oct,N,M
+456,2007,Unprovoked,new caledonia,Swimming,23,Tiger,Sep,Y,F
+457,2007,Unprovoked,bahamas,Spearfishing,48,Unspecified,Sep,N,F
+458,2007,Unprovoked,egypt,Swimming,18,White,Sep,N,F
+459,2007,Unprovoked,usa,Surfing,23,Unspecified,Sep,N,M
+460,2007,Unprovoked,usa,Surfing,,Unspecified,Sep,N,F
+461,2007,Unprovoked,usa,Snorkeling,14,Unspecified,Sep,N,M
+462,2007,Unprovoked,usa,Jumping,12,Unspecified,Sep,N,F
+463,2007,Unprovoked,usa,Swimming,58,Unspecified,Sep,N,M
+464,2007,Unprovoked,usa,Body boarding,15,Tiger,Aug,N,M
+465,2007,Unprovoked,usa,Surfing,24,White,Aug,N,M
+466,2007,Unprovoked,usa,Surfing,54,Unspecified,Aug,N,M
+467,2007,Unprovoked,usa,Surfing,27,Unspecified,Aug,N,M
+468,2007,Unprovoked,usa,Surfing,16,Unspecified,Aug,N,M
+469,2007,Unprovoked,usa,Floating near boat & observing bioluminesce,20,Bull,Aug,N,M
+470,2007,Unprovoked,usa,Swimming,15,Unspecified,Aug,N,F
+471,2007,Unprovoked,usa,Jumped into the water,19,Bull,Aug,N,F
+472,2007,Unprovoked,usa,Snorkeling,36,Unspecified,Jul,N,M
+473,2007,Unprovoked,australia,Wading,15,Unspecified,Jul,N,M
+474,2007,Unprovoked,usa,Swimming,14,Unspecified,Jul,N,M
+475,2007,Invalid,usa,Swimming,43,Unspecified,Jul,,F
+476,2007,Unprovoked,usa,Wading,30,Unspecified,Jul,N,F
+477,2007,Unprovoked,bahamas,Spearfishing,48,Bull,Jul,N,F
+478,2007,Unprovoked,usa,Surfing,20,Unspecified,Jun,N,M
+479,2007,Invalid,usa,Surfing,9,Unspecified,Jun,,F
+480,2007,Provoked,usa,Reviving a sedated shark,40,Unspecified,May,N,F
+481,2007,Provoked,england,Fishing,38,Unspecified,May,N,M
+482,2007,Unprovoked,australia,Wading,38,Unspecified,May,N,F
+483,2007,Unprovoked,australia,Surfing,19,Unspecified,May,N,M
+484,2007,Unprovoked,usa,Surfing,21,Unspecified,May,N,F
+485,2007,Invalid,australia,Swimming,45,Unspecified,May,,M
+486,2007,Unprovoked,usa,Snorkeling,63,Tiger,May,N,F
+487,2007,Unprovoked,usa,Swimming,68,Unspecified,May,N,M
+488,2007,Unprovoked,australia,Swimming / jumping off a jetty,13,Unspecified,Apr,N,F
+489,2007,Unprovoked,usa,Body boarding,12,Unspecified,Apr,N,M
+490,2007,Unprovoked,usa,Surfing,24,Unspecified,Apr,N,M
+491,2007,Unprovoked,new caledonia,Surfing,26,Tiger,Apr,N,M
+492,2007,Unprovoked,usa,Surfing,27,Unspecified,Mar,N,M
+493,2007,Unprovoked,usa,Surfing,11,Unspecified,Mar,N,M
+494,2007,Unprovoked,australia,Surfing,42,Unspecified,Mar,N,F
+495,2007,Unprovoked,australia,Swimming,59,Unspecified,Mar,N,F
+496,2007,Unprovoked,new caledonia,Spearfishing (free diving),30,Tiger,Jan,N,M
+497,2007,Unprovoked,australia,Diving,41,White,Jan,N,M
+498,2007,Unprovoked,south africa,Swimming / Body Surfing,24,Tiger,Jan,Y,M
+499,2007,Invalid,usa,Surfing,54,Unspecified,Jan,,M
+500,2007,Unprovoked,usa,Surfing,24,Tiger,Jan,N,M
+501,2006,Unprovoked,australia,Surfing,25,Unspecified,Dec,N,M
+502,2006,Unprovoked,new zealand,Surfing,10,Unspecified,Dec,N,M
+503,2006,Unprovoked,usa,Surfing,43,White,Dec,N,M
+504,2006,Provoked,south africa,Fishing,25,Unspecified,Dec,N,M
+505,2006,Unprovoked,australia,Body boarding,15,White,Dec,N,M
+506,2006,Unprovoked,usa,Swimming,29,Unspecified,Nov,N,M
+507,2006,Unprovoked,usa,Surfing,22,White,Oct,N,M
+508,2006,Unprovoked,usa,Playing soccer in the water,18,Unspecified,Oct,N,M
+509,2006,Unprovoked,usa,Swimming,55,Unspecified,Sep,N,M
+510,2006,Invalid,australia,Diving,44,Unspecified,Sep,,M
+511,2006,Unprovoked,usa,Standing,33,Unspecified,Sep,N,M
+512,2006,Unprovoked,south africa,Lifesaving drill,24,White,Aug,N,M
+513,2006,Unprovoked,usa,Surfing,41,White,Jul,N,M
+514,2006,Unprovoked,south africa,Surf-skiing,19,White,Jul,N,M
+515,2006,Unprovoked,usa,Surfing,14,Unspecified,Jul,N,M
+516,2006,Unprovoked,usa,Standing,49,Unspecified,Jul,N,M
+517,2006,Unprovoked,usa,Body boarding,14,Bull,Jul,N,F
+518,2006,Unprovoked,usa,Surfing,22,Unspecified,Jun,N,F
+519,2006,Unprovoked,usa,Surfing,24,Unspecified,Jun,N,M
+520,2006,Unprovoked,usa,Playing,7,Unspecified,Jun,N,F
+521,2006,Unprovoked,australia,Surfing,40,White,Jun,N,M
+522,2006,Unprovoked,usa,Spearfishing,26,Tiger,May,N,M
+523,2006,Provoked,usa,Spearfishing,15,Grey,May,N,M
+524,2006,Unprovoked,usa,Scuba diving,30,Tiger,May,N,F
+525,2006,Provoked,australia,Snorkeling,46,Unspecified,May,N,M
+526,2006,Provoked,usa,Fishing,35,Bull,Apr,N,M
+527,2006,Unprovoked,australia,Surfing,15,Unspecified,Apr,N,M
+528,2006,Unprovoked,south africa,Body boarding,15,Unspecified,Apr,N,M
+529,2006,Unprovoked,brazil,Swimming,35,Tiger,Apr,N,M
+530,2006,Unprovoked,usa,Surfing,28,Tiger,Mar,N,F
+531,2006,Unprovoked,fiji,Surfing,21,Tiger,Mar,N,M
+532,2006,Unprovoked,australia,Surfing,15,Unspecified,Mar,N,M
+533,2006,Unprovoked,usa,Standing,15,Unspecified,Feb,N,F
+534,2006,Invalid,usa,Free diving,45,Unspecified,Feb,,M
+535,2006,Unprovoked,south africa,Surfing,15,Unspecified,Feb,N,M
+536,2006,Unprovoked,tonga,Swimming,24,Tiger,Feb,Y,F
+537,2006,Boating,usa,Kayaking,57,Unspecified,Feb,N,M
+538,2006,Unprovoked,australia,Scuba diving,52,White,Jan,N,M
+539,2006,Unprovoked,australia,Swimming,21,Bull,Jan,Y,F
+540,2006,Unprovoked,usa,Surfing,21,Unspecified,Jan,N,M
+541,2005,Unprovoked,usa,Surfing,30,White,Dec,N,M
+542,2005,Unprovoked,usa,Swimming,29,Tiger,Dec,N,M
+543,2005,Unprovoked,australia,Spearfishing,44,White,Dec,N,M
+544,2005,Unprovoked,usa,Surfing,23,Unspecified,Nov,N,M
+545,2005,Unprovoked,australia,Surfing,18,Unspecified,Nov,N,M
+546,2005,Unprovoked,usa,Surfing,30,Unspecified,Nov,N,M
+547,2005,Provoked,south africa,Fishing for sharks,32,Unspecified,Nov,N,M
+548,2005,Unprovoked,usa,Surfing,18,Unspecified,Nov,N,M
+549,2005,Unprovoked,usa,Surfing,26,White,Nov,N,M
+550,2005,Unprovoked,st. maartin,Standing,55,Unspecified,Oct,N,M
+551,2005,Unprovoked,south africa,Standing / Surfing,20,Unspecified,Oct,N,M
+552,2005,Unprovoked,usa,Surfing,36,White,Oct,N,M
+553,2005,Unprovoked,usa,Surfing,20,White,Oct,N,F
+554,2005,Unprovoked,usa,Surfing,22,Tiger,Oct,N,M
+555,2005,Unprovoked,grand cayman,Scuba diving,57,Unspecified,Oct,N,F
+556,2005,Unprovoked,south africa,Surf-skiing,52,White,Oct,N,M
+557,2005,Unprovoked,australia,Surfing,26,White,Sep,N,M
+558,2005,Unprovoked,australia,Surfing,44,Unspecified,Sep,N,M
+559,2005,Unprovoked,usa,Body surfing,68,Unspecified,Sep,N,F
+560,2005,Unprovoked,usa,Wading,18,Bull,Sep,N,F
+561,2005,Unprovoked,australia,Surfing,40,White,Sep,N,M
+562,2005,Unprovoked,australia,Scuba diving,23,White,Aug,Y,M
+563,2005,Unprovoked,usa,Surfing,37,White,Aug,N,M
+564,2005,Invalid,usa,"Boogie boarding, kicked at object in the water",17,Unspecified,Aug,,M
+565,2005,Unprovoked,usa,Swimming,8,Unspecified,Aug,N,M
+566,2005,Unprovoked,usa,Surfing,16,Unspecified,Aug,N,M
+567,2005,Invalid,usa,Surfing,25,Unspecified,Jul,,M
+568,2005,Unprovoked,usa,Swimming,22,Unspecified,Jul,N,M
+569,2005,Unprovoked,usa,Holding onto an inflatable boat,14,Unspecified,Jul,N,F
+570,2005,Unprovoked,usa,Fishing,16,Bull,Jun,N,M
+571,2005,Unprovoked,usa,Swimming with boogie board,14,Bull,Jun,Y,F
+572,2005,Unprovoked,vanuatu,Swimming,7,Unspecified,Jun,Y,F
+573,2005,Invalid,usa,Swimming,49,Unspecified,Jun,,M
+574,2005,Unprovoked,usa,Swimming,20,Unspecified,Jun,N,M
+575,2005,Invalid,usa,Surfing,17,White,Jun,,M
+576,2005,Unprovoked,south africa,Spearfishing (Free diving),22,White,Jun,Y,M
+577,2005,Unprovoked,usa,Swimming,33,Unspecified,May,N,M
+578,2005,Unprovoked,south africa,Surfing,32,Unspecified,May,N,M
+579,2005,Unprovoked,usa,Surfing,47,Tiger,May,N,M
+580,2005,Provoked,australia,Fishing,25,Unspecified,Apr,N,M
+581,2005,Unprovoked,australia,Surfing,40,Unspecified,Apr,N,M
+582,2005,Unprovoked,south africa,Surfing,32,Unspecified,Mar,N,M
+583,2005,Unprovoked,australia,Snorkeling,26,White,Mar,Y,M
+584,2005,Provoked,usa,Diving in aquarium display tank,45,Tiger,Mar,N,M
+585,2005,Boating,new zealand,Fishing from a kayak,39,White,Jan,N,M
+586,2004,Unprovoked,australia,Scurfing (surfboard being  towed behind a boat),18,White,Dec,Y,M
+587,2004,Unprovoked,australia,Spearfishing,38,Bull,Dec,Y,M
+588,2004,Unprovoked,south africa,Surfing,20,Unspecified,Nov,N,M
+589,2004,Unprovoked,south africa,Swimming,77,White,Nov,Y,F
+590,2004,Unprovoked,usa,Surfing,38,White,Nov,N,F
+591,2004,Unprovoked,cuba,Diving,40,Bull,Oct,N,M
+592,2004,Unprovoked,south africa,Chumming for white sharks,52,White,Oct,N,M
+593,2004,Unprovoked,australia,Surfing,59,Unspecified,Oct,N,M
+594,2004,Unprovoked,usa,Spearfishing,34,Tiger,Oct,N,M
+595,2004,Unprovoked,south africa,Surfing,34,Unspecified,Oct,N,M
+596,2004,Unprovoked,reunion,Body boarding,15,Tiger,Oct,N,M
+597,2004,Unprovoked,usa,Surfing,26,White,Sep,N,M
+598,2004,Unprovoked,usa,Jumping,17,Unspecified,Sep,N,F
+599,2004,Unprovoked,brazil,Bathing,24,Tiger,Aug,N,M
+600,2004,Unprovoked,usa,Diving,50,White,Aug,Y,M
+601,2004,Unprovoked,usa,Swimming,47,Unspecified,Aug,N,M
+602,2004,Unprovoked,usa,Swimming,13,Unspecified,Jul,N,F
+603,2004,Unprovoked,usa,Swimming,19,Unspecified,Jul,N,F
+604,2004,Unprovoked,usa,Wading / fishing & carrying a bag of fish,11,Bull,Jul,N,M
+605,2004,Unprovoked,australia,Surfing,30,Unspecified,Jul,Y,M
+606,2004,Unprovoked,usa,Wading,7,Unspecified,Jul,N,M
+607,2004,Unprovoked,usa,Surfing,45,White,Jun,N,M
+608,2004,Unprovoked,australia,Body boarding,17,Unspecified,Jun,N,M
+609,2004,Unprovoked,usa,Swimming,8,Unspecified,Jun,N,M
+610,2004,Unprovoked,south africa,"Swimming, poaching perlemoen",21,White,Jun,Y,M
+611,2004,Unprovoked,usa,Wading,16,Unspecified,May,N,M
+612,2004,Unprovoked,brazil,Swimming,17,Bull,May,N,M
+613,2004,Unprovoked,usa,Surfing,44,Unspecified,May,N,M
+614,2004,Provoked,bahamas,Free diving & spearfishing,63,Unspecified,May,N,M
+615,2004,Unprovoked,usa,Tandem surfing,28,Unspecified,May,N,M
+616,2004,Unprovoked,usa,Surfing,57,Tiger,Apr,Y,M
+617,2004,Unprovoked,south africa,Surfing,16,White,Apr,N,M
+618,2004,Unprovoked,usa,Surfing,20,Bull,Mar,N,M
+619,2004,Unprovoked,brazil,Body boarding,22,Bull,Mar,N,M
+620,2004,Unprovoked,reunion,Surfing,20,Unspecified,Mar,N,M
+621,2004,Unprovoked,usa,Surfing,51,Tiger,Mar,N,M
+622,2004,Unprovoked,new zealand,Surfing,15,Unspecified,Feb,N,M
+623,2004,Invalid,australia,Free diving & spearfishing,31,Unspecified,Feb,,M
+624,2004,Unprovoked,australia,Scuba diving,46,White,Jan,N,M
+625,2004,Unprovoked,venezuela,Spearfishing,40,Bull,Jan,N,M
+626,2003,Unprovoked,south africa,Spearfishing,21,Tiger,Nov,Y,M
+627,2003,Unprovoked,usa,Surfing,35,Unspecified,Nov,N,F
+628,2003,Unprovoked,usa,Surfing,18,Unspecified,Oct,N,M
+629,2003,Unprovoked,australia,Surfing,22,Grey,Oct,N,M
+630,2003,Unprovoked,usa,Surfing,13,Tiger,Oct,N,F
+631,2003,Invalid,usa,Snorkeling,56,Unspecified,Oct,,M
+632,2003,Unprovoked,usa,Surfing,19,Unspecified,Oct,N,M
+633,2003,Unprovoked,usa,Wading near a fishing net,41,Grey,Oct,N,F
+634,2003,Unprovoked,usa,Surfing,30,Unspecified,Sep,N,M
+635,2003,Invalid,usa,Swimming,8,Unspecified,Sep,,F
+636,2003,Unprovoked,usa,Body boarding,18,Unspecified,Sep,N,M
+637,2003,Unprovoked,usa,"Standing, stepped on shark",15,Unspecified,Sep,N,M
+638,2003,Unprovoked,south africa,Body boarding,19,White,Sep,Y,M
+639,2003,Unprovoked,usa,"Swimming, wearing black wetsuit & swim fins",50,White,Aug,Y,F
+640,2003,Invalid,usa,Swimming,31,Unspecified,Aug,,M
+641,2003,Unprovoked,south africa,Sitting on surfboard,16,White,Aug,N,M
+642,2003,Unprovoked,bahamas,Spearfishing,58,Unspecified,Jul,N,M
+643,2003,Provoked,usa,"Walking, carrying surfboard & stepped on shark",10,Unspecified,Jul,N,M
+644,2003,Unprovoked,bahamas,Spearfishing,39,Bull,Jul,N,M
+645,2003,Unprovoked,usa,Surfing,17,Unspecified,Jun,N,M
+646,2003,Unprovoked,usa,Surfing,15,Unspecified,Jun,N,M
+647,2003,Unprovoked,usa,Standing,12,Unspecified,Jun,N,F
+648,2003,Unprovoked,usa,Swimming with pod of dolphins,60,Unspecified,Jun,N,M
+649,2003,Unprovoked,usa,Surfing ,33,Unspecified,Jun,N,M
+650,2003,Unprovoked,usa,Wading,22,Unspecified,May,N,M
+651,2003,Unprovoked,usa,Swimming,20,Grey,May,N,M
+652,2003,Provoked,usa,Surfing,34,Unspecified,May,N,M
+653,2003,Unprovoked,brazil,Surfing,17,Bull,Apr,N,M
+654,2003,Unprovoked,usa,Surfing,36,Unspecified,Apr,N,M
+655,2003,Unprovoked,usa,Surfing,17,Unspecified,Apr,N,M
+656,2003,Unprovoked,usa,Surfing,30,Unspecified,Apr,N,M
+657,2003,Unprovoked,usa,Surfing,23,Unspecified,Apr,N,M
+658,2003,Unprovoked,usa,Surfing,18,Unspecified,Apr,N,M
+659,2003,Unprovoked,usa,Jumping,11,Unspecified,Apr,N,M
+660,2003,Unprovoked,usa,Surfing,12,Unspecified,Apr,N,M
+661,2003,Unprovoked,usa,Swimming (using a float),20,Unspecified,Apr,N,M
+662,2003,Unprovoked,venezuela,Surfing,28,Unspecified,Apr,N,M
+663,2003,Unprovoked,usa,Surfing,50,Unspecified,Apr,N,M
+664,2003,Unprovoked,new zealand,Scuba diving,44,White,Feb,N,M
+665,2003,Unprovoked,australia,Wading,37,Unspecified,Feb,N,M
+666,2003,Unprovoked,usa,Swimming,54,Unspecified,Feb,N,M
+667,2003,Unprovoked,australia,Swimming,24,Grey,Feb,N,M
+668,2003,Unprovoked,australia,Swimming,84,Bull,Feb,Y,M
+669,2003,Invalid,south africa,Unknown,14,Unspecified,Jan,,M
+670,2002,Unprovoked,south africa,Snorkeling,25,White,Dec,N,M
+671,2002,Unprovoked,australia,Swimming,23,Bull,Dec,Y,M
+672,2002,Unprovoked,usa,Body boarding,48,White,Nov,N,M
+673,2002,Unprovoked,usa,Swimming,34,Grey,Nov,N,F
+674,2002,Unprovoked,turks & caicos,Snorkeling,41,Unspecified,Nov,N,F
+675,2002,Unprovoked,usa,Surfing,21,Unspecified,Nov,N,M
+676,2002,Unprovoked,usa,Boogie boarding,16,Unspecified,Nov,N,M
+677,2002,Unprovoked,usa,Swimming,60,Unspecified,Oct,N,F
+678,2002,Unprovoked,brazil,Swimming,36,Tiger,Oct,Y,M
+679,2002,Unprovoked,usa,Surfing,14,Unspecified,Oct,N,M
+680,2002,Unprovoked,usa,Surfing,35,Unspecified,Oct,N,M
+681,2002,Unprovoked,usa,Surfing,18,Unspecified,Oct,N,M
+682,2002,Unprovoked,usa,Surfing,47,Unspecified,Sep,N,M
+683,2002,Unprovoked,usa,Fishing from Surfboard,55,Unspecified,Sep,N,M
+684,2002,Provoked,usa,Fishing,,Unspecified,Sep,N,M
+685,2002,Provoked,tonga,Swimming,,Tiger,Sep,N,M
+686,2002,Unprovoked,usa,Boogie boarding or Surfing,24,Unspecified,Sep,N,M
+687,2002,Unprovoked,usa,Surfing,35,Unspecified,Sep,N,M
+688,2002,Unprovoked,brazil,Swimming,19,Tiger,Sep,N,M
+689,2002,Unprovoked,south africa,Surf skiing,47,White,Sep,N,M
+690,2002,Unprovoked,usa,Boogie boarding,20,Unspecified,Sep,N,M
+691,2002,Provoked,usa,"Wading, when he stepped on the shark",36,Unspecified,Sep,N,M
+692,2002,Unprovoked,usa,Surfing,16,Tiger,Aug,N,M
+693,2002,Unprovoked,usa,Surfing,27,Unspecified,Aug,N,M
+694,2002,Unprovoked,usa,Surfing,15,Unspecified,Aug,N,M
+695,2002,Unprovoked,usa,Standing,14,Unspecified,Aug,N,M
+696,2002,Unprovoked,usa,Surfing,13,Unspecified,Jul,N,M
+697,2002,Unprovoked,usa,Swimming,15,Bull,Jul,N,F
+698,2002,Provoked,usa,Shark Fishing,41,Unspecified,Jul,Y,M
+699,2002,Unprovoked,brazil,Surfing,22,Tiger,Jul,N,M
+700,2002,Unprovoked,usa,Standing,9,Bull,Jul,N,F
+701,2002,Unprovoked,usa,Surfing,28,Unspecified,Jun,N,M
+702,2002,Unprovoked,usa,Surfing,50,Unspecified,Jun,N,M
+703,2002,Unprovoked,south africa,Snorkeling (filming the sardine run),50,Unspecified,Jun,N,M
+704,2002,Unprovoked,usa,Surfing,24,White,May,N,M
+705,2002,Unprovoked,usa,Floating on a raft,16,Unspecified,May,N,M
+706,2002,Provoked,usa,"Fishing, removing the shark from his line",55,Unspecified,May,N,M
+707,2002,Unprovoked,australia,Scallop diving (using surface-supplied air & a POD) ,23,White,Apr,Y,M
+708,2002,Unprovoked,usa,"Surfing, but standing in water alongside board",34,Unspecified,Apr,N,M
+709,2002,Unprovoked,bahamas,Standing,43,Bull,Apr,N,M
+710,2002,Unprovoked,usa,Wading,41,Unspecified,Apr,N,M
+711,2002,Unprovoked,usa,Swimming / Wading,29,Unspecified,Apr,N,M
+712,2002,Unprovoked,usa,Body-boarding,17,Tiger,Mar,N,M
+713,2002,Unprovoked,usa,Wading,11,Unspecified,Mar,N,F
+714,2002,Unprovoked,usa,Swimming /  boogie boarding,20,Unspecified,Mar,N,M
+715,2002,Unprovoked,usa,Snorkeling,39,Unspecified,Mar,N,M
+716,2002,Unprovoked,usa,Surfing,31,Unspecified,Mar,N,M
+717,2002,Unprovoked,australia,Surfing,30,Unspecified,Feb,N,M
+718,2002,Boating,australia,Kayaking,35,Unspecified,Feb,N,M
+719,2002,Unprovoked,australia,Surfing,20,Tiger,Jan,N,M
+720,2002,Unprovoked,south africa,Fishing,16,Unspecified,Jan,N,M
+721,2002,Unprovoked,south africa,Surf skiing,26,Unspecified,Jan,N,M
+722,2002,Unprovoked,usa,Snorkeling,35,Tiger,Jan,N,M
+723,2001,Unprovoked,australia,Snorkeling,20,Unspecified,Oct,N,F
+724,2001,Unprovoked,mexico,Body surfing,26,Tiger,Sep,N,M
+725,2001,Provoked,usa,"Surfing, fell off surfboard & stepped on the shark.",21,Unspecified,Sep,N,M
+726,2001,Invalid,usa,Wreck / Technical diving,42,Unspecified,Sep,Y,M
+727,2001,Unprovoked,usa,Boogie boarding,6,Unspecified,Sep,N,M
+728,2001,Unprovoked,usa,Swimming ,28,White,Sep,Y,M
+729,2001,Unprovoked,usa,Swimming,23,White,Sep,N,F
+730,2001,Unprovoked,usa,Wading,20,Unspecified,Sep,N,M
+731,2001,Unprovoked,usa,Swimming ,10,Bull,Sep,Y,M
+732,2001,Unprovoked,bahamas,Spearfishing,44,Bull,Aug,N,M
+733,2001,Unprovoked,usa,Surfing,17,Unspecified,Aug,N,M
+734,2001,Unprovoked,usa,Surfing,20,Unspecified,Aug,N,M
+735,2001,Unprovoked,usa,Surfing,19,Unspecified,Aug,N,M
+736,2001,Unprovoked,usa,Surfing,19,Unspecified,Aug,N,M
+737,2001,Unprovoked,bahamas,Spearfishing,43,Bull,Aug,N,M
+738,2001,Unprovoked,usa,Boogie boarding,18,Unspecified,Jul,N,M
+739,2001,Unprovoked,usa,Swimming,8,Bull,Jul,N,M
+740,2001,Provoked,usa,Spearfishing,52,White,Jun,N,M
+741,2001,Unprovoked,usa,Wading,29,Unspecified,Jun,N,F
+742,2001,Unprovoked,usa,Surfing,45,Unspecified,May,N,M
+743,2001,Unprovoked,usa,Surfing,12,Unspecified,Apr,N,M
+744,2001,Unprovoked,usa,Surfing,21,Unspecified,Apr,N,M
+745,2001,Unprovoked,usa,Body boarding,12,Unspecified,Apr,N,M
+746,2001,Unprovoked,usa,Surfing,22,Unspecified,Apr,N,M
+747,2001,Unprovoked,usa,Surfing,19,Unspecified,Apr,N,M
+748,2001,Unprovoked,south africa,Surfing,46,White,Apr,N,M
+749,2001,Unprovoked,usa,Standing alongside surfboard,26,Unspecified,Apr,N,M
+750,2001,Unprovoked,australia,Surfing,40,Unspecified,Apr,N,M
+751,2001,Unprovoked,australia,Surfing,40,Unspecified,Feb,N,M
+752,2000,Unprovoked,fiji,Swimming back from anchored sailboat,47,Unspecified,Dec,Y,M
+753,2000,Unprovoked,australia,Spearfishing,38,Unspecified,Dec,N,M
+754,2000,Unprovoked,usa,Swimming,73,Unspecified,Nov,N,M
+755,2000,Unprovoked,australia,Swimming,52,White,Nov,N,M
+756,2000,Unprovoked,australia,Swimming,49,White,Nov,Y,M
+757,2000,Unprovoked,usa,Surfing,27,White,Nov,N,M
+758,2000,Unprovoked,usa,Swimming / snorkeling,56,Tiger,Oct,N,F
+759,2000,Unprovoked,usa,Surfing,17,Unspecified,Oct,N,M
+760,2000,Unprovoked,usa,Surfing,23,Unspecified,Oct,N,M
+761,2000,Unprovoked,australia,Surfing,17,White,Sep,Y,M
+762,2000,Unprovoked,australia,Surfing,25,White,Sep,Y,M
+763,2000,Unprovoked,okinawa,Surfing,31,White,Sep,Y,M
+764,2000,Unprovoked,usa,Swimming / Body surfing,25,Unspecified,Sep,N,M
+765,2000,Unprovoked,south africa,Free diving,48,White,Sep,N,M
+766,2000,Unprovoked,usa,Wading,40,Unspecified,Sep,N,M
+767,2000,Unprovoked,reunion,Surfing,27,Tiger,Sep,N,M
+768,2000,Unprovoked,usa,Swimming,47,Unspecified,Aug,N,M
+769,2000,Unprovoked,usa,Jumped into the water,69,Bull,Aug,Y,M
+770,2000,Unprovoked,usa,"Windsurfing, but sitting on his board",53,Tiger,Aug,N,M
+771,2000,Unprovoked,usa,Surfing / Wading,27,Unspecified,Aug,N,M
+772,2000,Unprovoked,usa,Standing,44,Unspecified,Aug,N,F
+773,2000,Unprovoked,usa,Playing,12,Tiger,Jul,N,F
+774,2000,Unprovoked,usa,"Spearfishing, holding mesh bag with speared fish",55,Unspecified,Jul,N,F
+775,2000,Unprovoked,usa,Wading,13,Unspecified,Jul,N,F
+776,2000,Unprovoked,usa,Standing,19,Unspecified,Jul,N,F
+777,2000,Unprovoked,usa,Surfing,17,Unspecified,Jun,N,M
+778,2000,Unprovoked,usa,Swimming,55,Bull,Jun,N,M
+779,2000,Unprovoked,usa,Swimming ,44,Bull,Jun,N,M
+780,2000,Unprovoked,australia,Swimming,26,Unspecified,Mar,N,M
+781,2000,Unprovoked,usa,Boogie boarding,14,Unspecified,Mar,N,F
+782,2000,Unprovoked,usa,Surfing,37,Unspecified,Mar,N,M
+783,2000,Unprovoked,new caledonia,Spearfishing,35,Tiger,Mar,Y,M
+784,2000,Unprovoked,usa,Spearfishing,39,Unspecified,Mar,N,M
+785,1999,Invalid,brazil,Spearfishing,39,Unspecified,Dec,N,M
+786,1999,Unprovoked,usa,Swimming,51,Tiger,Nov,N,F
+787,1999,Unprovoked,brazil,"Spearfishing, but swimming at surface",39,Unspecified,Nov,N,M
+788,1999,Unprovoked,usa,"Surfing, lying on surfboard",16,Tiger,Oct,N,M
+789,1999,Unprovoked,usa,Kayaking,37,White,Sep,N,M
+790,1999,Unprovoked,usa,Surfing,28,Unspecified,Aug,N,M
+791,1999,Unprovoked,marshall islands,Fishing,23,Unspecified,Aug,N,M
+792,1999,Unprovoked,usa,Lying prone in 2' of water,10,Unspecified,Aug,N,M
+793,1999,Unprovoked,usa,Body surfing,62,Unspecified,Aug,N,M
+794,1999,Unprovoked,bahamas,Spearfishing & holding catch,35,Bull,Aug,N,M
+795,1999,Unprovoked,south africa,Surfing,42,White,Jul,N,M
+796,1999,Unprovoked,usa,Swimming with dolphins,43,Bull,Jul,N,M
+797,1999,Unprovoked,usa,Surfing,43,Tiger,Jul,N,M
+798,1999,Unprovoked,south africa,Boogie boarding,14,White,Jul,Y,M
+799,1999,Unprovoked,usa,Wading in school of baitfish,30,Unspecified,Jul,N,F
+800,1999,Unprovoked,south africa,Surfing,29,White,Jul,N,M
+801,1999,Unprovoked,usa,Surfing,21,Unspecified,Jun,N,M
+802,1999,Unprovoked,usa,Splashing / wading,5,Unspecified,Jun,N,M
+803,1999,Unprovoked,australia,Windsurfing,22,White,May,Y,M
+804,1999,Unprovoked,brazil,Surfing,21,Tiger,May,N,M
+805,1999,Unprovoked,mauritius,Swimming,41,Grey,Apr,N,F
+806,1999,Unprovoked,reunion,Swimming after being swept into sea by a large wave,52,Bull,Apr,Y,M
+807,1999,Unprovoked,usa,Swimming near pod of whales,29,Unspecified,Mar,N,F
+808,1999,Unprovoked,australia,Surfing,35,Tiger,Feb,N,M
+809,1999,Unprovoked,usa,Surfing,25,Unspecified,Feb,N,M
+810,1999,Unprovoked,south africa,Spearfishing,30,White,,N,M
+811,1998,Unprovoked,south africa,Surfing,18,White,Dec,N,M
+812,1998,Unprovoked,usa,Swimming,9,Tiger,Nov,Y,M
+813,1998,Unprovoked,usa,Surfing,14,Unspecified,Nov,N,M
+814,1998,Unprovoked,usa,Walking,13,Unspecified,Nov,N,M
+815,1998,Unprovoked,brazil,Surfing,22,White,Nov,Y,M
+816,1998,Unprovoked,usa,Surfing,26,Unspecified,Aug,N,M
+817,1998,Unprovoked,usa,Boogie boarding,16,White,Aug,N,M
+818,1998,Unprovoked,bahamas,Spearfishing,28,Unspecified,Aug,N,M
+819,1998,Unprovoked,south africa,Spearfishing,24,White,Aug,N,M
+820,1998,Unprovoked,south africa,Surfing,16,Unspecified,Jul,N,M
+821,1998,Unprovoked,australia,Free diving for abalone,26,White,Jun,Y,M
+822,1998,Unprovoked,south africa,Body Boarding,20,White,Jun,Y,M
+823,1998,Unprovoked,south africa,Body boarding,15,White,May,N,M
+824,1998,Unprovoked,south africa,Body boarding,16,Unspecified,May,N,M
+825,1998,Unprovoked,usa,Surfing,40,Lemon,May,N,M
+826,1998,Unprovoked,usa,Swimming,14,Unspecified,May,N,F
+827,1998,Unprovoked,south africa,Body boarding,22,White,May,N,M
+828,1998,Unprovoked,mozambique,Towing rubber dinghy,35,Unspecified,Apr,Y,F
+829,1998,Unprovoked,usa,Surfing (lying prone on his board),50,White,Apr,N,M
+830,1998,Unprovoked,south africa,Snorkeling  hunting crayfish and abalone,33,White,Mar,N,M
+831,1998,Unprovoked,usa,Swimming or paddle boarding,32,Unspecified,Mar,N,M
+832,1998,Invalid,australia,Spearfishing,31,Unspecified,Jan,,M
+833,1998,Unprovoked,mozambique,Surfing,23,Unspecified,Jan,N,M
+834,1997,Unprovoked,south africa,Spearfishing,39,White,Dec,Y,M
+835,1997,Unprovoked,australia,Scuba diving (submerged riding a scooter),42,White,Nov,N,M
+836,1997,Unprovoked,usa,Body boarding or surfing,19,Tiger,Oct,N,M
+837,1997,Unprovoked,usa,Surfing,23,Unspecified,Oct,N,M
+838,1997,Unprovoked,usa,Surfing,12,Unspecified,Oct,N,M
+839,1997,Unprovoked,usa,Surfing (sitting on his board),29,White,Aug,N,M
+840,1997,Unprovoked,usa,Body surfing,17,Unspecified,Aug,N,M
+841,1997,Unprovoked,usa,Wading / Surfing,19,Unspecified,Aug,N,M
+842,1997,Unprovoked,south africa,Surfing,25,White,Jul,Y,M
+843,1997,Unprovoked,usa,Standing,50,Unspecified,Jul,N,M
+844,1997,Unprovoked,fiji,Snorkeling,47,Tiger,Jun,N,F
+845,1997,Unprovoked,usa,Surfing,18,Unspecified,Jun,N,M
+846,1997,Unprovoked,usa,"Body surfing, stood up on sandbar",33,Unspecified,Jun,N,M
+847,1997,Unprovoked,usa,Spearfishing,35,Unspecified,May,N,M
+848,1997,Unprovoked,usa,Surfing,34,Unspecified,May,N,M
+849,1997,Unprovoked,usa,Surfing,12,Unspecified,May,N,M
+850,1997,Unprovoked,australia,Scuba diving,30,Tiger,Feb,N,M
+851,1997,Unprovoked,australia,Snorkeling,27,Unspecified,Jan,N,M
+852,1997,Unprovoked,australia,Windsurfing,41,Tiger,Jan,Y,M
+853,1996,Unprovoked,usa,Surfing,45,White,Nov,N,M
+854,1996,Unprovoked,usa,Surfing,22,White,Oct,N,M
+855,1996,Unprovoked,usa,Surfing,21,Unspecified,Oct,N,M
+856,1996,Unprovoked,usa,Surfing,31,White,Oct,N,M
+857,1996,Unprovoked,new zealand,Diving for abalone,23,White,Sep,N,M
+858,1996,Unprovoked,usa,Surfing / Swimming,19,Unspecified,Sep,N,M
+859,1996,Invalid,usa,Boogie boarding,28,Unspecified,Sep,,F
+860,1996,Provoked,south africa,Spearfishing,29,White,Sep,N,M
+861,1996,Unprovoked,usa,Body Boarding,19,Tiger,Aug,N,M
+862,1996,Unprovoked,usa,Free diving for abalone,36,White,Aug,N,M
+863,1996,Unprovoked,usa,Wade fishing,21,Unspecified,Aug,N,M
+864,1996,Unprovoked,usa,Standing,63,Unspecified,Jul,N,F
+865,1996,Unprovoked,south africa,Surfing,17,White,May,N,M
+866,1996,Unprovoked,usa,Surfing,22,Unspecified,May,N,M
+867,1996,Unprovoked,usa,Surfing,27,Unspecified,May,N,M
+868,1996,Unprovoked,australia,Swimming breast stoke,47,Tiger,Mar,N,F
+869,1996,Unprovoked,australia,Dived naked into the water on a bet,24,Unspecified,Feb,N,M
+870,1996,Unprovoked,australia,Swimming,7,Unspecified,Feb,N,M
+871,1996,Unprovoked,usa,Swimming with mask & snorkel,53,Tiger,Jan,N,M
+872,1996,Unprovoked,reunion,Surfing,25,Tiger,Jan,Y,M
+873,1995,Unprovoked,australia,Playing / standing,15,Unspecified,Oct,N,F
+874,1995,Unprovoked,usa,Surfing,39,Unspecified,Oct,N,M
+875,1995,Unprovoked,usa,Surfing,14,Unspecified,Sep,N,M
+876,1995,Unprovoked,usa,Windsurfing,25,White,Sep,N,M
+877,1995,Unprovoked,australia,Abalone diving using Hookah (near calving whales),29,White,Sep,Y,M
+878,1995,Unprovoked,usa,Abalone diving using Hookah (resting on the surface),32,White,Sep,N,M
+879,1995,Unprovoked,usa,Surfing,16,Unspecified,Aug,N,M
+880,1995,Unprovoked,usa,Surfing,18,Unspecified,Aug,N,M
+881,1995,Unprovoked,usa,Swimming,16,Unspecified,Aug,N,M
+882,1995,Unprovoked,usa,Swimming ,23,Unspecified,Aug,N,M
+883,1995,Unprovoked,usa,Surfing,19,Unspecified,Aug,N,M
+884,1995,Unprovoked,tonga,Fishing,18,Unspecified,Aug,N,M
+885,1995,Unprovoked,usa,Wading,20,Unspecified,Aug,N,M
+886,1995,Unprovoked,usa,Body boarding,12,Unspecified,Aug,N,M
+887,1995,Unprovoked,usa,Scuba diving (ascending using scooter),31,White,Jun,N,M
+888,1995,Unprovoked,usa,Swimming,45,Unspecified,Jun,N,M
+889,1995,Unprovoked,usa,Swimming,10,Unspecified,Jun,N,F
+890,1995,Unprovoked,usa,Swimming,38,Tiger,Jun,N,M
+891,1995,Unprovoked,hong kong,Swimming,29,Unspecified,Jun,Y,M
+892,1995,Unprovoked,japan,Scuba diving for bivalves,47,White,Apr,Y,M
+893,1995,Unprovoked,australia,Surfing,35,Unspecified,Mar,N,M
+894,1995,Unprovoked,south africa,Swimming,22,Unspecified,Feb,N,M
+895,1995,Unprovoked,south africa,Swimming,14,Tiger,Jan,Y,M
+896,1994,Unprovoked,south africa,Body boarding,26,White,Dec,N,M
+897,1994,Unprovoked,usa,Commercial diver (submerged or treading water),42,White,Dec,Y,M
+898,1994,Unprovoked,usa,"Surfing, paddling seawards",34,Unspecified,Nov,N,F
+899,1994,Provoked,usa,Wading,9,Unspecified,Oct,N,F
+900,1994,Unprovoked,usa,Surfing,43,White,Sep,N,M
+901,1994,Unprovoked,usa,Jumped off rocks into white water,12,Unspecified,Sep,N,F
+902,1994,Unprovoked,reunion,Windsurfing,24,Bull,Jul,Y,M
+903,1994,Unprovoked,south africa,Surfing,22,White,Jul,Y,M
+904,1994,Unprovoked,south africa,Surfing,31,White,Jul,N,M
+905,1994,Unprovoked,usa,Surfing,15,Unspecified,Jul,N,M
+906,1994,Unprovoked,bahamas,Spearfishing,30,Unspecified,Jun,N,M
+907,1994,Unprovoked,usa,Surfing,28,Unspecified,May,N,M
+908,1994,Unprovoked,usa,Surfing,22,Unspecified,May,N,M
+909,1994,Unprovoked,usa,Surfing,23,Unspecified,Feb,N,M
+910,1994,Unprovoked,south africa,Surfing,15,White,Feb,N,M
+911,1994,Unprovoked,south africa,Swimming ,33,Unspecified,Jan,N,M
+912,1993,Unprovoked,australia,Hookah diving,27,Tiger,Nov,Y,M
+913,1993,Unprovoked,usa,Surfing,26,White,Oct,N,M
+914,1993,Unprovoked,usa,Swimming,26,Bull,Oct,N,F
+915,1993,Boating,usa,Kayaking,34,White,Oct,N,F
+916,1993,Unprovoked,south africa,Spearfishing,36,White,Sep,N,M
+917,1993,Unprovoked,spain,Swimming,69,Unspecified,Sep,N,M
+918,1993,Unprovoked,bahamas,Spearfishing,51,Unspecified,Aug,N,M
+919,1993,Unprovoked,usa,Riding floatation device,19,Bull,Aug,N,F
+920,1993,Unprovoked,usa,Free diving for abalone (ascending),39,White,Aug,N,M
+921,1993,Unprovoked,south africa,Surfing,28,White,Jul,N,M
+922,1993,Unprovoked,usa,Playing,12,Unspecified,Jul,N,F
+923,1993,Unprovoked,usa,Paddling on surfboard or body board,22,Tiger,Jun,N,M
+924,1993,Unprovoked,australia,Scuba diving,31,White,Jun,Y,M
+925,1993,Unprovoked,australia,Scuba diving at seal colony,34,White,Jun,Y,F
+926,1993,Unprovoked,usa,Swimming,60,Unspecified,Jun,N,F
+927,1993,Unprovoked,usa,Paddling on surfboard,35,Tiger,Mar,N,M
+928,1993,Unprovoked,usa,Free diving & spearfishing (ascending),55,White,Mar,N,M
+929,1993,Provoked,australia,Fishing,69,Unspecified,,N,M
+930,1993,Unprovoked,australia,Spearfishing,21,Unspecified,Jan,N,M
+931,1993,Unprovoked,usa,Surfing,29,White,Jan,N,M
+932,1992,Unprovoked,usa,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",10,Tiger,Dec,N,M
+933,1992,Unprovoked,usa,Lying on surfboard,30,Tiger,Dec,N,M
+934,1992,Unprovoked,usa,Spearfishing / free diving,31,Unspecified,Nov,N,M
+935,1992,Unprovoked,usa,Surfing,19,Unspecified,Nov,N,M
+936,1992,Boating,usa,Kayaking,46,White,Nov,N,M
+937,1992,Unprovoked,usa,Scuba diving (submerged),40,Unspecified,Nov,N,M
+938,1992,Unprovoked,usa,Body boarding,18,Tiger,Nov,Y,M
+939,1992,Unprovoked,usa,Hookah diving for sea urchins,40,White,Oct,N,M
+940,1992,Unprovoked,usa,Surfing,28,Tiger,Oct,N,M
+941,1992,Unprovoked,australia,Surfing,28,White,Oct,Y,M
+942,1992,Unprovoked,usa,Surfing,20,White,Sep,N,M
+943,1992,Unprovoked,australia,Surfing,17,White,Aug,N,M
+944,1992,Unprovoked,usa,Surfing,22,White,Aug,N,M
+945,1992,Unprovoked,usa,Standing,42,Unspecified,Jul,N,F
+946,1992,Unprovoked,reunion,Surfing,16,Bull,Jun,Y,M
+947,1992,Unprovoked,south africa,Surfing,35,Unspecified,Apr,N,M
+948,1992,Unprovoked,usa,"Surfing, paddling seawards",36,Tiger,Mar,N,F
+949,1992,Unprovoked,japan,Hookah diving for pen shells ,41,White,Mar,Y,M
+950,1992,Unprovoked,usa,Surfing (sitting on his board),21,White,Mar,N,M
+951,1992,Invalid,australia,Surfing,19,Unspecified,Feb,,M
+952,1992,Unprovoked,australia,Boogie boarding,19,Unspecified,Jan,N,M
+953,1992,Unprovoked,south africa,Swimming ,19,Unspecified,Jan,N,M
+954,1992,Unprovoked,south africa,Spearfishing,36,Unspecified,Jan,N,M
+955,1991,Unprovoked,usa,Hookah diving for sea urchins,25,White,Dec,N,M
+956,1991,Unprovoked,usa,Snorkeling,41,Tiger,Nov,Y,F
+957,1991,Unprovoked,usa,Surfing,21,Unspecified,Oct,N,M
+958,1991,Unprovoked,usa,Surfing,32,White,Oct,N,M
+959,1991,Unprovoked,australia,Scuba diving,19,White,Sep,Y,M
+960,1991,Provoked,australia,Finning the shark that bit him,36,Unspecified,Aug,N,M
+961,1991,Unprovoked,usa,Swimming,23,Unspecified,Aug,N,M
+962,1991,Unprovoked,usa,Wading,10,Unspecified,Aug,N,F
+963,1991,Boating,italy,Canoeing,40,White,Jul,N,F
+964,1991,Unprovoked,reunion,Surfing,30,Tiger,Jul,N,M
+965,1991,Unprovoked,usa,Surfing,32,White,Jul,N,M
+966,1991,Unprovoked,usa,Swimming behind sailboat,31,Bull,Jun,N,M
+967,1991,Unprovoked,hong kong,Swimming ,65,Tiger,Jun,Y,F
+968,1991,Unprovoked,usa,Sitting on surfboard,23,Unspecified,May,N,M
+969,1991,Unprovoked,usa,"Surfing, collided with shark",22,Unspecified,Apr,N,M
+970,1991,Unprovoked,usa,Surfing,38,White,Feb,N,M
+971,1991,Unprovoked,south africa,Spearfishing,20,White,Feb,N,M
+972,1990,Unprovoked,usa,Surfing,24,Unspecified,Nov,N,M
+973,1990,Unprovoked,usa,Surfing,50,Unspecified,Oct,N,M
+974,1990,Unprovoked,usa,Surfing,25,Unspecified,Oct,N,M
+975,1990,Unprovoked,usa,Surfing,43,Tiger,Oct,N,M
+976,1990,Unprovoked,usa,Surfing,19,Unspecified,Oct,N,M
+977,1990,Unprovoked,south africa,Spearfishing,26,White,Sep,N,M
+978,1990,Unprovoked,usa,"Free diving / spearfishing, from paddleboard & floating on the surface",49,White,Sep,N,M
+979,1990,Boating,usa,Kayaking,44,White,Sep,N,M
+980,1990,Unprovoked,usa,Surfing,22,White,Aug,N,M
+981,1990,Unprovoked,south africa,Scuba diving (but on surface),21,White,Jun,Y,F
+982,1990,Unprovoked,south africa,Resting on surfboard,22,White,May,N,M
+983,1990,Unprovoked,south africa,Lying on surfboard & paddling,23,White,Apr,N,M
+984,1990,Unprovoked,australia,Surfing,31,Tiger,Apr,N,M
+985,1989,Unprovoked,south africa,Free diving & spearfishing,29,White,Nov,Y,M
+986,1989,Unprovoked,australia,Surfing,17,White,Oct,N,M
+987,1989,Unprovoked,usa,Surfing,12,Unspecified,Oct,N,M
+988,1989,Invalid,usa,Diving,49,Unspecified,Oct,,M
+989,1989,Unprovoked,south africa,Free diving,29,White,Sep,N,M
+990,1989,Provoked,usa,"Fishing, stepped on hooked shark's head",51,Unspecified,Sep,N,M
+991,1989,Unprovoked,usa,Hookah diving for abalone (descending),38,White,Sep,N,M
+992,1989,Provoked,australia,Feeding fish,30,Grey,Aug,N,M
+993,1989,Unprovoked,south africa,Surfing,21,White,Aug,N,M
+994,1989,Unprovoked,australia,Surfing,17,Unspecified,Aug,N,M
+995,1989,Unprovoked,south africa,Surfing,34,White,Jul,N,M
+996,1989,Unprovoked,south africa,Surfing,16,White,Jun,N,M
+997,1989,Unprovoked,south africa,Free diving,28,White,Jun,N,M
+998,1989,Unprovoked,australia,Surfing,27,White,Mar,Y,M
+999,1989,Unprovoked,italy,"Scuba diving, but swimming on surface",47,White,Feb,Y,M
+1000,1989,Invalid,usa,Kayaking,24,Unspecified,Jan,,M
+1001,1989,Unprovoked,usa,Kayaking,24,White,Jan,Y,F
+1002,1989,Unprovoked,australia,Surfing with dolphins,17,Tiger,Jan,N,M
+1003,1988,Unprovoked,usa,Surfing (sitting on his board),21,White,Oct,N,M
+1004,1988,Unprovoked,usa,Surfing,30,Unspecified,Oct,N,M
+1005,1988,Unprovoked,usa,Surfing,23,Unspecified,Oct,N,M
+1006,1988,Unprovoked,usa,Surfing,21,Unspecified,Sep,N,M
+1007,1988,Unprovoked,usa,Snorkeling,38,Bull,Sep,Y,M
+1008,1988,Unprovoked,usa,Surfing,27,White,Aug,N,M
+1009,1988,Unprovoked,south africa,Spearfishing,36,White,Jun,N,M
+1010,1988,Unprovoked,usa,Sittting in water with his child,37,Unspecified,Jun,N,M
+1011,1988,Unprovoked,usa,Surfing,25,Unspecified,Jun,N,M
+1012,1988,Unprovoked,south africa,Surfing,17,Unspecified,Mar,N,M
+1013,1988,Unprovoked,south africa,Surfing,20,Grey,Feb,N,M
+1014,1988,Unprovoked,south africa,Lying atop surfboard,15,Unspecified,Feb,N,F
+1015,1988,Invalid,south africa,Surfing,22,Unspecified,Jan,,M
+1016,1988,Provoked,south africa,Attempting to lasso shark's tail,33,Unspecified,Jan,N,M
+1017,1987,Unprovoked,usa,Surfing,16,Unspecified,Dec,N,M
+1018,1987,Unprovoked,usa,Surfing,20,Unspecified,Oct,N,M
+1019,1987,Invalid,south africa,Boogie boarding,14,Unspecified,Oct,,M
+1020,1987,Unprovoked,south africa,Spearfishing,21,White,Oct,N,M
+1021,1987,Unprovoked,south africa,Surfing,24,White,Sep,N,M
+1022,1987,Unprovoked,usa,Wading,12,Unspecified,Aug,N,M
+1023,1987,Unprovoked,usa,Surfing (sitting on his board),40,White,Aug,N,M
+1024,1987,Unprovoked,usa,Surfing,27,Unspecified,Jul,N,M
+1025,1987,Unprovoked,usa,Body surfing,32,Unspecified,Jul,N,F
+1026,1987,Unprovoked,usa,Wading,16,Unspecified,Jul,N,F
+1027,1987,Unprovoked,vanuatu,Swimming,8,Unspecified,Apr,Y,M
+1028,1987,Unprovoked,south africa,Spearfishing,30,White,Jan,N,M
+1029,1986,Unprovoked,south africa,Body boarding,21,White,Dec,Y,M
+1030,1986,Unprovoked,usa,Surfing,40,Unspecified,Dec,N,M
+1031,1986,Unprovoked,usa,Free diving  & spearfishing (submerged),27,White,Dec,N,M
+1032,1986,Unprovoked,usa,Swimming,6,Lemon,Oct,N,F
+1033,1986,Unprovoked,south africa,Racing ski,32,Unspecified,Oct,N,M
+1034,1986,Invalid,south africa,Spearfishing,35,Unspecified,Aug,,M
+1035,1986,Unprovoked,south africa,Spearfishing,26,Unspecified,Jul,N,M
+1036,1986,Unprovoked,south africa,Treading water,26,Unspecified,Mar,N,M
+1037,1986,Unprovoked,south africa,Surfing,21,White,Feb,N,M
+1038,1986,Unprovoked,south africa,Swimming,46,Unspecified,Feb,N,M
+1039,1986,Unprovoked,south africa,Spearfishing,29,Unspecified,Feb,N,M
+1040,1986,Unprovoked,australia,Surfing,29,Unspecified,Feb,N,M
+1041,1986,Unprovoked,usa,Surfing,22,Unspecified,Jan,N,M
+1042,1986,Unprovoked,usa,Surfing,16,Unspecified,,N,M
+1043,1985,Unprovoked,south africa,Body boarding,22,White,Oct,N,M
+1044,1985,Unprovoked,usa,Hookah diving for abalone,46,Unspecified,Oct,N,M
+1045,1985,Invalid,usa,Swimming,17,Unspecified,Sep,,M
+1046,1985,Invalid,usa,Wading,11,Unspecified,Aug,,M
+1047,1985,Invalid,usa,Scuba diving,67,Unspecified,Aug,,M
+1048,1985,Unprovoked,usa,Wading,13,Unspecified,Jul,N,F
+1049,1985,Unprovoked,italy,Snorkeling,13,White,Jul,N,M
+1050,1985,Unprovoked,australia,Free diving for scallops,33,White,Mar,Y,F
+1051,1985,Unprovoked,usa,Scuba Diving for lobster (at surface),29,White,Feb,N,M
+1052,1985,Unprovoked,south africa,Swimming,15,Unspecified,Jan,N,M
+1053,1985,Unprovoked,south africa,Surfing,18,White,Jan,N,M
+1054,1985,Unprovoked,south africa,Spearfishing,34,White,Jan,N,M
+1055,1985,Provoked,south africa,Spearfishing,20,Unspecified,Jan,N,M
+1056,1984,Unprovoked,australia,Sailing on catamaran & fell into the water,16,Tiger,Nov,Y,M
+1057,1984,Invalid,usa,Swimming,22,Unspecified,Oct,,M
+1058,1984,Unprovoked,usa,Surfing or body surfing,23,Unspecified,Oct,N,F
+1059,1984,Invalid,usa,Wading,77,Unspecified,Oct,,F
+1060,1984,Unprovoked,usa,Surfing,15,Unspecified,Oct,N,M
+1061,1984,Unprovoked,usa,Surfing (sitting on his board),25,White,Sep,N,M
+1062,1984,Unprovoked,usa,Surfing,16,Unspecified,Sep,N,M
+1063,1984,Unprovoked,usa,Skindiving,28,White,Sep,Y,M
+1064,1984,Unprovoked,usa,Swimming,18,Unspecified,Jul,N,F
+1065,1984,Invalid,south africa,Spearfishing,21,Unspecified,Jul,,M
+1066,1984,Unprovoked,south africa,Surfing,27,White,Jun,N,M
+1067,1984,Unprovoked,usa,Towing her sister on plastic ski board,13,Unspecified,Jun,N,F
+1068,1984,Provoked,south africa,Scuba diving,33,Unspecified,Feb,N,M
+1069,1984,Unprovoked,south africa,Swimming,14,Unspecified,Jan,N,M
+1070,1983,Unprovoked,south africa,Swimming,47,Unspecified,Dec,N,M
+1071,1983,Unprovoked,south africa,Spearfishing,29,White,Aug,N,M
+1072,1983,Unprovoked,usa,Swimming,14,Unspecified,Aug,N,F
+1073,1983,Unprovoked,usa,Diving,22,Bull,Aug,N,F
+1074,1983,Sea Disaster,australia,Swimming from the New Venture ,21,Tiger,Jul,Y,F
+1075,1983,Sea Disaster,australia,Swimming from the New Venture ,24,Tiger,Jul,Y,M
+1076,1983,Sea Disaster,australia,14 m prawn trawler New Venture capsized  & sank in heavy seas Three people in the water,28,Tiger,Jul,N,M
+1077,1983,Unprovoked,usa,Windsurfing,39,Unspecified,Jul,N,F
+1078,1983,Unprovoked,usa,Water-skiing,21,Unspecified,May,N,M
+1079,1983,Unprovoked,south africa,Fishing,27,Unspecified,Apr,N,M
+1080,1983,Unprovoked,south africa,Spearfishing,17,Unspecified,Mar,N,M
+1081,1983,Unprovoked,south africa,Paddleskiing,16,Unspecified,Feb,N,M
+1082,1983,Unprovoked,south africa,Spearfishing,32,White,Jan,N,M
+1083,1982,Unprovoked,usa,Windsurfing,26,Unspecified,Oct,N,M
+1084,1982,Unprovoked,south africa,Surfing,16,White,Sep,N,M
+1085,1982,Unprovoked,usa,Surfing,20,Unspecified,Sep,N,M
+1086,1982,Unprovoked,usa,Diving,36,White,Sep,N,M
+1087,1982,Unprovoked,usa,Free diving for abalone from Zodiac (submerged),28,White,Sep,N,M
+1088,1982,Invalid,usa,Surfing,17,Unspecified,Aug,,M
+1089,1982,Invalid,south africa,Boogie boarding,20,Unspecified,Jul,,M
+1090,1982,Unprovoked,south africa,Paddleskiing,38,White,Jul,N,M
+1091,1982,Unprovoked,usa,Paddle Boarding,26,White,Jul,N,M
+1092,1982,Unprovoked,usa,Swimming,17,Unspecified,Jul,N,M
+1093,1982,Unprovoked,south africa,Surfing,27,White,Jun,Y,M
+1094,1982,Unprovoked,usa,Swimming,20,Unspecified,Jun,N,M
+1095,1982,Unprovoked,south africa,Swimming,20,Unspecified,Jan,N,M
+1096,1981,Unprovoked,usa,Surfing,24,White,Dec,Y,M
+1097,1981,Unprovoked,usa,Swimming,19,Unspecified,Oct,N,M
+1098,1981,Unprovoked,usa,Swimming,26,Tiger,Sep,Y,M
+1099,1981,Unprovoked,bahamas,Snorkeling on surface,53,Unspecified,Aug,N,M
+1100,1981,Unprovoked,south africa,Surfing,32,Unspecified,Jul,N,M
+1101,1981,Unprovoked,south korea,Shell diving,27,White,May,Y,F
+1102,1981,Unprovoked,south africa,Surfing,27,Unspecified,May,N,M
+1103,1981,Unprovoked,south africa,Surfing,19,Unspecified,May,N,M
+1104,1981,Unprovoked,south africa,Surfing,24,Tiger,May,N,M
+1105,1981,Unprovoked,usa,Standing / Wading,19,Bull,Mar,N,M
+1106,1981,Unprovoked,usa,Surfing,24,Unspecified,Mar,N,M
+1107,1981,Unprovoked,south africa,Swimming,30,Unspecified,Feb,N,M
+1108,1981,Unprovoked,usa,Surfing,15,Unspecified,Feb,N,M
+1109,1981,Unprovoked,australia,Surf-skiing,27,Tiger,,N,M
+1110,1980,Unprovoked,south africa,Paddleskiing,25,Unspecified,,N,M
+1111,1980,Unprovoked,reunion,Spearfishing,22,White,Nov,N,M
+1112,1980,Unprovoked,usa,Surfing,29,White,Oct,N,M
+1113,1980,Unprovoked,usa,Surfing,19,White,Oct,N,M
+1114,1980,Unprovoked,usa,Standing,22,Unspecified,Jul,N,F
+1115,1980,Unprovoked,south africa,Surfing,22,Unspecified,May,N,M
+1116,1980,Unprovoked,mexico,Body surfing,13,Tiger,Apr,N,F
+1117,1980,Unprovoked,south africa,Body boarding,24,White,Jan,N,M
+1118,1980,Provoked,south africa,Spearfishing,29,Unspecified,Jan,N,M
+1119,1980,Unprovoked,south africa,Swimming,25,Unspecified,Jan,N,M
+1120,1980,Invalid,south africa,Spearfishing,20,Unspecified,,,M
+1121,1979,Unprovoked,usa,Surfing,20,White,Nov,N,M
+1122,1979,Provoked,south africa,Spearfishing,25,White,,N,M
+1123,1979,Unprovoked,usa,Surfing,27,Unspecified,Mar,N,M
+1124,1979,Unprovoked,south africa,"Surfing, collided with shark",19,Unspecified,Feb,N,M
+1125,1978,Unprovoked,south africa,Spearfishing,23,White,Dec,Y,M
+1126,1978,Unprovoked,south africa,Spearfishing,27,White,Sep,N,M
+1127,1978,Unprovoked,south africa,Surfing,17,Unspecified,Jan,N,M
+1128,1977,Unprovoked,south africa,Surfing,18,Tiger,Dec,N,M
+1129,1977,Unprovoked,south africa,Spearfishing,25,White,Oct,N,M
+1130,1977,Unprovoked,australia,Surfing,17,White,Aug,N,M
+1131,1977,Unprovoked,usa,Free diving for abalone (surfacing),20,White,Aug,N,M
+1132,1977,Provoked,usa,Spearfishing / Scuba diving,27,Bull,Jun,N,M
+1133,1976,Unprovoked,usa,Hookah diving for abalone (submerged),29,White,Dec,N,M
+1134,1976,Unprovoked,south africa,"Thrashing the water / imitating the shark victim from ""Jaws""",19,White,Nov,N,M
+1135,1976,Unprovoked,usa,Surfing,19,Bull,Nov,N,M
+1136,1976,Unprovoked,usa,Surfing,25,White,Oct,N,M
+1137,1976,Unprovoked,south africa,Surfing,20,White,Oct,N,M
+1138,1976,Unprovoked,usa,Surfing,15,Tiger,Sep,N,M
+1139,1976,Unprovoked,usa,Surfing,19,White,Aug,N,M
+1140,1976,Unprovoked,usa,Skindiving,17,Unspecified,Jun,N,M
+1141,1975,Unprovoked,usa,Scuba diving & spearfishing,27,White,Dec,N,M
+1142,1975,Unprovoked,south africa,Standing,33,Unspecified,Nov,N,M
+1143,1975,Unprovoked,south africa,Surfing,19,White,Aug,N,M
+1144,1975,Unprovoked,usa,Floating on a small orange raft ,20,Unspecified,Aug,N,M
+1145,1975,Unprovoked,usa,Free diving for abalone,44,White,Aug,N,M
+1146,1975,Unprovoked,australia,Scuba diving for abalone,37,White,Jul,Y,M
+1147,1975,Unprovoked,usa,Scuba diving for abalone (at surface),23,White,Jul,N,M
+1148,1975,Unprovoked,usa,Hookah diving for abalone,34,White,Jul,N,M
+1149,1975,Unprovoked,usa,Swimming,14,Unspecified,Jul,N,F
+1150,1975,Unprovoked,usa,Swimming ,18,Unspecified,Jun,N,M
+1151,1975,Unprovoked,south africa,Surfing,16,Unspecified,Feb,N,M
+1152,1975,Unprovoked,australia,Swimming underwater from crayfish cage to a fishing bait,12,White,Feb,Y,M
+1153,1974,Unprovoked,usa,Surfing,17,White,Sep,N,M
+1154,1974,Unprovoked,usa,Hookah diving for abalone,29,White,Sep,N,M
+1155,1974,Unprovoked,israel,Swimming,20,Unspecified,Sep,N,F
+1156,1974,Unprovoked,usa,Scuba diving (but on surface),41,White,Sep,N,M
+1157,1974,Unprovoked,usa,Scuba diving (but on surface),48,White,Sep,N,M
+1158,1974,Unprovoked,usa,Surfing,24,White,Sep,N,M
+1159,1974,Unprovoked,usa,Free diving (but on surface),45,White,May,N,M
+1160,1974,Unprovoked,south africa,Spearfishing,22,Unspecified,Apr,N,M
+1161,1974,Unprovoked,south africa,Surfing,17,Unspecified,Apr,N,M
+1162,1974,Unprovoked,south africa,Surfing,21,Unspecified,Mar,N,M
+1163,1974,Unprovoked,south africa,Swimming,33,Unspecified,Jan,N,M
+1164,1973,Unprovoked,bahamas,"Free diving, Spearfishing",11,Bull,Sep,N,M
+1165,1973,Unprovoked,mexico,"Free diving, Spearfishing",37,White,Sep,Y,M
+1166,1973,Unprovoked,south africa,Spearfishing,26,Unspecified,Mar,N,M
+1167,1972,Unprovoked,mozambique,Swimming,25,Unspecified,Dec,N,M
+1168,1972,Unprovoked,usa,Surfing,22,Unspecified,Jun,N,M
+1169,1972,Unprovoked,usa,Free diving for abalone,32,White,May,N,M
+1170,1972,Unprovoked,australia,Surfing,18,Unspecified,Feb,N,M
+1171,1972,Unprovoked,south africa,Sitting in shallows,30,Unspecified,Jan,N,F
+1172,1972,Unprovoked,mozambique,Standing,24,White,Jan,N,M
+1173,1971,Unprovoked,south africa,Swimming,16,White,Dec,N,F
+1174,1971,Unprovoked,usa,Surfing,18,Unspecified,Oct,N,M
+1175,1971,Unprovoked,south africa,Swimming,25,Unspecified,Oct,N,M
+1176,1971,Unprovoked,usa,Scuba diving,30,White,Oct,N,M
+1177,1971,Unprovoked,croatia,Swimming,34,White,Sep,Y,M
+1178,1971,Provoked,australia,Scuba diving & feeding fish,26,Grey,Aug,N,M
+1179,1971,Unprovoked,south africa,Surfing,21,White,Jun,N,M
+1180,1971,Unprovoked,south africa,Swimming,50,White,Apr,Y,M
+1181,1971,Unprovoked,new zealand,Surfing,16,White,Mar,N,M
+1182,1970,Unprovoked,micronesia,Diving,43,Unspecified,Sep,N,M
+1183,1970,Provoked,south africa,Scuba Diving,25,Unspecified,Jun,N,M
+1184,1969,Unprovoked,usa,Free diving for abalone,53,White,Sep,N,M
+1185,1969,Unprovoked,usa,Body surfing,13,Unspecified,Aug,N,M
+1186,1969,Provoked,usa,Diving,23,Unspecified,May,N,M
+1187,1969,Unprovoked,usa,Surfing,16,White,Mar,N,M
+1188,1969,Provoked,australia,Fishing,49,Unspecified,Feb,N,M
+1189,1968,Provoked,australia,Feeding mullet to sharks,27,Grey,Dec,N,M
+1190,1968,Unprovoked,new zealand,Surfing,17,White,Dec,N,M
+1191,1968,Unprovoked,new zealand,Spearfishing,24,White,Sep,Y,M
+1192,1968,Unprovoked,columbia,Dynamite fishing,18,Unspecified,Aug,N,M
+1193,1968,Unprovoked,usa,Free diving,25,White,Jul,N,M
+1194,1968,Unprovoked,usa,Spearfishing using Scuba,33,Unspecified,Jul,N,M
+1195,1968,Invalid,usa,Wading,63,Unspecified,Apr,,M
+1196,1968,Unprovoked,south africa,Wading & pushing dinghy toward  the shallows,35,Unspecified,Mar,N,M
+1197,1968,Invalid,usa,Treading water,28,Unspecified,Mar,,M
+1198,1968,Unprovoked,australia,Spearfishing,26,Unspecified,Feb,N,M
+1199,1967,Unprovoked,south africa,Surfing,22,Unspecified,Dec,N,M
+1200,1967,Unprovoked,usa,Standing on sandbar,19,Unspecified,Oct,N,M
+1201,1967,Provoked,usa,Pulling shark from the water,24,Unspecified,Aug,N,M
+1202,1967,Unprovoked,australia,"Spearfishing, dived to pick up a float line",23,White,Aug,Y,M
+1203,1967,Invalid,australia,Anti-sabotage night dive exercise alongside destroyer (Scuba diving),19,Unspecified,Aug,,M
+1204,1967,Unprovoked,usa,Spearfishing,15,Unspecified,Aug,N,M
+1205,1967,Unprovoked,bahamas,Photographing sharks underwater using Scuba,41,Unspecified,Aug,N,M
+1206,1967,Provoked,usa,Spearfishing,26,Unspecified,Jun,N,M
+1207,1967,Unprovoked,south africa,Spearfishing,32,White,Mar,N,M
+1208,1967,Provoked,australia,Spearfishing,36,Grey,Mar,N,M
+1209,1967,Unprovoked,new zealand,Lifesaving drill,21,White,Mar,Y,M
+1210,1966,Unprovoked,papua new guinea,Swimming,13,Unspecified,Oct,Y,F
+1211,1966,Unprovoked,papua new guinea,Bathing,8,Unspecified,Oct,Y,F
+1212,1966,Unprovoked,australia,"Free diving, carrying speargun",32,Unspecified,Sep,N,M
+1213,1966,Unprovoked,australia,Spearfishing,43,Unspecified,Sep,N,M
+1214,1966,Unprovoked,new britain,Swimming,13,Unspecified,Aug,Y,F
+1215,1966,Unprovoked,new britain,Diving into water,9,Unspecified,Aug,Y,F
+1216,1966,Invalid,usa,Spearfishing on Scuba,26,Unspecified,Aug,,M
+1217,1966,Unprovoked,usa,Wading,8,Unspecified,Aug,N,M
+1218,1966,Provoked,usa,Killing a shark,34,Unspecified,Jul,N,M
+1219,1966,Invalid,usa,Free diving,46,Unspecified,Jul,,M
+1220,1966,Provoked,usa,Clamming,15,Unspecified,Jun,N,M
+1221,1966,Provoked,usa,Fishing,18,Unspecified,Jun,N,M
+1222,1966,Unprovoked,usa,Swimming,18,Unspecified,Jun,N,M
+1223,1966,Invalid,usa,Spearfishing / Scuba diving,24,Unspecified,May,,M
+1224,1966,Unprovoked,australia,Treading water,13,White,Feb,N,M
+1225,1966,Provoked,south africa,Helping men land a shark,33,Unspecified,Jan,N,M
+1226,1966,Unprovoked,usa,Free diving / spearfishing (resting on the surface),29,White,Jan,N,M
+1227,1966,Unprovoked,south africa,Standing,16,Unspecified,Jan,N,M
+1228,1966,Unprovoked,south africa,Body surfing,15,Unspecified,Jan,N,M
+1229,1966,Unprovoked,usa,Swimming,35,Unspecified,Jan,N,M
+1230,1966,Invalid,usa,Walking,15,Unspecified,,,F
+1231,1965,Unprovoked,australia,Surfing,24,Grey,Nov,N,M
+1232,1965,Invalid,usa,Surfing,19,Unspecified,Apr,,M
+1233,1965,Unprovoked,usa,Spearfishing,28,White,Apr,N,M
+1234,1965,Unprovoked,palau,Walking on reef,8,Tiger,Apr,N,M
+1235,1965,Unprovoked,usa,Paddling on surfboard,17,Unspecified,Apr,N,M
+1236,1965,Unprovoked,usa,Free diving,16,Unspecified,Mar,N,M
+1237,1965,Unprovoked,south africa,Treading water,25,Unspecified,Feb,N,M
+1238,1965,Unprovoked,usa,Scuba diving,18,Unspecified,Feb,N,M
+1239,1965,Unprovoked,south africa,Paddling rescue ski,22,White,Jan,N,M
+1240,1964,Unprovoked,south africa,Swimming,19,Unspecified,Dec,N,M
+1241,1964,Unprovoked,papua new guinea,"Canoe swamped, swimming back to canoe",28,Unspecified,Dec,N,M
+1242,1964,Unprovoked,australia,Free diving with seals,25,White,Nov,N,M
+1243,1964,Unprovoked,australia,"Surfing, but swimming to his board",19,Grey,Oct,N,M
+1244,1964,Unprovoked,taiwan,Swimming,20,Unspecified,Sep,N,M
+1245,1964,Unprovoked,mexico,Floating on his back in an inner tube,19,Unspecified,Aug,N,M
+1246,1964,Invalid,usa,Spearfishing / free diving,18,Unspecified,Aug,,M
+1247,1964,Unprovoked,usa,Spearfishing using scuba,28,Unspecified,Aug,N,M
+1248,1964,Invalid,usa,Attempting to swim across the Atlantic Ocean,29,Unspecified,Jun,,F
+1249,1964,Invalid,south africa,Swimming,40,Unspecified,Jun,,M
+1250,1964,Unprovoked,fiji,Spearfishing,35,Tiger,May,Y,M
+1251,1964,Unprovoked,usa,Skin diving ,38,Unspecified,Mar,N,M
+1252,1964,Unprovoked,new zealand,Spearfishing,26,White,Feb,N,M
+1253,1964,Unprovoked,south africa,Body boarding,25,White,Feb,N,M
+1254,1964,Unprovoked,new zealand,Swimming,19,White,Feb,Y,M
+1255,1964,Invalid,australia,Swimming,23,Unspecified,Feb,,M
+1256,1964,Unprovoked,usa,Spearfishing / Scuba diving (at surface),21,White,Jan,N,M
+1257,1963,Unprovoked,south africa,Standing,20,Unspecified,Dec,N,F
+1258,1963,Unprovoked,south africa,Swimming ,24,Unspecified,Dec,N,M
+1259,1963,Provoked,south africa,Helping friend land hooked shark,13,Unspecified,Dec,N,M
+1260,1963,Unprovoked,south africa,Splashing in surf,15,Unspecified,Dec,Y,M
+1261,1963,Unprovoked,australia,Spearfishing,23,White,Dec,N,M
+1262,1963,Unprovoked,new zealand,Treading water while alongside capsized yacht,20,Unspecified,Nov,N,M
+1263,1963,Provoked,papua new guinea,Fishing / standing in waist deep water,18,Tiger,Nov,N,F
+1264,1963,Unprovoked,fiji,Fishing,21,Tiger,Nov,N,F
+1265,1963,Unprovoked,palau,Fishing,35,Unspecified,Nov,N,M
+1266,1963,Unprovoked,usa,"Surf fishing, wading ",28,Unspecified,Oct,N,M
+1267,1963,Unprovoked,solomon islands,Spearing fish,30,Unspecified,Sep,Y,M
+1268,1963,Provoked,australia,Surfing,18,Unspecified,Sep,N,M
+1269,1963,Provoked,usa,"Spearfishing, pulled sharks tail",16,Unspecified,Sep,N,M
+1270,1963,Unprovoked,federated states of micronesia,Spearfishing,26,Tiger,Jul,N,M
+1271,1963,Unprovoked,greece,Swimming,42,White,Jun,Y,F
+1272,1963,Provoked,papua new guinea,Fishing,30,Unspecified,Jun,N,M
+1273,1963,Unprovoked,usa,Swimming,25,Unspecified,Apr,Y,M
+1274,1963,Unprovoked,usa,Surfing ,15,Unspecified,Apr,N,M
+1275,1963,Unprovoked,australia,Spearfishing,18,Unspecified,Feb,N,M
+1276,1963,Unprovoked,fiji,Spearfishing,28,White,Feb,N,M
+1277,1963,Unprovoked,australia,Wading,32,Bull,Jan,Y,F
+1278,1963,Invalid,australia,Swimming,25,Unspecified,Jan,,M
+1279,1963,Unprovoked,south africa,"Free diving, hunting crayfish",27,Unspecified,Jan,N,M
+1280,1963,Unprovoked,south africa,Spearfishing,24,Unspecified,Jan,N,M
+1281,1962,Unprovoked,australia,Spearfishing,16,White,Dec,Y,M
+1282,1962,Unprovoked,usa,Spearfishing / Scuba diving (at surface),24,White,Nov,N,M
+1283,1962,Unprovoked,mexico,Wading,32,Unspecified,Oct,Y,M
+1284,1962,Unprovoked,british west indies,Spearfishing,24,Unspecified,Sep,N,M
+1285,1962,Unprovoked,italy,Spearfishing with Scuba gear,28,White,Sep,Y,M
+1286,1962,Provoked,papua new guinea,Fishing,49,Unspecified,Aug,N,M
+1287,1962,Provoked,usa,Diving for abalone,39,Unspecified,Aug,N,M
+1288,1962,Unprovoked,usa,Surf fishing in waist-deep water,40,Unspecified,Aug,Y,M
+1289,1962,Unprovoked,usa,Standing,24,Unspecified,Aug,N,M
+1290,1962,Provoked,usa,Fishing for albacore,19,Unspecified,Jul,N,M
+1291,1962,Unprovoked,usa,Rolled off raft,11,Unspecified,Jun,N,M
+1292,1962,Provoked,usa,"Scuba diving, attempting to catch a captive shark",55,Unspecified,Jun,N,M
+1293,1962,Unprovoked,south africa,Wading,13,Unspecified,Apr,N,M
+1294,1962,Unprovoked,papua new guinea,Swimming,10,Unspecified,Mar,Y,M
+1295,1962,Unprovoked,south africa,Treading water,13,White,Feb,Y,M
+1296,1962,Unprovoked,australia,Swimming,35,Unspecified,Feb,N,M
+1297,1962,Unprovoked,new zealand,Splashing ,18,Unspecified,Jan,N,M
+1298,1962,Invalid,south africa,"Fishing, slipped on rocks & fell into sea",40,Unspecified,Jan,,M
+1299,1962,Unprovoked,usa,Spearfishing / Scuba diving (at surface),29,White,Jan,N,M
+1300,1962,Unprovoked,australia,Surfing,19,Unspecified,Jan,N,M
+1301,1962,Unprovoked,papua new guinea,Spearfishing,24,White,Jan,N,M
+1302,1962,Unprovoked,new zealand,Surf fishing,54,Unspecified,Jan,N,F
+1303,1962,Unprovoked,marshall islands,Fishing with hand net in 2' of water,57,Unspecified,Jan,N,M
+1304,1961,Unprovoked,australia,Standing,18,Unspecified,Dec,Y,F
+1305,1961,Unprovoked,australia,Standing,24,Unspecified,Dec,N,M
+1306,1961,Unprovoked,south africa,Treading water,18,Unspecified,Dec,N,M
+1307,1961,Provoked,australia,Spearfishing,23,Grey,Dec,N,M
+1308,1961,Unprovoked,australia,"Surfing, pushing board ashore",22,Unspecified,Dec,Y,M
+1309,1961,Unprovoked,australia,Swimming with other crew near wharf,17,Unspecified,Dec,N,M
+1310,1961,Unprovoked,croatia,Swimming,19,White,Sep,Y,M
+1311,1961,Unprovoked,usa,Swimming,16,White,Aug,N,M
+1312,1961,Unprovoked,usa,Wading,19,White,Aug,N,M
+1313,1961,Unprovoked,usa,"Net fishing, picking catch from the net",38,Unspecified,Aug,N,M
+1314,1961,Provoked,usa,Spearfishing,57,Unspecified,Jul,N,M
+1315,1961,Unprovoked,italy,Spearfishing,21,White,Jul,N,M
+1316,1961,Unprovoked,usa,Free diving for abalone,20,White,May,N,M
+1317,1961,Unprovoked,usa,Walking in chest-deep water,52,Unspecified,May,N,M
+1318,1961,Invalid,usa,Splashing ,10,Unspecified,Apr,,M
+1319,1961,Unprovoked,mozambique,Swimming,37,Unspecified,Apr,N,M
+1320,1961,Unprovoked,australia,"Checking fish traps, fell into the water",40,Unspecified,Apr,N,M
+1321,1961,Unprovoked,mozambique,"Swimming, using bundles of sticks as raft",38,Unspecified,Apr,Y,M
+1322,1961,Unprovoked,australia,Swimming,24,Unspecified,Mar,N,M
+1323,1961,Unprovoked,australia,Spearfishing,21,White,Mar,N,M
+1324,1961,Unprovoked,north pacific ocean,Free diving,33,Grey,Mar,N,M
+1325,1961,Unprovoked,south africa,"Spearfishing, shark grabbed his white t-shirt and towed him ",27,Unspecified,Feb,N,M
+1326,1961,Unprovoked,south africa,Swimming,14,Unspecified,Feb,Y,M
+1327,1961,Unprovoked,south africa,Swimming,15,White,Jan,N,M
+1328,1961,Provoked,australia,Collecting aquarium specimens,27,Unspecified,Jan,N,M
+1329,1961,Unprovoked,south africa,Standing,13,White,Jan,N,M
+1330,1960,Unprovoked,south africa,Swimming,25,White,Dec,Y,M
+1331,1960,Unprovoked,australia,"Fishing, when line became snagged on rock & he dived into water to free it ",33,Grey,Dec,,M
+1332,1960,Unprovoked,australia,Swimming,41,Unspecified,Nov,,M
+1333,1960,Provoked,usa,Holding shark on leader & dangling it above the water,15,Lemon,Aug,N,M
+1334,1960,Provoked,usa,"Fishing, tossing netted shark onboard",41,Unspecified,Jul,N,M
+1335,1960,Unprovoked,usa,Scuba diving,39,Unspecified,Jun,N,M
+1336,1960,Unprovoked,bermuda,Free diving but treading water at surface,25,Unspecified,May,N,M
+1337,1960,Unprovoked,usa,Swimming ,16,White,May,N,F
+1338,1960,Unprovoked,south africa,Treading water,16,White,Apr,N,M
+1339,1960,Unprovoked,usa,Skindiving for abalone (but at surface),48,White,Apr,N,M
+1340,1960,Invalid,bermuda,Floating on a raft,21,Unspecified,Apr,,M
+1341,1960,Unprovoked,australia,Surfing,17,White,Apr,N,M
+1342,1960,Unprovoked,usa,Treading water,42,Unspecified,Mar,N,M
+1343,1960,Unprovoked,australia,"Wading, fishing for flounder",30,Unspecified,Feb,N,M
+1344,1960,Invalid,usa,Spearfishing,36,Unspecified,Feb,,M
+1345,1960,Unprovoked,australia,Free diving,13,Bull,Jan,Y,M
+1346,1959,Unprovoked,australia,Body surfing,19,Unspecified,Nov,N,M
+1347,1959,Unprovoked,australia,Standing in chest-deep water,17,Unspecified,Nov,N,M
+1348,1959,Unprovoked,australia,Trailing the field in a surf race,19,Unspecified,Nov,N,M
+1349,1959,Unprovoked,usa,Swimming at surface through school of feeding 2.5' to 5 sharks,21,Unspecified,Nov,N,M
+1350,1959,Unprovoked,usa,Diving for abalone,30,White,Oct,N,M
+1351,1959,Unprovoked,fiji,Spearfishing,36,Tiger,Oct,N,M
+1352,1959,Sea Disaster,usa,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",30,Unspecified,Sep,N,M
+1353,1959,Invalid,philippines,The 240-ton motor vessel Pilar II with 100 people on board capsized in high winds & rough seas,10,Unspecified,Aug,,M
+1354,1959,Unprovoked,japan,Swimming,13,Unspecified,Aug,Y,M
+1355,1959,Unprovoked,usa,Spearfishing (but on surface),25,Unspecified,Jul,N,M
+1356,1959,Unprovoked,usa,Free diving for abalone,33,White,Jun,Y,M
+1357,1959,Unprovoked,usa,Treading water,18,White,May,Y,M
+1358,1959,Unprovoked,usa,Spearfishing,19,Tiger,May,N,M
+1359,1959,Unprovoked,south africa,Treading water,14,Unspecified,Feb,N,M
+1360,1959,Unprovoked,australia,Working prawn net,20,Grey,Jan,N,M
+1361,1959,Unprovoked,australia,In deep water about 100 yards from his ship,22,Unspecified,Jan,Y,M
+1362,1959,Unprovoked,australia,"Surfing, but treading water",17,Unspecified,Jan,N,M
+1363,1959,Unprovoked,south africa,Swimming,18,White,Jan,N,M
+1364,1958,Unprovoked,usa,Surfing on air mattress,15,Tiger,Dec,Y,M
+1365,1958,Unprovoked,american samoa,Cleaning hull of ship ,22,Tiger,Dec,Y,M
+1366,1958,Unprovoked,australia,Swimming,21,Unspecified,Nov,Y,M
+1367,1958,Unprovoked,bahamas,Fishing,42,Unspecified,Sep,N,M
+1368,1958,Unprovoked,usa,"Swimming, ducking for shells in water 0.9 m deep",12,Tiger,Jul,N,M
+1369,1958,Unprovoked,usa,"Swimming, ducking for shells in water 0.9 m deep",8,Tiger,Jul,N,M
+1370,1958,Sea Disaster,pacific ocean,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,31,Unspecified,Jul,N,M
+1371,1958,Provoked,usa,Free diving,20,Unspecified,Jul,N,M
+1372,1958,Unprovoked,bahamas,"Spearfishing, had fish on his spear",36,Tiger,Jul,N,M
+1373,1958,Provoked,usa,Wading,59,Unspecified,Jun,N,M
+1374,1958,Unprovoked,usa,Walking,17,Tiger,Jun,N,M
+1375,1958,Unprovoked,taiwan,Diving,29,Unspecified,Apr,N,M
+1376,1958,Unprovoked,south africa,Paddling in knee-deep water,28,Unspecified,Apr,Y,F
+1377,1958,Unprovoked,south africa,Swimming with goggles,29,Unspecified,Apr,Y,M
+1378,1958,Unprovoked,australia,Body surfing,14,Unspecified,Jan,N,M
+1379,1957,Unprovoked,south africa,Standing,14,Unspecified,Dec,N,F
+1380,1957,Unprovoked,south africa,Floating,23,Unspecified,Dec,Y,M
+1381,1957,Unprovoked,usa,Swimming,57,White,Jul,Y,M
+1382,1957,Unprovoked,australia,Competing in spearfishing championship & towing dead fish,28,Unspecified,May,N,M
+1383,1957,Unprovoked,usa,Swimming,25,White,Apr,Y,M
+1384,1957,Provoked,usa,Standing,17,Unspecified,Apr,N,M
+1385,1957,Unprovoked,australia,Swimming between  anchored  pearling luggers,22,Unspecified,Apr,N,M
+1386,1956,Unprovoked,papua new guinea,Spearfishing,19,Tiger,Dec,Y,M
+1387,1956,Unprovoked,senegal,"Skindiving, fish at belt",19,Lemon,Oct,N,M
+1388,1956,Unprovoked,usa,Swimming near pier,10,White,Aug,N,M
+1389,1956,Unprovoked,australia,"Swimming, attacked at  surf carnival",26,Unspecified,Mar,Y,M
+1390,1956,Unprovoked,australia,Diving into water,15,Unspecified,Feb,Y,M
+1391,1955,Unprovoked,papua new guinea,Swimming,8,Unspecified,Nov,N,M
+1392,1955,Unprovoked,american samoa,Swimming,28,Unspecified,Aug,Y,M
+1393,1955,Unprovoked,usa,Spearfishing,19,White,Feb,N,M
+1394,1955,Unprovoked,australia,Swimming,25,White,Feb,Y,M
+1395,1955,Unprovoked,australia,Hunting lobsters in 2.4 m of water,13,Unspecified,Jan,Y,M
+1396,1954,Unprovoked,australia,Pearl diving from lugger Whyalla,30,Unspecified,Jun,N,M
+1397,1954,Unprovoked,argentina,Floating,18,White,Jan,N,M
+1398,1954,Unprovoked,papua new guinea,Crouching in the water,26,Unspecified,Jan,N,M
+1399,1953,Invalid,mexico,Free diving,19,Unspecified,Aug,,M
+1400,1953,Unprovoked,usa,Spearfishing,15,Unspecified,Jul,Y,M
+1401,1953,Unprovoked,australia,Spearfishing,25,Unspecified,Feb,N,M
+1402,1952,Unprovoked,australia,"Fishing, setting nets",25,Unspecified,Dec,N,M
+1403,1952,Unprovoked,usa,Body surfing & treading water,17,White,Dec,Y,M
+1404,1951,Unprovoked,australia,Treading water,21,Unspecified,Dec,Y,M
+1405,1951,Unprovoked,south africa,Swimming,23,White,Nov,N,M
+1406,1951,Unprovoked,south africa,Treading water,24,White,Nov,N,M
+1407,1951,Provoked,australia,Fell off surf ski,23,Unspecified,Mar,N,M
+1408,1951,Unprovoked,south africa,Body surfing,31,Unspecified,Feb,N,M
+1409,1950,Unprovoked,australia,Body surfing,21,White,Nov,N,M
+1410,1950,Unprovoked,usa,Body surfing / treading water,31,White,Oct,N,M
+1411,1950,Unprovoked,australia,Fishing,25,Unspecified,Oct,N,M
+1412,1950,Provoked,el salvador,Jerked overboard while pole fishing for tuna,27,Unspecified,Aug,N,M
+1413,1950,Unprovoked,south africa,Body surfing,14,White,Feb,Y,M
+1414,1950,Unprovoked,indonesia,Bending over,7,Tiger,,Y,M
+1415,1949,Unprovoked,australia,Free diving or wading back to shore,36,Unspecified,Nov,N,M
+1416,1949,Unprovoked,australia,Bathing in water 0.9 m deep,13,Unspecified,Apr,Y,M
+1417,1949,Unprovoked,australia,Lifesaving exhibition,20,White,Jan,Y,M
+1418,1949,Invalid,australia,Surfing,32,Unspecified,Jan,,M
+1419,1948,Unprovoked,greece,Swimming,17,Unspecified,Sep,Y,M
+1420,1948,Provoked,usa,Underwater photography,48,Unspecified,,N,M
+1421,1947,Unprovoked,australia,Fishing,9,Grey,Dec,N,M
+1422,1947,Unprovoked,usa,Swimming,20,Unspecified,Aug,Y,M
+1423,1947,Unprovoked,south africa,Treading water,21,Unspecified,Apr,N,M
+1424,1947,Unprovoked,south africa,Treading water,22,Unspecified,Mar,N,M
+1425,1947,Unprovoked,south africa,Treading water,18,Unspecified,Jan,N,M
+1426,1946,Unprovoked,australia,Swimming after a tennis ball,30,Unspecified,Aug,Y,M
+1427,1946,Unprovoked,australia,Standing,18,White,Feb,N,M
+1428,1946,Unprovoked,south africa,Jumping in swells,18,Unspecified,Jan,N,M
+1429,1945,Unprovoked,south africa,Walking,37,Unspecified,Mar,N,M
+1430,1945,Unprovoked,iraq,Swimming,15,Bull,,N,M
+1431,1944,Unprovoked,south africa,Swimming,17,White,Jul,Y,M
+1432,1943,Unprovoked,panama,Dived overboard to check propeller of US Navy motor torpedo boat,20,White,Sep,Y,M
+1433,1943,Invalid,mexico,Swimming,68,Unspecified,Jul,,M
+1434,1942,Unprovoked,australia,Dog paddling or standing,15,Bull,Dec,Y,F
+1435,1942,Unprovoked,south africa,Swimming ,18,White,Nov,Y,M
+1436,1942,Unprovoked,australia,Treading water,24,Tiger,Sep,N,M
+1437,1942,Unprovoked,australia,Swimming,28,Bull,Jan,Y,F
+1438,1942,Unprovoked,bahamas,Swimming along side N.E.L. vessel Saluda,48,Unspecified,,N,M
+1439,1941,Provoked,usa,Fishing from 32' boat,43,Unspecified,Jun,N,M
+1440,1941,Provoked,usa,Fishing,53,Unspecified,Mar,N,M
+1441,1940,Unprovoked,south africa,Treading water,25,White,Mar,Y,M
+1442,1940,Unprovoked,south africa,Swimming,17,White,Feb,Y,M
+1443,1940,Unprovoked,australia,Swimming,13,Unspecified,Jan,Y,M
+1444,1940,Unprovoked,south africa,Swimming ,18,Unspecified,Jan,Y,M
+1445,1939,Unprovoked,australia,Swimming ,20,Unspecified,Dec,Y,M
+1446,1939,Provoked,bahamas,"Dress diving, filming shark & pulling it through the water for a motion picture scene",38,Unspecified,Jul,N,M
+1447,1938,Provoked,australia,Fishing,18,Tiger,Oct,N,M
+1448,1938,Unprovoked,iraq,"Swimming, naked",9,Bull,May,N,M
+1449,1938,Invalid,australia,Diving off jetty,24,Unspecified,Jan,,M
+1450,1937,Unprovoked,australia,Swimming ,25,Tiger,Oct,Y,M
+1451,1937,Unprovoked,australia,Swimming ,18,Tiger,Oct,Y,M
+1452,1937,Unprovoked,australia,"Diving from the lugger San, operated by the Protector of the Aborigines",38,Tiger,Aug,N,M
+1453,1937,Unprovoked,australia,"Refused permission to cross on the ferry, he was swimming across the river",33,Unspecified,May,Y,M
+1454,1937,Unprovoked,australia,Swimming,32,White,Feb,Y,M
+1455,1936,Unprovoked,usa,Swimming crawl stroke,16,White,Jul,Y,M
+1456,1936,Unprovoked,australia,Diving for trochus,16,Tiger,Apr,N,M
+1457,1936,Unprovoked,australia,Swimming,14,White,Feb,Y,M
+1458,1936,Unprovoked,australia,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",13,White,Jan,Y,M
+1459,1935,Unprovoked,australia,"Fell overboard, hanging onto lifebuoy",38,Unspecified,Aug,Y,M
+1460,1935,Unprovoked,australia,Swimming,27,White,Mar,Y,M
+1461,1935,Unprovoked,australia,Standing,22,White,Mar,Y,M
+1462,1934,Unprovoked,australia,Splashing,13,Tiger,Dec,N,F
+1463,1934,Unprovoked,australia,Swimming in waist-deep water ,15,Unspecified,Apr,Y,M
+1464,1934,Unprovoked,australia,Swimming in hip-deep water,17,Unspecified,Mar,Y,M
+1465,1934,Unprovoked,australia,Swimming on sandbar adjacent to channel,22,Unspecified,Jan,N,M
+1466,1932,Unprovoked,australia,Swimming,24,Grey,Oct,N,M
+1467,1932,Unprovoked,south africa,Collecting fish by lamplight in gully,23,Unspecified,,N,M
+1468,1931,Invalid,australia,Swimming ,39,Unspecified,Feb,,M
+1469,1931,Unprovoked,australia,Swimming,18,Unspecified,Jan,N,M
+1470,1930,Unprovoked,australia,Diving off pier & treading water,18,White,Feb,Y,M
+1471,1930,Unprovoked,south africa,Swimming,23,White,Jan,N,M
+1472,1929,Provoked,australia,Standing in knee-deep water,19,Grey,Apr,N,M
+1473,1929,Unprovoked,australia,Swimming,39,Unspecified,Feb,Y,M
+1474,1929,Unprovoked,australia,Body surfing,14,Unspecified,Jan,Y,M
+1475,1928,Unprovoked,panama,Swimming,17,Unspecified,Nov,Y,M
+1476,1928,Unprovoked,australia,Bathing,15,Unspecified,Apr,N,M
+1477,1928,Unprovoked,south africa,Body surfing,18,Unspecified,Jan,N,M
+1478,1927,Unprovoked,south africa,Swimming,17,White,Dec,Y,M
+1479,1927,Unprovoked,australia,Body surfing / treading water,17,Grey,Mar,N,M
+1480,1927,Unprovoked,australia,Swimming,15,Unspecified,Jan,Y,M
+1481,1926,Unprovoked,australia,Bathing,17,Grey,Oct,N,M
+1482,1926,Unprovoked,italy,Swimming,20,White,Jul,Y,M
+1483,1926,Unprovoked,usa,Swimming with dog near canning factory,15,White,Jul,N,M
+1484,1925,Unprovoked,australia,Floating on his back,55,Tiger,Nov,Y,M
+1485,1925,Unprovoked,australia,Bathing in waist-deep water,16,Unspecified,Mar,N,M
+1486,1924,Unprovoked,australia,Had just dived into water & was swimming,16,Unspecified,Jan,Y,M
+1487,1922,Unprovoked,australia,Bathing in 3' to 4' of water,19,Unspecified,Dec,Y,M
+1488,1922,Unprovoked,jamaica,Swimming,19,Unspecified,,Y,M
+1489,1922,Unprovoked,south africa,Swimming,18,White,May,N,M
+1490,1922,Unprovoked,australia,Bathing in knee-deep water,21,White,Mar,Y,M
+1491,1922,Unprovoked,australia,Swimming,18,White,Feb,Y,M
+1492,1919,Unprovoked,australia,Wading,13,Unspecified,Jan,Y,M
+1493,1916,Unprovoked,usa,Swimming,24,White,Jul,Y,M
+1494,1912,Unprovoked,australia,Swimming,21,Unspecified,Jan,Y,M
+1495,1906,Unprovoked,south africa,Washing horses,30,Unspecified,Jan,Y,M
+1496,1905,Unprovoked,australia,Bathing,40,Unspecified,Mar,N,M
+1497,1901,Unprovoked,south africa,Swimming,29,White,Jul,Y,M
+1498,1894,Unprovoked,australia,Bathing,19,Unspecified,Nov,N,M
+1499,1892,Provoked,australia,Fishing,21,Unspecified,Mar,N,M
+1500,1880,Unprovoked,australia,Swimming,12,Bull,Nov,Y,M
+1501,1868,Unprovoked,india,Standing,35,Unspecified,May,Y,M
+1502,1800,Unprovoked,seychelles,a corsair's boat was overturned,,Unspecified,,Y,F
+1503,1797,Unprovoked,,Dropped overboard,,Unspecified,May,Y,
+1504,1792,Provoked,england,Fishing,,Unspecified,Sep,Y,M
+1505,1791,Unprovoked,australia,,,Unspecified,,Y,F
+1506,1788,Boat,australia,Fishing,,Unspecified,May,N,
+1507,1787,Unprovoked,,Swimming,,Unspecified,Jul,Y,M
+1508,1786,Unprovoked,barbados,Washing himself,,Unspecified,Aug,Y,M
+1509,1785,Unprovoked,england,,,Tiger,Sep,Y,M
+1510,1784,Unprovoked,jamaica,Swimming,,Unspecified,Dec,Y,M
+1511,1783,Sea Disaster,martinique,,,Unspecified,Mar,Y,M
+1512,1780,Unprovoked,usa,Swimming,,Unspecified,Aug,Y,M
+1513,1779,Unprovoked,usa,Surfing,,Unspecified,,Y,M
+1514,1776,Unprovoked,guinea,Murder,,Unspecified,,Y,M
+1515,1776,Boat,greenland,,,White,,Y,
+1516,1771,Unprovoked,usa,Fishing,,Unspecified,Jul,Y,M
+1517,1767,Invalid,france,Bathing,,Unspecified,,,M
+1518,1764,Unprovoked,spain,Swimming,,Unspecified,,Y,M
+1519,1758,Unprovoked,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,Unspecified,,N,M
+1520,1753,Unprovoked,jamaica,Fell overboard,,Unspecified,Oct,Y,M
+1521,1751,Unprovoked,usa,Swimming,,Unspecified,Jul,Y,M
+1522,1749,Unprovoked,cuba,Swimming,14,Unspecified,,N,M
+1523,1755,Unprovoked,sweden,,,Unspecified,,,M
+1524,1748,Unprovoked,panama,Pearl diving,,Unspecified,,Y,M
+1525,1742,Unprovoked,,Swimming,,Unspecified,Dec,Y,M
+1526,1738,Unprovoked,italy,Swimming,,Unspecified,Apr,Y,M
+1527,1733,Invalid,iceland,,,Unspecified,,,
+1528,1723,Unprovoked,roatan,,,Unspecified,,,M
+1529,1721,Unprovoked,italy,Swimming,,White,,Y,M
+1530,1703,Unprovoked,barbados,Swimming,19,Unspecified,Mar,N,M
+1531,1700,Unprovoked,france,,,Unspecified,,Y,M
+1532,1700,Unprovoked,france,Bathing,,White,,N,M
+1533,1700,Unprovoked,barbados,Bathing,,Unspecified,,Y,M
+1534,1642,Invalid,guinea,Went overboard,,Unspecified,,,M
+1535,1638,Unprovoked,,,,Unspecified,,,M
+1536,1637,Unprovoked,india,Wading,,Unspecified,,,
+1537,1617,Unprovoked,india,,,Unspecified,,,
+1538,1642,Unprovoked,usa,Swimming ,,Unspecified,,Y,M
+1539,1595,Unprovoked,india,Ship lay at anchor & man was working on its rudder,,Unspecified,,,M
+1540,1580,Unprovoked,between portugal & india,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,Unspecified,Jan,Y,M
+1541,1555,Unprovoked,,Swimming,,Unspecified,,,M
+1542,1554,Unprovoked,france,,,White,,,M
+1543,1543,Unprovoked,venezuela,Pearl diving,,Unspecified,,Y,M
+1544,500,Unprovoked,mexico,,,Unspecified,,N,M
+1545,77,Unprovoked,,Sponge diving,,Unspecified,,Y,M
+1546,5,Unprovoked,australia,,,Unspecified,,N,M
+1547,0,Unprovoked,,Ascending from a dive,,Unspecified,,Y,M
+1548,0,Unprovoked,greece,Washing his pig in preparation for a religious ceremony,,Unspecified,,Y,M
+1549,0,Sea Disaster,greece,Shipwrecked Persian Fleet,,Unspecified,,Y,M
+1550,0,Sea Disaster,italy,Shipwreck,,Unspecified,,Y,M
+1551,0,Unprovoked,canada,Fishing,,Unspecified,,N,M
+1552,0,Unprovoked,kenya,Diving,,Unspecified,,N,M
+1553,0,Unprovoked,kenya,Diving,,Unspecified,,Y,M
+1554,0,Unprovoked,panama,Swimming/,20,Unspecified,Oct,Y,M
+1555,0,Unprovoked,uruguay,Swimming,,Unspecified,,N,
+1556,0,Unprovoked,uruguay,Swimming,,Unspecified,,Y,M
+1557,0,Unprovoked,usa,Swimming,,Unspecified,,N,M
+1558,0,Unprovoked,papua new guinea,Swimming to canoe,,Unspecified,,Y,M
+1559,0,Unprovoked,australia,,15,Unspecified,,N,F
+1560,0,Unprovoked,australia,Fell into the water,,Unspecified,,Y,M
+1561,0,Unprovoked,usa,Diving,,Unspecified,,N,M
+1562,0,Unprovoked,bermuda,,,Unspecified,,Y,M
+1563,0,Unprovoked,greece,Swimming,,Unspecified,,Y,F
+1564,0,Unprovoked,usa,Fishing for basking sharks,,Unspecified,,Y,M
+1565,0,Provoked,india,,,Unspecified,,N,M
+1566,0,Unprovoked,lebanon,Collecting fish ,,Unspecified,,N,M
+1567,0,Unprovoked,spain,Skin diving,,Unspecified,,N,
+1568,0,Unprovoked,sudan,Snorkeling,,Unspecified,,N,F
+1569,0,Provoked,,,,Unspecified,,N,M
+1570,0,Unprovoked,usa,Shark tagging,21,Unspecified,,N,F
+1571,0,Unprovoked,usa,Surfing,,Unspecified,,N,M
+1572,0,Unprovoked,djibouti,A dhow capsized,,Unspecified,,Y,
+1573,0,Unprovoked,libya,Sponge diving,,Unspecified,,Y,M
+1574,0,Unprovoked,australia,Net-fishing,,Unspecified,,N,M
+1575,0,Unprovoked,new zealand,,,Unspecified,Jun,Y,M
+1576,0,Unprovoked,,Netting shrimp,,Unspecified,,N,F
+1577,0,Unprovoked,vietnam,Bathing,,Unspecified,,N,M
+1578,0,Unprovoked,sri lanka,Fishing?,,Unspecified,,N,M
+1579,0,Unprovoked,venezuela,Spearfishing ,,Unspecified,,Y,M
+1580,0,Unprovoked,usa,Wade-fishing,,Unspecified,,N,M
+1581,0,Unprovoked,greece,Free diving for sponges,,Unspecified,,Y,M
+1582,0,Boat,mozambique,Fishing,,Unspecified,,N,
+1583,0,Unprovoked,south africa,Swimming,,Unspecified,,Y,M
+1584,0,Unprovoked,australia,Helmet diving,,Tiger,,N,M
+1585,0,Unprovoked,bahrein,Pearl diving,,Tiger,,Y,M
+1586,0,Unprovoked,bahamas,Spearfishing ,,Unspecified,,N,M
+1587,0,Unprovoked,usa,Kitesurfing,,Unspecified,,N,M
+1588,0,Unprovoked,reunion,yachtsman in a zodiac,,Unspecified,,N,M
+1589,0,Unprovoked,solomon islands,Diving,,Unspecified,Feb,N,M
+1590,0,Unprovoked,korea,Diving,,Unspecified,May,Y,F
+1591,0,Unprovoked,french polynesia,Fishing,,Unspecified,Mar,N,M
+1592,0,Unprovoked,sudan,Diving,,Unspecified,,N,M
+1593,0,Unprovoked,vanuatu,,,Unspecified,Aug,Y,F
+1594,0,Provoked,vanuatu,Attempting to drive shark from area,,Unspecified,Aug,N,M
+1595,0,Unprovoked,iran,,,Bull,,N,M
+1596,0,Provoked,usa,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19,Unspecified,,N,M
+1597,0,Invalid,papua new guinea,Scuba diving,,Unspecified,,Y,M
+1598,0,Unprovoked,red sea?,Free diving,,Unspecified,,N,F
+1599,0,Unprovoked,south africa,Crossing river on a raft,,Unspecified,Jan,Y,M
+1600,0,Unprovoked,usa,"Free diving, collecting sand dollars",,Unspecified,,N,M
+1601,0,Unprovoked,greece,Swimming,,Unspecified,May,Y,F
+1602,0,Invalid,usa,Diving,,Unspecified,,,M
+1603,0,Unprovoked,usa,Canoeing,,Unspecified,,Y,M
+1604,0,Unprovoked,mediterranean sea,,,Unspecified,,Y,M
+1605,0,Unprovoked,australia,Diving for trochus,,Unspecified,,N,M
+1606,0,Unprovoked,australia,Pearl diving,,Unspecified,,N,M
+1607,0,Unprovoked,singapore,Swimming,,Unspecified,,N,
+1608,0,Unprovoked,fiji,Spearfishing ,27,Unspecified,,N,M
+1609,0,Unprovoked,mozambique,Skindiving,36,Unspecified,,N,M
+1610,0,Unprovoked,seychelles,Swimming from capsized pirogue,,Tiger,,Y,M
+1611,0,Unprovoked,iraq,Fishing from a small boat & put his hand in the water while holding a dead fish,25,Unspecified,,N,M
+1612,0,Unprovoked,iraq,Swimming naked near a date palm where many dates fell into the water,6,Bull,,N,M
+1613,0,Unprovoked,iraq,Swimming in section of river used for washing clothes & cooking utensils,16,Bull,,N,M
+1614,0,Unprovoked,bahamas,,,White,,N,M
+1615,0,Unprovoked,usa,,,White,Jun,N,F
+1616,0,Unprovoked,bermuda,Spearfishing ,,Unspecified,Apr,N,M
+1617,0,Unprovoked,fiji,Swimming with fish attached to  belt,,Unspecified,,N,F
+1618,0,Unprovoked,madagascar,Bathing,,Unspecified,,Y,M
+1619,0,Unprovoked,usa,Standing,,Unspecified,,N,M
+1620,0,Provoked,bahamas,Testing movie camera in full diving dress,,Unspecified,,N,M
+1621,0,Unprovoked,indonesia,Swimming near anchored ship,,Unspecified,,Y,M
+1622,0,Unprovoked,india,,,Unspecified,,Y,M
+1623,0,Unprovoked,nicaragua,Lashing logs together when he fell into the water,,Bull,,Y,M
+1624,0,Provoked,cuba,"Shark fishing, knocked overboard",50,Unspecified,,Y,M
+1625,0,Unprovoked,marshall islands,Swimming,,Unspecified,,N,M
+1626,0,Unprovoked,kiribati,Diving,,Unspecified,,N,M
+1627,0,Unprovoked,north pacific ocean,"Fishing, wading with string of fish",,Unspecified,Mar,N,M
+1628,0,Unprovoked,kiribati,,,Unspecified,,Y,M
+1629,0,Sea Disaster,,A group of survivors on a raft for 17-days,,Unspecified,,Y,
+1630,0,Unprovoked,solomon islands,Floating on his back,,Unspecified,,N,M
+1631,0,Unprovoked,australia,Free diving,,Unspecified,,N,M
+1632,0,Unprovoked,iran,Fishing in ankle-deep water,,Unspecified,,Y,M
+1633,0,Unprovoked,iran,,,Unspecified,,Y,M
+1634,0,Unprovoked,iran,"Standing, washing rear wheels of his ambulance in ankle-deep water",,Unspecified,,Y,M
+1635,0,Unprovoked,iraq,Swimming,13,Bull,,Y,M
+1636,0,Unprovoked,saudi arabia,Diving,,Unspecified,,Y,M
+1637,0,Unprovoked,saudi arabia,Diving,,Unspecified,,N,M
+1638,0,Unprovoked,saudi arabia,Diving,,Unspecified,,N,M
+1639,0,Sea Disaster,pacific ocean,,,Unspecified,,Y,M
+1640,0,Provoked,burma,Carrying a supposedly dead shark by its mouth,,Unspecified,,N,M
+1641,0,Sea Disaster,papua new guinea,Spent 8 days in dinghy,,Unspecified,,N,M
+1642,0,Sea Disaster,papua new guinea,"Aircraft ditched in the sea, swimming ashore",,Unspecified,,N,M
+1643,0,Unprovoked,burma,Bathing,,Unspecified,,Y,M
+1644,0,Boat,italy,Wooden fishing boat,,White,,N,M
+1645,0,Unprovoked,greece,Sponge diving,,Unspecified,,N,M
+1646,0,Unprovoked,belize,Standing,16,Tiger,,Y,M
+1647,0,Unprovoked,australia,,,Unspecified,,,M
+1648,0,Unprovoked,reunion,Swimming,,Unspecified,,Y,
+1649,0,Unprovoked,south africa,Wading,,Unspecified,,N,F
+1651,0,Unprovoked,south africa,Swimming in pool formed by construction of a wharf,,Unspecified,,Y,M
+1652,0,Unprovoked,australia,,,Unspecified,,Y,M
+1653,0,Unprovoked,usa,Fishing,,Unspecified,,N,M
+1654,0,Unprovoked,vietnam,Swimming around anchored ship,,Unspecified,,N,M
+1655,0,Unprovoked,south africa,Crew swimming alongside their anchored ship,,Unspecified,,Y,M
+1656,0,Unprovoked,south africa,4 men were bathing,,Unspecified,,Y,M
+1657,0,Unprovoked,fiji,Wreck of  large double sailing canoe,,Unspecified,,Y,
+1658,0,Unprovoked,usa,Swimming,,Unspecified,Jul,N,M
+1659,0,Unprovoked,south africa,Fishing,,Unspecified,Jul,Y,M
+1660,0,Unprovoked,south africa,Wading,,Unspecified,Jul,Y,M
+1661,0,Unprovoked,asia?,Swimming,,Unspecified,,N,M
+1662,0,Unprovoked,usa,,,Unspecified,,N,F
+1663,0,Unprovoked,australia,Fishing,,Unspecified,,Y,M
+1665,0,Unprovoked,australia,Fishing,,Unspecified,,Y,M
+1666,0,Unprovoked,australia,Swimming,,Grey,,Y,M
+1667,0,Unprovoked,australia,Diving,,Unspecified,,Y,M
+1668,0,Unprovoked,australia,Pearl diving,,Unspecified,,Y,M
+1669,0,Unprovoked,usa,Swimming,,Unspecified,,Y,M
+1670,0,Unprovoked,panama,,,Unspecified,,Y,M
+1671,0,Unprovoked,ceylon (sri lanka),Swimming,15,Unspecified,,Y,M
