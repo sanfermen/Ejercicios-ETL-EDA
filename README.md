@@ -15,6 +15,7 @@
     05.Valores Nulos Sklearn
     
 **3.ETL** :
+
     01. Extracción - API´s
     02. Trasformación I - Limpieza I
     03. Transformación II - Clases y Funciones de limpieza
@@ -36,7 +37,10 @@ ast
 requests
 sidetable
 seaborn
-matplotlib.pyplot 
+matplotlib.pyplot
+mysql.connector
+sklearn.impute
+sklearn.experimental
 ```
 
 
